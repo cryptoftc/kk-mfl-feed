@@ -1,0 +1,6048 @@
+{
+ "encoding": "utf-8",
+ "transactions": {
+  "transaction": [
+   {
+    "activated": "",
+    "deactivated": "17498,",
+    "franchise": "0004",
+    "timestamp": "1788171341",
+    "type": "IR"
+   },
+   {
+    "demoted": "17506,",
+    "franchise": "0004",
+    "promoted": "17063,",
+    "timestamp": "1788120975",
+    "type": "TAXI"
+   },
+   {
+    "activated": "17506,",
+    "deactivated": "",
+    "franchise": "0004",
+    "timestamp": "1788120848",
+    "type": "IR"
+   },
+   {
+    "demoted": "17706,",
+    "franchise": "0004",
+    "promoted": "",
+    "timestamp": "1788120836",
+    "type": "TAXI"
+   },
+   {
+    "franchise": "0004",
+    "timestamp": "1788120800",
+    "transaction": "|17088,",
+    "type": "FREE_AGENT"
+   },
+   {
+    "activated": "",
+    "deactivated": "15777,",
+    "franchise": "0010",
+    "timestamp": "1787944660",
+    "type": "IR"
+   },
+   {
+    "franchise": "0007",
+    "timestamp": "1787749200",
+    "transaction": "15240,|0.00|17470,",
+    "type": "BBID_WAIVER"
+   },
+   {
+    "franchise": "0010",
+    "timestamp": "1787749200",
+    "transaction": "15252,|0.00|",
+    "type": "BBID_WAIVER"
+   },
+   {
+    "franchise": "0006",
+    "timestamp": "1787749200",
+    "transaction": "17541,|0.00|16621,",
+    "type": "BBID_WAIVER"
+   },
+   {
+    "franchise": "",
+    "timestamp": "1787749200",
+    "transaction": "",
+    "type": "BBID_AUTO_PROCESS_WAIVERS"
+   },
+   {
+    "franchise": "0007",
+    "timestamp": "1787564023",
+    "transaction": "|15727,",
+    "type": "FREE_AGENT"
+   },
+   {
+    "franchise": "0004",
+    "timestamp": "1787405115",
+    "transaction": "|16957,",
+    "type": "FREE_AGENT"
+   },
+   {
+    "activated": "16222,",
+    "deactivated": "",
+    "franchise": "0004",
+    "timestamp": "1787405030",
+    "type": "IR"
+   },
+   {
+    "activated": "",
+    "deactivated": "17083,",
+    "franchise": "0004",
+    "timestamp": "1787405010",
+    "type": "IR"
+   },
+   {
+    "demoted": "17542,",
+    "franchise": "0006",
+    "promoted": "17032,",
+    "timestamp": "1787238902",
+    "type": "TAXI"
+   },
+   {
+    "demoted": "17491,",
+    "franchise": "0010",
+    "promoted": "",
+    "timestamp": "1787147599",
+    "type": "TAXI"
+   },
+   {
+    "franchise": "0006",
+    "timestamp": "1787144400",
+    "transaction": "17542,|0.00|",
+    "type": "BBID_WAIVER"
+   },
+   {
+    "franchise": "0010",
+    "timestamp": "1787144400",
+    "transaction": "17491,|2.00|14858,",
+    "type": "BBID_WAIVER"
+   },
+   {
+    "franchise": "0007",
+    "timestamp": "1787144400",
+    "transaction": "15254,|3.00|15239,",
+    "type": "BBID_WAIVER"
+   },
+   {
+    "franchise": "",
+    "timestamp": "1787144400",
+    "transaction": "",
+    "type": "BBID_AUTO_PROCESS_WAIVERS"
+   },
+   {
+    "activated": "16387,",
+    "deactivated": "16957,",
+    "franchise": "0004",
+    "timestamp": "1786792204",
+    "type": "IR"
+   },
+   {
+    "franchise": "0001",
+    "timestamp": "1786397654",
+    "transaction": "|11640,",
+    "type": "FREE_AGENT"
+   },
+   {
+    "demoted": "17032,",
+    "franchise": "0006",
+    "promoted": "",
+    "timestamp": "1786239566",
+    "type": "TAXI"
+   },
+   {
+    "franchise": "0006",
+    "timestamp": "1785934800",
+    "transaction": "12785,|0.00|",
+    "type": "BBID_WAIVER"
+   },
+   {
+    "franchise": "0004",
+    "timestamp": "1785934800",
+    "transaction": "16957,|0.00|",
+    "type": "BBID_WAIVER"
+   },
+   {
+    "franchise": "",
+    "timestamp": "1785934800",
+    "transaction": "",
+    "type": "BBID_AUTO_PROCESS_WAIVERS"
+   },
+   {
+    "activated": "",
+    "deactivated": "16622,",
+    "franchise": "0006",
+    "timestamp": "1785702919",
+    "type": "IR"
+   },
+   {
+    "franchise": "0006",
+    "timestamp": "1785702853",
+    "transaction": "|16631,",
+    "type": "FREE_AGENT"
+   },
+   {
+    "activated": "",
+    "deactivated": "16387,",
+    "franchise": "0004",
+    "timestamp": "1785335540",
+    "type": "IR"
+   },
+   {
+    "franchise": "0010",
+    "timestamp": "1785330000",
+    "transaction": "14858,|0.00|",
+    "type": "BBID_WAIVER"
+   },
+   {
+    "franchise": "0006",
+    "timestamp": "1785330000",
+    "transaction": "16621,|0.00|16632,",
+    "type": "BBID_WAIVER"
+   },
+   {
+    "franchise": "0004",
+    "timestamp": "1785330000",
+    "transaction": "16387,|0.00|",
+    "type": "BBID_WAIVER"
+   },
+   {
+    "franchise": "",
+    "timestamp": "1785330000",
+    "transaction": "",
+    "type": "BBID_AUTO_PROCESS_WAIVERS"
+   },
+   {
+    "activated": "",
+    "deactivated": "16222,",
+    "franchise": "0004",
+    "timestamp": "1785251132",
+    "type": "IR"
+   },
+   {
+    "expires": "1785675600",
+    "franchise": "0001",
+    "franchise1_gave_up": "FP_0009_2027_2,",
+    "franchise2": "0010",
+    "franchise2_gave_up": "16192,",
+    "timestamp": "1785075442",
+    "type": "TRADE"
+   },
+   {
+    "franchise": "0004",
+    "timestamp": "1784725200",
+    "transaction": "17706,|0.00|",
+    "type": "BBID_WAIVER"
+   },
+   {
+    "franchise": "",
+    "timestamp": "1784725200",
+    "transaction": "",
+    "type": "BBID_AUTO_PROCESS_WAIVERS"
+   },
+   {
+    "activated": "",
+    "deactivated": "17506,",
+    "franchise": "0004",
+    "timestamp": "1784672100",
+    "type": "IR"
+   },
+   {
+    "demoted": "17088,",
+    "franchise": "0004",
+    "promoted": "17506,",
+    "timestamp": "1784672087",
+    "type": "TAXI"
+   },
+   {
+    "demoted": "17605,",
+    "franchise": "0006",
+    "promoted": "16632,",
+    "timestamp": "1784300157",
+    "type": "TAXI"
+   },
+   {
+    "franchise": "0006",
+    "timestamp": "1784120400",
+    "transaction": "17605,|0.00|17036,",
+    "type": "BBID_WAIVER"
+   },
+   {
+    "franchise": "",
+    "timestamp": "1784120400",
+    "transaction": "",
+    "type": "BBID_AUTO_PROCESS_WAIVERS"
+   },
+   {
+    "demoted": "17523,",
+    "franchise": "0006",
+    "promoted": "17036,",
+    "timestamp": "1783643056",
+    "type": "TAXI"
+   },
+   {
+    "franchise": "0006",
+    "timestamp": "1783515600",
+    "transaction": "17523,|0.00|",
+    "type": "BBID_WAIVER"
+   },
+   {
+    "franchise": "0001",
+    "timestamp": "1783515600",
+    "transaction": "16221,|0.00|11644,",
+    "type": "BBID_WAIVER"
+   },
+   {
+    "franchise": "",
+    "timestamp": "1783515600",
+    "transaction": "",
+    "type": "BBID_AUTO_PROCESS_WAIVERS"
+   },
+   {
+    "franchise": "0010",
+    "timestamp": "1782910800",
+    "transaction": "13143,|0.00|16221,",
+    "type": "BBID_WAIVER"
+   },
+   {
+    "franchise": "",
+    "timestamp": "1782910800",
+    "transaction": "",
+    "type": "BBID_AUTO_PROCESS_WAIVERS"
+   },
+   {
+    "demoted": "17627,",
+    "franchise": "0006",
+    "promoted": "",
+    "timestamp": "1782316177",
+    "type": "TAXI"
+   },
+   {
+    "franchise": "0006",
+    "timestamp": "1782314473",
+    "transaction": "|17282,",
+    "type": "FREE_AGENT"
+   },
+   {
+    "franchise": "0006",
+    "timestamp": "1782306000",
+    "transaction": "17627,|0.00|",
+    "type": "BBID_WAIVER"
+   },
+   {
+    "franchise": "0012",
+    "timestamp": "1782306000",
+    "transaction": "13418,|0.00|",
+    "type": "BBID_WAIVER"
+   },
+   {
+    "franchise": "0012",
+    "timestamp": "1782306000",
+    "transaction": "13289,|0.00|",
+    "type": "BBID_WAIVER"
+   },
+   {
+    "franchise": "0012",
+    "timestamp": "1782306000",
+    "transaction": "15981,|0.00|",
+    "type": "BBID_WAIVER"
+   },
+   {
+    "franchise": "0002",
+    "timestamp": "1782306000",
+    "transaction": "17591,|0.00|",
+    "type": "BBID_WAIVER"
+   },
+   {
+    "franchise": "0002",
+    "timestamp": "1782306000",
+    "transaction": "17487,|0.00|",
+    "type": "BBID_WAIVER"
+   },
+   {
+    "franchise": "0002",
+    "timestamp": "1782306000",
+    "transaction": "17518,|0.00|",
+    "type": "BBID_WAIVER"
+   },
+   {
+    "franchise": "0002",
+    "timestamp": "1782306000",
+    "transaction": "17467,|0.00|",
+    "type": "BBID_WAIVER"
+   },
+   {
+    "franchise": "0002",
+    "timestamp": "1782306000",
+    "transaction": "17593,|0.00|",
+    "type": "BBID_WAIVER"
+   },
+   {
+    "franchise": "",
+    "timestamp": "1782306000",
+    "transaction": "",
+    "type": "BBID_AUTO_PROCESS_WAIVERS"
+   },
+   {
+    "franchise": "0006",
+    "timestamp": "1782242460",
+    "transaction": "|13131,",
+    "type": "FREE_AGENT"
+   },
+   {
+    "activated": "13131,",
+    "deactivated": "",
+    "franchise": "0006",
+    "timestamp": "1782090288",
+    "type": "IR"
+   },
+   {
+    "franchise": "0006",
+    "timestamp": "1782090278",
+    "transaction": "|13675,",
+    "type": "FREE_AGENT"
+   },
+   {
+    "activated": "14835,",
+    "deactivated": "",
+    "franchise": "0006",
+    "timestamp": "1782090117",
+    "type": "IR"
+   },
+   {
+    "demoted": "",
+    "franchise": "0010",
+    "promoted": "16639,",
+    "timestamp": "1782066480",
+    "type": "TAXI"
+   },
+   {
+    "activated": "12678,",
+    "deactivated": "",
+    "franchise": "0010",
+    "timestamp": "1782066450",
+    "type": "IR"
+   },
+   {
+    "expires": "1782432000",
+    "franchise": "0010",
+    "franchise1_gave_up": "15256,",
+    "franchise2": "0006",
+    "franchise2_gave_up": "FP_0006_2028_2,FP_0006_2029_2,",
+    "timestamp": "1782055565",
+    "type": "TRADE"
+   },
+   {
+    "demoted": "17548,",
+    "franchise": "0001",
+    "promoted": "17061,",
+    "timestamp": "1781731496",
+    "type": "TAXI"
+   },
+   {
+    "demoted": "17475,17528,",
+    "franchise": "0006",
+    "promoted": "",
+    "timestamp": "1781704067",
+    "type": "TAXI"
+   },
+   {
+    "demoted": "17483,17046,17599,17519,",
+    "franchise": "0012",
+    "promoted": "",
+    "timestamp": "1781704013",
+    "type": "TAXI"
+   },
+   {
+    "franchise": "0002",
+    "timestamp": "1781702802",
+    "transaction": "|17213,",
+    "type": "FREE_AGENT"
+   },
+   {
+    "franchise": "0002",
+    "timestamp": "1781702362",
+    "transaction": "|15334,",
+    "type": "FREE_AGENT"
+   },
+   {
+    "franchise": "0002",
+    "timestamp": "1781702203",
+    "transaction": "|15263,16640,16625,",
+    "type": "FREE_AGENT"
+   },
+   {
+    "activated": "16581,13146,13404,15713,16640,16625,11247,",
+    "deactivated": "",
+    "franchise": "0002",
+    "timestamp": "1781701834",
+    "type": "IR"
+   },
+   {
+    "franchise": "0006",
+    "timestamp": "1781701200",
+    "transaction": "17475,|0.00|",
+    "type": "BBID_WAIVER"
+   },
+   {
+    "franchise": "0006",
+    "timestamp": "1781701200",
+    "transaction": "17528,|0.00|",
+    "type": "BBID_WAIVER"
+   },
+   {
+    "franchise": "0012",
+    "timestamp": "1781701200",
+    "transaction": "17519,|0.00|",
+    "type": "BBID_WAIVER"
+   },
+   {
+    "franchise": "0012",
+    "timestamp": "1781701200",
+    "transaction": "17654,|0.00|",
+    "type": "BBID_WAIVER"
+   },
+   {
+    "franchise": "0012",
+    "timestamp": "1781701200",
+    "transaction": "17599,|0.00|",
+    "type": "BBID_WAIVER"
+   },
+   {
+    "franchise": "0012",
+    "timestamp": "1781701200",
+    "transaction": "17517,|0.00|",
+    "type": "BBID_WAIVER"
+   },
+   {
+    "franchise": "0012",
+    "timestamp": "1781701200",
+    "transaction": "15759,|0.00|",
+    "type": "BBID_WAIVER"
+   },
+   {
+    "franchise": "0012",
+    "timestamp": "1781701200",
+    "transaction": "15292,|0.00|",
+    "type": "BBID_WAIVER"
+   },
+   {
+    "franchise": "0012",
+    "timestamp": "1781701200",
+    "transaction": "15330,|0.00|",
+    "type": "BBID_WAIVER"
+   },
+   {
+    "franchise": "0012",
+    "timestamp": "1781701200",
+    "transaction": "17483,|0.00|",
+    "type": "BBID_WAIVER"
+   },
+   {
+    "franchise": "0012",
+    "timestamp": "1781701200",
+    "transaction": "15258,|0.00|",
+    "type": "BBID_WAIVER"
+   },
+   {
+    "franchise": "0012",
+    "timestamp": "1781701200",
+    "transaction": "15787,|0.00|",
+    "type": "BBID_WAIVER"
+   },
+   {
+    "franchise": "0012",
+    "timestamp": "1781701200",
+    "transaction": "16215,|0.00|",
+    "type": "BBID_WAIVER"
+   },
+   {
+    "franchise": "0012",
+    "timestamp": "1781701200",
+    "transaction": "14086,|0.00|",
+    "type": "BBID_WAIVER"
+   },
+   {
+    "franchise": "0012",
+    "timestamp": "1781701200",
+    "transaction": "16752,|0.00|",
+    "type": "BBID_WAIVER"
+   },
+   {
+    "franchise": "0012",
+    "timestamp": "1781701200",
+    "transaction": "17046,|0.00|",
+    "type": "BBID_WAIVER"
+   },
+   {
+    "franchise": "0001",
+    "timestamp": "1781701200",
+    "transaction": "17548,|7.00|17049,",
+    "type": "BBID_WAIVER"
+   },
+   {
+    "franchise": "",
+    "timestamp": "1781701200",
+    "transaction": "",
+    "type": "BBID_AUTO_PROCESS_WAIVERS"
+   },
+   {
+    "franchise": "0012",
+    "timestamp": "1781444703",
+    "transaction": "|14067,16868,15240,13726,15720,14805,13172,",
+    "type": "FREE_AGENT"
+   },
+   {
+    "demoted": "17042,17106,",
+    "franchise": "0012",
+    "promoted": "",
+    "timestamp": "1781444608",
+    "type": "TAXI"
+   },
+   {
+    "demoted": "17657,",
+    "franchise": "0012",
+    "promoted": "",
+    "timestamp": "1781442533",
+    "type": "TAXI"
+   },
+   {
+    "franchise": "0006",
+    "timestamp": "1781439371",
+    "transaction": "|13138,",
+    "type": "FREE_AGENT"
+   },
+   {
+    "franchise": "0010",
+    "timestamp": "1781406745",
+    "transaction": "|12263,",
+    "type": "FREE_AGENT"
+   },
+   {
+    "activated": "16583,16214,",
+    "deactivated": "",
+    "franchise": "0010",
+    "timestamp": "1781406675",
+    "type": "IR"
+   },
+   {
+    "expires": "1782000000",
+    "franchise": "0003",
+    "franchise1_gave_up": "FP_0003_2028_2,16221,",
+    "franchise2": "0010",
+    "franchise2_gave_up": "15798,",
+    "timestamp": "1781406627",
+    "type": "TRADE"
+   },
+   {
+    "demoted": "17468,17478,17652,",
+    "franchise": "0008",
+    "promoted": "17031,17055,17070,",
+    "timestamp": "1781406323",
+    "type": "TAXI"
+   },
+   {
+    "franchise": "0006",
+    "timestamp": "1781405686",
+    "transaction": "|15292,14079,",
+    "type": "FREE_AGENT"
+   },
+   {
+    "demoted": "17463,17685,17567,",
+    "franchise": "0003",
+    "promoted": "17030,17473,17104,",
+    "timestamp": "1781399167",
+    "type": "TAXI"
+   },
+   {
+    "demoted": "17481,",
+    "franchise": "0001",
+    "promoted": "17049,",
+    "timestamp": "1781397950",
+    "type": "TAXI"
+   },
+   {
+    "demoted": "17508,",
+    "franchise": "0004",
+    "promoted": "17498,",
+    "timestamp": "1781389579",
+    "type": "TAXI"
+   },
+   {
+    "franchise": "0004",
+    "timestamp": "1781387036",
+    "transaction": "17508|1|",
+    "type": "AUCTION_WON"
+   },
+   {
+    "franchise": "0004",
+    "timestamp": "1781387020",
+    "transaction": "17508|1|",
+    "type": "AUCTION_INIT"
+   },
+   {
+    "franchise": "0003",
+    "timestamp": "1781387006",
+    "transaction": "17685|1|",
+    "type": "AUCTION_WON"
+   },
+   {
+    "franchise": "0003",
+    "timestamp": "1781386990",
+    "transaction": "17685|1|",
+    "type": "AUCTION_INIT"
+   },
+   {
+    "franchise": "0008",
+    "timestamp": "1781386944",
+    "transaction": "17644|1|",
+    "type": "AUCTION_WON"
+   },
+   {
+    "franchise": "0008",
+    "timestamp": "1781386927",
+    "transaction": "17644|1|",
+    "type": "AUCTION_INIT"
+   },
+   {
+    "franchise": "0007",
+    "timestamp": "1781386865",
+    "transaction": "17470|1|",
+    "type": "AUCTION_WON"
+   },
+   {
+    "franchise": "0007",
+    "timestamp": "1781386849",
+    "transaction": "17470|1|",
+    "type": "AUCTION_INIT"
+   },
+   {
+    "franchise": "0008",
+    "timestamp": "1781386830",
+    "transaction": "17468|31|",
+    "type": "AUCTION_WON"
+   },
+   {
+    "franchise": "0008",
+    "timestamp": "1781386814",
+    "transaction": "17468|31|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "demoted": "17070,",
+    "franchise": "0008",
+    "promoted": "",
+    "timestamp": "1781386807",
+    "type": "TAXI"
+   },
+   {
+    "franchise": "0007",
+    "timestamp": "1781386806",
+    "transaction": "17468|30|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0008",
+    "timestamp": "1781386805",
+    "transaction": "17468|29|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0007",
+    "timestamp": "1781386798",
+    "transaction": "17468|28|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0008",
+    "timestamp": "1781386797",
+    "transaction": "17468|27|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0007",
+    "timestamp": "1781386792",
+    "transaction": "17468|26|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0008",
+    "timestamp": "1781386790",
+    "transaction": "17468|25|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0008",
+    "timestamp": "1781386775",
+    "transaction": "|17240,",
+    "type": "FREE_AGENT"
+   },
+   {
+    "franchise": "0007",
+    "timestamp": "1781386770",
+    "transaction": "17468|24|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0008",
+    "timestamp": "1781386768",
+    "transaction": "17468|23|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0007",
+    "timestamp": "1781386756",
+    "transaction": "17468|22|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0008",
+    "timestamp": "1781386754",
+    "transaction": "17468|21|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0007",
+    "timestamp": "1781386744",
+    "transaction": "17468|20|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0008",
+    "timestamp": "1781386743",
+    "transaction": "17468|19|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0007",
+    "timestamp": "1781386734",
+    "transaction": "17468|18|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0008",
+    "timestamp": "1781386732",
+    "transaction": "17468|17|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0007",
+    "timestamp": "1781386724",
+    "transaction": "17468|16|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0008",
+    "timestamp": "1781386721",
+    "transaction": "17468|15|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0007",
+    "timestamp": "1781386712",
+    "transaction": "17468|14|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0008",
+    "timestamp": "1781386710",
+    "transaction": "17468|13|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0007",
+    "timestamp": "1781386704",
+    "transaction": "17468|12|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0008",
+    "timestamp": "1781386702",
+    "transaction": "17468|11|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0004",
+    "timestamp": "1781386701",
+    "transaction": "17468|10|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0007",
+    "timestamp": "1781386698",
+    "transaction": "17468|9|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0004",
+    "timestamp": "1781386691",
+    "transaction": "17468|8|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0008",
+    "timestamp": "1781386689",
+    "transaction": "17468|7|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0007",
+    "timestamp": "1781386686",
+    "transaction": "17468|6|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0004",
+    "timestamp": "1781386676",
+    "transaction": "17468|5|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0008",
+    "timestamp": "1781386673",
+    "transaction": "17468|4|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0004",
+    "timestamp": "1781386671",
+    "transaction": "17468|3|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0007",
+    "timestamp": "1781386666",
+    "transaction": "17468|2|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "demoted": "17031,",
+    "franchise": "0008",
+    "promoted": "",
+    "timestamp": "1781386654",
+    "type": "TAXI"
+   },
+   {
+    "franchise": "0008",
+    "timestamp": "1781386643",
+    "transaction": "|15929,",
+    "type": "FREE_AGENT"
+   },
+   {
+    "franchise": "0004",
+    "timestamp": "1781386637",
+    "transaction": "17468|1|",
+    "type": "AUCTION_INIT"
+   },
+   {
+    "franchise": "0008",
+    "timestamp": "1781386628",
+    "transaction": "17478|9|",
+    "type": "AUCTION_WON"
+   },
+   {
+    "demoted": "17529,",
+    "franchise": "0007",
+    "promoted": "",
+    "timestamp": "1781386602",
+    "type": "TAXI"
+   },
+   {
+    "franchise": "0007",
+    "timestamp": "1781386602",
+    "transaction": "|17243,",
+    "type": "FREE_AGENT"
+   },
+   {
+    "franchise": "0008",
+    "timestamp": "1781386589",
+    "transaction": "17478|9|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0004",
+    "timestamp": "1781386581",
+    "transaction": "17478|8|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0008",
+    "timestamp": "1781386578",
+    "transaction": "17478|7|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0004",
+    "timestamp": "1781386572",
+    "transaction": "17478|6|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0008",
+    "timestamp": "1781386566",
+    "transaction": "17478|5|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0004",
+    "timestamp": "1781386563",
+    "transaction": "17478|4|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0008",
+    "timestamp": "1781386556",
+    "transaction": "17478|3|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0004",
+    "timestamp": "1781386555",
+    "transaction": "17478|2|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0003",
+    "timestamp": "1781386542",
+    "transaction": "17478|1|",
+    "type": "AUCTION_INIT"
+   },
+   {
+    "franchise": "0001",
+    "timestamp": "1781386501",
+    "transaction": "17481|12|",
+    "type": "AUCTION_WON"
+   },
+   {
+    "franchise": "0001",
+    "timestamp": "1781386485",
+    "transaction": "17481|12|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0002",
+    "timestamp": "1781386482",
+    "transaction": "17481|11|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0001",
+    "timestamp": "1781386479",
+    "transaction": "17481|10|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0002",
+    "timestamp": "1781386476",
+    "transaction": "17481|9|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0001",
+    "timestamp": "1781386473",
+    "transaction": "17481|8|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0003",
+    "timestamp": "1781386470",
+    "transaction": "17481|7|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0002",
+    "timestamp": "1781386468",
+    "transaction": "17481|6|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0001",
+    "timestamp": "1781386464",
+    "transaction": "17481|5|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0003",
+    "timestamp": "1781386462",
+    "transaction": "17481|4|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0001",
+    "timestamp": "1781386457",
+    "transaction": "17481|3|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0003",
+    "timestamp": "1781386455",
+    "transaction": "17481|2|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0001",
+    "timestamp": "1781386451",
+    "transaction": "17481|1|",
+    "type": "AUCTION_INIT"
+   },
+   {
+    "franchise": "0008",
+    "timestamp": "1781386431",
+    "transaction": "17652|5|",
+    "type": "AUCTION_WON"
+   },
+   {
+    "demoted": "17547,",
+    "franchise": "0010",
+    "promoted": "",
+    "timestamp": "1781386398",
+    "type": "TAXI"
+   },
+   {
+    "franchise": "0008",
+    "timestamp": "1781386394",
+    "transaction": "|15787,",
+    "type": "FREE_AGENT"
+   },
+   {
+    "franchise": "0008",
+    "timestamp": "1781386391",
+    "transaction": "17652|5|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0001",
+    "timestamp": "1781386383",
+    "transaction": "17652|4|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0008",
+    "timestamp": "1781386378",
+    "transaction": "17652|3|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0001",
+    "timestamp": "1781386372",
+    "transaction": "17652|2|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0008",
+    "timestamp": "1781386366",
+    "transaction": "17652|1|",
+    "type": "AUCTION_INIT"
+   },
+   {
+    "franchise": "0007",
+    "timestamp": "1781386323",
+    "transaction": "17529|1|",
+    "type": "AUCTION_WON"
+   },
+   {
+    "franchise": "0007",
+    "timestamp": "1781386307",
+    "transaction": "17529|1|",
+    "type": "AUCTION_INIT"
+   },
+   {
+    "franchise": "0008",
+    "timestamp": "1781386223",
+    "transaction": "17474|17|",
+    "type": "AUCTION_WON"
+   },
+   {
+    "franchise": "0008",
+    "timestamp": "1781386207",
+    "transaction": "17474|17|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0004",
+    "timestamp": "1781386196",
+    "transaction": "17474|16|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0008",
+    "timestamp": "1781386194",
+    "transaction": "17474|15|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0004",
+    "timestamp": "1781386181",
+    "transaction": "17474|14|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0003",
+    "timestamp": "1781386173",
+    "transaction": "17474|13|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0004",
+    "timestamp": "1781386162",
+    "transaction": "17474|12|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0003",
+    "timestamp": "1781386158",
+    "transaction": "17474|11|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0001",
+    "timestamp": "1781386152",
+    "transaction": "17474|10|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0004",
+    "timestamp": "1781386151",
+    "transaction": "17474|9|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0001",
+    "timestamp": "1781386148",
+    "transaction": "17474|8|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0008",
+    "timestamp": "1781386144",
+    "transaction": "17474|7|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0004",
+    "timestamp": "1781386144",
+    "transaction": "17474|6|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0003",
+    "timestamp": "1781386143",
+    "transaction": "17474|5|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0001",
+    "timestamp": "1781386140",
+    "transaction": "17474|4|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0004",
+    "timestamp": "1781386139",
+    "transaction": "17474|3|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0001",
+    "timestamp": "1781386128",
+    "transaction": "17474|2|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0004",
+    "timestamp": "1781386125",
+    "transaction": "17474|1|",
+    "type": "AUCTION_INIT"
+   },
+   {
+    "franchise": "0008",
+    "timestamp": "1781386114",
+    "transaction": "17511|23|",
+    "type": "AUCTION_WON"
+   },
+   {
+    "franchise": "0008",
+    "timestamp": "1781386098",
+    "transaction": "17511|23|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0007",
+    "timestamp": "1781386085",
+    "transaction": "17511|22|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0008",
+    "timestamp": "1781386076",
+    "transaction": "17511|21|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0007",
+    "timestamp": "1781386067",
+    "transaction": "17511|20|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0003",
+    "timestamp": "1781386065",
+    "transaction": "17511|19|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0007",
+    "timestamp": "1781386064",
+    "transaction": "17511|18|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0008",
+    "timestamp": "1781386050",
+    "transaction": "17511|17|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0003",
+    "timestamp": "1781386038",
+    "transaction": "17511|16|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0008",
+    "timestamp": "1781386029",
+    "transaction": "17511|15|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0007",
+    "timestamp": "1781386024",
+    "transaction": "17511|14|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0003",
+    "timestamp": "1781386020",
+    "transaction": "17511|13|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0008",
+    "timestamp": "1781386009",
+    "transaction": "17511|12|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0008",
+    "timestamp": "1781385997",
+    "transaction": "|16414,",
+    "type": "FREE_AGENT"
+   },
+   {
+    "franchise": "0003",
+    "timestamp": "1781385990",
+    "transaction": "17511|11|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0008",
+    "timestamp": "1781385975",
+    "transaction": "17511|10|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0001",
+    "timestamp": "1781385968",
+    "transaction": "17511|9|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0008",
+    "timestamp": "1781385962",
+    "transaction": "17511|8|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0007",
+    "timestamp": "1781385957",
+    "transaction": "17511|7|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0001",
+    "timestamp": "1781385950",
+    "transaction": "17511|6|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0007",
+    "timestamp": "1781385944",
+    "transaction": "17511|5|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "demoted": "17520,",
+    "franchise": "0001",
+    "promoted": "",
+    "timestamp": "1781385935",
+    "type": "TAXI"
+   },
+   {
+    "franchise": "0001",
+    "timestamp": "1781385935",
+    "transaction": "|17254,",
+    "type": "FREE_AGENT"
+   },
+   {
+    "franchise": "0007",
+    "timestamp": "1781385929",
+    "transaction": "|11760,",
+    "type": "FREE_AGENT"
+   },
+   {
+    "franchise": "0008",
+    "timestamp": "1781385921",
+    "transaction": "17511|4|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0003",
+    "timestamp": "1781385907",
+    "transaction": "17511|3|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0008",
+    "timestamp": "1781385899",
+    "transaction": "17511|2|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0003",
+    "timestamp": "1781385890",
+    "transaction": "17511|1|",
+    "type": "AUCTION_INIT"
+   },
+   {
+    "franchise": "0001",
+    "timestamp": "1781385856",
+    "transaction": "17520|1|",
+    "type": "AUCTION_WON"
+   },
+   {
+    "franchise": "0001",
+    "timestamp": "1781385840",
+    "transaction": "17520|1|",
+    "type": "AUCTION_INIT"
+   },
+   {
+    "franchise": "0007",
+    "timestamp": "1781385820",
+    "transaction": "17503|6|",
+    "type": "AUCTION_WON"
+   },
+   {
+    "franchise": "0004",
+    "timestamp": "1781385794",
+    "transaction": "|13424,",
+    "type": "FREE_AGENT"
+   },
+   {
+    "franchise": "0007",
+    "timestamp": "1781385788",
+    "transaction": "17503|6|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0008",
+    "timestamp": "1781385776",
+    "transaction": "17503|5|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0007",
+    "timestamp": "1781385774",
+    "transaction": "17503|4|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0003",
+    "timestamp": "1781385759",
+    "transaction": "17503|3|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0001",
+    "timestamp": "1781385749",
+    "transaction": "17503|2|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0008",
+    "timestamp": "1781385740",
+    "transaction": "17503|1|",
+    "type": "AUCTION_INIT"
+   },
+   {
+    "franchise": "0008",
+    "timestamp": "1781385660",
+    "transaction": "17485|9|",
+    "type": "AUCTION_WON"
+   },
+   {
+    "franchise": "0008",
+    "timestamp": "1781385644",
+    "transaction": "17485|9|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0001",
+    "timestamp": "1781385641",
+    "transaction": "17485|8|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0003",
+    "timestamp": "1781385638",
+    "transaction": "17485|7|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0001",
+    "timestamp": "1781385634",
+    "transaction": "17485|6|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0008",
+    "timestamp": "1781385633",
+    "transaction": "17485|5|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0001",
+    "timestamp": "1781385625",
+    "transaction": "17485|4|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0008",
+    "timestamp": "1781385623",
+    "transaction": "17485|3|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0001",
+    "timestamp": "1781385620",
+    "transaction": "17485|2|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0007",
+    "timestamp": "1781385617",
+    "transaction": "17485|1|",
+    "type": "AUCTION_INIT"
+   },
+   {
+    "franchise": "0008",
+    "timestamp": "1781385609",
+    "transaction": "|10313,13289,",
+    "type": "FREE_AGENT"
+   },
+   {
+    "franchise": "0003",
+    "timestamp": "1781385588",
+    "transaction": "17567|11|",
+    "type": "AUCTION_WON"
+   },
+   {
+    "franchise": "0003",
+    "timestamp": "1781385572",
+    "transaction": "17567|11|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0001",
+    "timestamp": "1781385568",
+    "transaction": "17567|10|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0003",
+    "timestamp": "1781385566",
+    "transaction": "17567|9|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0001",
+    "timestamp": "1781385564",
+    "transaction": "17567|8|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0003",
+    "timestamp": "1781385562",
+    "transaction": "17567|7|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0001",
+    "timestamp": "1781385560",
+    "transaction": "17567|6|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0003",
+    "timestamp": "1781385558",
+    "transaction": "17567|5|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0001",
+    "timestamp": "1781385556",
+    "transaction": "17567|4|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0003",
+    "timestamp": "1781385555",
+    "transaction": "17567|3|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0001",
+    "timestamp": "1781385549",
+    "transaction": "17567|2|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0003",
+    "timestamp": "1781385538",
+    "transaction": "17567|1|",
+    "type": "AUCTION_INIT"
+   },
+   {
+    "franchise": "0008",
+    "timestamp": "1781385506",
+    "transaction": "17507|2|",
+    "type": "AUCTION_WON"
+   },
+   {
+    "franchise": "0008",
+    "timestamp": "1781385490",
+    "transaction": "17507|2|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0001",
+    "timestamp": "1781385479",
+    "transaction": "17507|1|",
+    "type": "AUCTION_INIT"
+   },
+   {
+    "franchise": "0011",
+    "timestamp": "1781385445",
+    "transaction": "17466|36|",
+    "type": "AUCTION_WON"
+   },
+   {
+    "franchise": "0011",
+    "timestamp": "1781385429",
+    "transaction": "17466|36|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0010",
+    "timestamp": "1781385420",
+    "transaction": "17466|35|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0011",
+    "timestamp": "1781385416",
+    "transaction": "17466|34|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0010",
+    "timestamp": "1781385413",
+    "transaction": "17466|33|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0011",
+    "timestamp": "1781385404",
+    "transaction": "17466|32|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0010",
+    "timestamp": "1781385402",
+    "transaction": "17466|31|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0011",
+    "timestamp": "1781385395",
+    "transaction": "17466|29|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0010",
+    "timestamp": "1781385392",
+    "transaction": "17466|28|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0011",
+    "timestamp": "1781385390",
+    "transaction": "17466|27|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0010",
+    "timestamp": "1781385377",
+    "transaction": "17466|26|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0011",
+    "timestamp": "1781385372",
+    "transaction": "17466|25|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0010",
+    "timestamp": "1781385369",
+    "transaction": "17466|24|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0008",
+    "timestamp": "1781385367",
+    "transaction": "17466|23|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0011",
+    "timestamp": "1781385361",
+    "transaction": "17466|22|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0010",
+    "timestamp": "1781385355",
+    "transaction": "17466|21|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0008",
+    "timestamp": "1781385352",
+    "transaction": "17466|20|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0010",
+    "timestamp": "1781385346",
+    "transaction": "17466|19|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0011",
+    "timestamp": "1781385338",
+    "transaction": "17466|18|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0010",
+    "timestamp": "1781385335",
+    "transaction": "17466|17|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0008",
+    "timestamp": "1781385331",
+    "transaction": "17466|13|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0011",
+    "timestamp": "1781385328",
+    "transaction": "17466|12|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0010",
+    "timestamp": "1781385314",
+    "transaction": "17466|11|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0008",
+    "timestamp": "1781385312",
+    "transaction": "17466|6|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0001",
+    "timestamp": "1781385309",
+    "transaction": "17466|5|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0010",
+    "timestamp": "1781385305",
+    "transaction": "17466|4|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0011",
+    "timestamp": "1781385302",
+    "transaction": "17466|3|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0010",
+    "timestamp": "1781385289",
+    "transaction": "17466|2|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0011",
+    "timestamp": "1781385282",
+    "transaction": "17466|1|",
+    "type": "AUCTION_INIT"
+   },
+   {
+    "franchise": "0010",
+    "timestamp": "1781385264",
+    "transaction": "17547|41|",
+    "type": "AUCTION_WON"
+   },
+   {
+    "franchise": "0010",
+    "timestamp": "1781385248",
+    "transaction": "17547|41|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0008",
+    "timestamp": "1781385243",
+    "transaction": "17547|38|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0010",
+    "timestamp": "1781385233",
+    "transaction": "17547|37|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0008",
+    "timestamp": "1781385227",
+    "transaction": "17547|33|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0003",
+    "timestamp": "1781385225",
+    "transaction": "17547|32|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0010",
+    "timestamp": "1781385220",
+    "transaction": "17547|31|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0003",
+    "timestamp": "1781385219",
+    "transaction": "17547|30|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0008",
+    "timestamp": "1781385216",
+    "transaction": "17547|29|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0003",
+    "timestamp": "1781385214",
+    "transaction": "17547|28|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0010",
+    "timestamp": "1781385210",
+    "transaction": "17547|27|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0003",
+    "timestamp": "1781385208",
+    "transaction": "17547|24|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0008",
+    "timestamp": "1781385205",
+    "transaction": "17547|23|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0003",
+    "timestamp": "1781385203",
+    "transaction": "17547|22|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0010",
+    "timestamp": "1781385197",
+    "transaction": "17547|21|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0003",
+    "timestamp": "1781385196",
+    "transaction": "17547|17|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0008",
+    "timestamp": "1781385190",
+    "transaction": "17547|16|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0003",
+    "timestamp": "1781385188",
+    "transaction": "17547|15|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0010",
+    "timestamp": "1781385186",
+    "transaction": "17547|14|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0003",
+    "timestamp": "1781385179",
+    "transaction": "17547|12|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0010",
+    "timestamp": "1781385176",
+    "transaction": "17547|11|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0003",
+    "timestamp": "1781385169",
+    "transaction": "17547|7|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0008",
+    "timestamp": "1781385165",
+    "transaction": "17547|6|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0010",
+    "timestamp": "1781385161",
+    "transaction": "17547|5|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0003",
+    "timestamp": "1781385159",
+    "transaction": "17547|4|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0010",
+    "timestamp": "1781385152",
+    "transaction": "17547|3|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0003",
+    "timestamp": "1781385149",
+    "transaction": "17547|2|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0010",
+    "timestamp": "1781385141",
+    "transaction": "17547|1|",
+    "type": "AUCTION_INIT"
+   },
+   {
+    "franchise": "0008",
+    "timestamp": "1781385131",
+    "transaction": "17505|29|",
+    "type": "AUCTION_WON"
+   },
+   {
+    "franchise": "0008",
+    "timestamp": "1781385114",
+    "transaction": "17505|29|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0008",
+    "timestamp": "1781385114",
+    "transaction": "17505|28|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0010",
+    "timestamp": "1781385099",
+    "transaction": "17505|27|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0008",
+    "timestamp": "1781385089",
+    "transaction": "17505|26|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0010",
+    "timestamp": "1781385079",
+    "transaction": "17505|25|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0008",
+    "timestamp": "1781385072",
+    "transaction": "17505|24|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0010",
+    "timestamp": "1781385064",
+    "transaction": "17505|23|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0008",
+    "timestamp": "1781385063",
+    "transaction": "17505|22|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0008",
+    "timestamp": "1781385050",
+    "transaction": "17505|21|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0010",
+    "timestamp": "1781385048",
+    "transaction": "17505|20|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0008",
+    "timestamp": "1781385034",
+    "transaction": "17505|18|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0010",
+    "timestamp": "1781385026",
+    "transaction": "17505|17|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0001",
+    "timestamp": "1781385021",
+    "transaction": "17505|14|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0008",
+    "timestamp": "1781385019",
+    "transaction": "17505|13|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0001",
+    "timestamp": "1781385008",
+    "transaction": "17505|12|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0010",
+    "timestamp": "1781385005",
+    "transaction": "17505|11|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0001",
+    "timestamp": "1781385001",
+    "transaction": "17505|10|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0008",
+    "timestamp": "1781384998",
+    "transaction": "17505|9|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0001",
+    "timestamp": "1781384997",
+    "transaction": "17505|8|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0001",
+    "timestamp": "1781384995",
+    "transaction": "17505|7|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0008",
+    "timestamp": "1781384988",
+    "transaction": "17505|6|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0010",
+    "timestamp": "1781384987",
+    "transaction": "17505|5|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0001",
+    "timestamp": "1781384978",
+    "transaction": "17505|4|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0008",
+    "timestamp": "1781384977",
+    "transaction": "17505|3|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0001",
+    "timestamp": "1781384970",
+    "transaction": "17505|2|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0008",
+    "timestamp": "1781384967",
+    "transaction": "17505|1|",
+    "type": "AUCTION_INIT"
+   },
+   {
+    "franchise": "0003",
+    "timestamp": "1781384932",
+    "transaction": "|16601,",
+    "type": "FREE_AGENT"
+   },
+   {
+    "demoted": "17521,",
+    "franchise": "0007",
+    "promoted": "",
+    "timestamp": "1781384912",
+    "type": "TAXI"
+   },
+   {
+    "franchise": "0007",
+    "timestamp": "1781384886",
+    "transaction": "17521|6|",
+    "type": "AUCTION_WON"
+   },
+   {
+    "franchise": "0007",
+    "timestamp": "1781384870",
+    "transaction": "17521|6|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0008",
+    "timestamp": "1781384868",
+    "transaction": "17521|5|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0007",
+    "timestamp": "1781384857",
+    "transaction": "17521|4|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0008",
+    "timestamp": "1781384854",
+    "transaction": "17521|3|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0010",
+    "timestamp": "1781384853",
+    "transaction": "17521|2|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0007",
+    "timestamp": "1781384839",
+    "transaction": "17521|1|",
+    "type": "AUCTION_INIT"
+   },
+   {
+    "franchise": "0008",
+    "timestamp": "1781384826",
+    "transaction": "17476|47|",
+    "type": "AUCTION_WON"
+   },
+   {
+    "franchise": "0008",
+    "timestamp": "1781384810",
+    "transaction": "17476|47|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0001",
+    "timestamp": "1781384797",
+    "transaction": "17476|46|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0008",
+    "timestamp": "1781384783",
+    "transaction": "17476|45|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0001",
+    "timestamp": "1781384771",
+    "transaction": "17476|44|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0008",
+    "timestamp": "1781384769",
+    "transaction": "17476|43|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0001",
+    "timestamp": "1781384766",
+    "transaction": "17476|42|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0008",
+    "timestamp": "1781384761",
+    "transaction": "17476|41|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "demoted": "17506,17498,",
+    "franchise": "0004",
+    "promoted": "16684,17088,",
+    "timestamp": "1781384752",
+    "type": "TAXI"
+   },
+   {
+    "franchise": "0007",
+    "timestamp": "1781384751",
+    "transaction": "17476|40|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0001",
+    "timestamp": "1781384747",
+    "transaction": "17476|39|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0008",
+    "timestamp": "1781384745",
+    "transaction": "17476|38|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0001",
+    "timestamp": "1781384740",
+    "transaction": "17476|37|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0007",
+    "timestamp": "1781384738",
+    "transaction": "17476|36|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0008",
+    "timestamp": "1781384736",
+    "transaction": "17476|35|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0001",
+    "timestamp": "1781384732",
+    "transaction": "17476|34|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0008",
+    "timestamp": "1781384727",
+    "transaction": "17476|33|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0001",
+    "timestamp": "1781384726",
+    "transaction": "17476|32|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0007",
+    "timestamp": "1781384721",
+    "transaction": "17476|31|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0001",
+    "timestamp": "1781384718",
+    "transaction": "17476|30|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0008",
+    "timestamp": "1781384716",
+    "transaction": "17476|29|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0001",
+    "timestamp": "1781384711",
+    "transaction": "17476|28|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0007",
+    "timestamp": "1781384709",
+    "transaction": "17476|27|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0001",
+    "timestamp": "1781384706",
+    "transaction": "17476|26|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0008",
+    "timestamp": "1781384704",
+    "transaction": "17476|25|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0001",
+    "timestamp": "1781384702",
+    "transaction": "17476|24|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0007",
+    "timestamp": "1781384701",
+    "transaction": "17476|23|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0001",
+    "timestamp": "1781384699",
+    "transaction": "17476|22|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0010",
+    "timestamp": "1781384697",
+    "transaction": "17476|21|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0001",
+    "timestamp": "1781384694",
+    "transaction": "17476|15|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0008",
+    "timestamp": "1781384691",
+    "transaction": "17476|14|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0010",
+    "timestamp": "1781384688",
+    "transaction": "17476|13|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0001",
+    "timestamp": "1781384687",
+    "transaction": "17476|12|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0002",
+    "timestamp": "1781384684",
+    "transaction": "17476|11|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0001",
+    "timestamp": "1781384681",
+    "transaction": "17476|10|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0002",
+    "timestamp": "1781384678",
+    "transaction": "17476|9|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0008",
+    "timestamp": "1781384676",
+    "transaction": "17476|8|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0001",
+    "timestamp": "1781384675",
+    "transaction": "17476|7|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0010",
+    "timestamp": "1781384672",
+    "transaction": "17476|6|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0002",
+    "timestamp": "1781384670",
+    "transaction": "17476|5|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0001",
+    "timestamp": "1781384668",
+    "transaction": "17476|4|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0010",
+    "timestamp": "1781384667",
+    "transaction": "17476|3|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0001",
+    "timestamp": "1781384661",
+    "transaction": "17476|2|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0003",
+    "timestamp": "1781384656",
+    "transaction": "17476|1|",
+    "type": "AUCTION_INIT"
+   },
+   {
+    "demoted": "17607,",
+    "franchise": "0010",
+    "promoted": "",
+    "timestamp": "1781384600",
+    "type": "TAXI"
+   },
+   {
+    "demoted": "17477,",
+    "franchise": "0011",
+    "promoted": "",
+    "timestamp": "1781384560",
+    "type": "TAXI"
+   },
+   {
+    "franchise": "0008",
+    "timestamp": "1781384548",
+    "transaction": "17509|9|",
+    "type": "AUCTION_WON"
+   },
+   {
+    "franchise": "0008",
+    "timestamp": "1781384532",
+    "transaction": "17509|9|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0010",
+    "timestamp": "1781384518",
+    "transaction": "17509|8|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0008",
+    "timestamp": "1781384510",
+    "transaction": "17509|6|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0010",
+    "timestamp": "1781384501",
+    "transaction": "17509|5|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0008",
+    "timestamp": "1781384494",
+    "transaction": "17509|4|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0010",
+    "timestamp": "1781384486",
+    "transaction": "17509|3|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0008",
+    "timestamp": "1781384482",
+    "transaction": "17509|2|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0001",
+    "timestamp": "1781384473",
+    "transaction": "17509|1|",
+    "type": "AUCTION_INIT"
+   },
+   {
+    "franchise": "0012",
+    "timestamp": "1781384455",
+    "transaction": "17657|8|",
+    "type": "AUCTION_WON"
+   },
+   {
+    "franchise": "0012",
+    "timestamp": "1781384439",
+    "transaction": "17657|8|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0010",
+    "timestamp": "1781384436",
+    "transaction": "17657|7|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0012",
+    "timestamp": "1781384429",
+    "transaction": "17657|5|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0010",
+    "timestamp": "1781384426",
+    "transaction": "17657|4|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0012",
+    "timestamp": "1781384412",
+    "transaction": "17657|3|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0010",
+    "timestamp": "1781384408",
+    "transaction": "17657|2|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0012",
+    "timestamp": "1781384393",
+    "transaction": "17657|1|",
+    "type": "AUCTION_INIT"
+   },
+   {
+    "franchise": "0003",
+    "timestamp": "1781384383",
+    "transaction": "17463|100|",
+    "type": "AUCTION_WON"
+   },
+   {
+    "franchise": "0003",
+    "timestamp": "1781384367",
+    "transaction": "17463|100|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0008",
+    "timestamp": "1781384358",
+    "transaction": "17463|81|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0003",
+    "timestamp": "1781384357",
+    "transaction": "17463|80|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0010",
+    "timestamp": "1781384354",
+    "transaction": "17463|17|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0001",
+    "timestamp": "1781384346",
+    "transaction": "17463|16|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0010",
+    "timestamp": "1781384342",
+    "transaction": "17463|15|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0008",
+    "timestamp": "1781384341",
+    "transaction": "17463|3|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0001",
+    "timestamp": "1781384334",
+    "transaction": "17463|2|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0010",
+    "timestamp": "1781384330",
+    "transaction": "17463|1|",
+    "type": "AUCTION_INIT"
+   },
+   {
+    "franchise": "0004",
+    "timestamp": "1781384321",
+    "transaction": "17506|62|",
+    "type": "AUCTION_WON"
+   },
+   {
+    "franchise": "0004",
+    "timestamp": "1781384305",
+    "transaction": "17506|62|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0003",
+    "timestamp": "1781384302",
+    "transaction": "17506|61|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0004",
+    "timestamp": "1781384294",
+    "transaction": "17506|60|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0003",
+    "timestamp": "1781384290",
+    "transaction": "17506|59|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0004",
+    "timestamp": "1781384275",
+    "transaction": "17506|58|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0003",
+    "timestamp": "1781384269",
+    "transaction": "17506|55|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0004",
+    "timestamp": "1781384264",
+    "transaction": "17506|54|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0003",
+    "timestamp": "1781384261",
+    "transaction": "17506|53|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0004",
+    "timestamp": "1781384252",
+    "transaction": "17506|52|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0003",
+    "timestamp": "1781384250",
+    "transaction": "17506|51|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0004",
+    "timestamp": "1781384235",
+    "transaction": "17506|50|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0001",
+    "timestamp": "1781384231",
+    "transaction": "17506|44|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0010",
+    "timestamp": "1781384229",
+    "transaction": "17506|43|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0004",
+    "timestamp": "1781384228",
+    "transaction": "17506|42|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0001",
+    "timestamp": "1781384225",
+    "transaction": "17506|41|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0004",
+    "timestamp": "1781384220",
+    "transaction": "17506|40|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0002",
+    "timestamp": "1781384220",
+    "transaction": "17506|27|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0001",
+    "timestamp": "1781384215",
+    "transaction": "17506|26|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0004",
+    "timestamp": "1781384213",
+    "transaction": "17506|25|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0001",
+    "timestamp": "1781384211",
+    "transaction": "17506|24|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0010",
+    "timestamp": "1781384207",
+    "transaction": "17506|23|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0004",
+    "timestamp": "1781384206",
+    "transaction": "17506|20|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0001",
+    "timestamp": "1781384202",
+    "transaction": "17506|15|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0010",
+    "timestamp": "1781384200",
+    "transaction": "17506|14|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0001",
+    "timestamp": "1781384199",
+    "transaction": "17506|13|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0004",
+    "timestamp": "1781384197",
+    "transaction": "17506|12|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0010",
+    "timestamp": "1781384196",
+    "transaction": "17506|11|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0001",
+    "timestamp": "1781384194",
+    "transaction": "17506|10|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0010",
+    "timestamp": "1781384193",
+    "transaction": "17506|9|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0003",
+    "timestamp": "1781384193",
+    "transaction": "17506|8|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0001",
+    "timestamp": "1781384184",
+    "transaction": "17506|7|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0004",
+    "timestamp": "1781384182",
+    "transaction": "17506|6|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0001",
+    "timestamp": "1781384181",
+    "transaction": "17506|5|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0010",
+    "timestamp": "1781384178",
+    "transaction": "17506|4|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0010",
+    "timestamp": "1781384163",
+    "transaction": "17506|3|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0001",
+    "timestamp": "1781384163",
+    "transaction": "17506|2|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0008",
+    "timestamp": "1781384158",
+    "transaction": "17506|1|",
+    "type": "AUCTION_INIT"
+   },
+   {
+    "franchise": "0011",
+    "timestamp": "1781384137",
+    "transaction": "|15254,",
+    "type": "FREE_AGENT"
+   },
+   {
+    "franchise": "0010",
+    "timestamp": "1781384100",
+    "transaction": "17607|16|",
+    "type": "AUCTION_WON"
+   },
+   {
+    "franchise": "0010",
+    "timestamp": "1781384084",
+    "transaction": "17607|16|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0008",
+    "timestamp": "1781384081",
+    "transaction": "17607|15|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0010",
+    "timestamp": "1781384074",
+    "transaction": "17607|14|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0008",
+    "timestamp": "1781384069",
+    "transaction": "17607|10|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0001",
+    "timestamp": "1781384067",
+    "transaction": "17607|9|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0010",
+    "timestamp": "1781384064",
+    "transaction": "17607|8|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0001",
+    "timestamp": "1781384062",
+    "transaction": "17607|7|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0010",
+    "timestamp": "1781384058",
+    "transaction": "17607|6|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0008",
+    "timestamp": "1781384057",
+    "transaction": "17607|5|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0010",
+    "timestamp": "1781384054",
+    "transaction": "17607|4|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0008",
+    "timestamp": "1781384040",
+    "transaction": "|14592,",
+    "type": "FREE_AGENT"
+   },
+   {
+    "franchise": "0007",
+    "timestamp": "1781384038",
+    "transaction": "17607|3|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0001",
+    "timestamp": "1781384034",
+    "transaction": "17607|2|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0007",
+    "timestamp": "1781384027",
+    "transaction": "17607|1|",
+    "type": "AUCTION_INIT"
+   },
+   {
+    "franchise": "0008",
+    "timestamp": "1781383979",
+    "transaction": "17514|51|",
+    "type": "AUCTION_WON"
+   },
+   {
+    "franchise": "0008",
+    "timestamp": "1781383963",
+    "transaction": "17514|51|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0004",
+    "timestamp": "1781383949",
+    "transaction": "17514|50|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0008",
+    "timestamp": "1781383945",
+    "transaction": "17514|49|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0004",
+    "timestamp": "1781383937",
+    "transaction": "17514|48|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0008",
+    "timestamp": "1781383934",
+    "transaction": "17514|47|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0004",
+    "timestamp": "1781383923",
+    "transaction": "17514|46|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0008",
+    "timestamp": "1781383921",
+    "transaction": "17514|45|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0004",
+    "timestamp": "1781383906",
+    "transaction": "17514|44|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0008",
+    "timestamp": "1781383902",
+    "transaction": "17514|43|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0004",
+    "timestamp": "1781383892",
+    "transaction": "17514|42|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0008",
+    "timestamp": "1781383889",
+    "transaction": "17514|41|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0004",
+    "timestamp": "1781383875",
+    "transaction": "17514|40|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0008",
+    "timestamp": "1781383863",
+    "transaction": "17514|39|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0004",
+    "timestamp": "1781383848",
+    "transaction": "17514|38|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0003",
+    "timestamp": "1781383840",
+    "transaction": "17514|37|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0004",
+    "timestamp": "1781383833",
+    "transaction": "17514|36|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0008",
+    "timestamp": "1781383825",
+    "transaction": "17514|35|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0003",
+    "timestamp": "1781383823",
+    "transaction": "17514|34|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0004",
+    "timestamp": "1781383816",
+    "transaction": "17514|33|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0003",
+    "timestamp": "1781383808",
+    "transaction": "17514|32|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0010",
+    "timestamp": "1781383807",
+    "transaction": "17514|23|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0004",
+    "timestamp": "1781383801",
+    "transaction": "17514|22|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0010",
+    "timestamp": "1781383790",
+    "transaction": "17514|21|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0004",
+    "timestamp": "1781383787",
+    "transaction": "17514|20|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0008",
+    "timestamp": "1781383782",
+    "transaction": "17514|16|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0003",
+    "timestamp": "1781383781",
+    "transaction": "17514|15|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0001",
+    "timestamp": "1781383780",
+    "transaction": "17514|7|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0002",
+    "timestamp": "1781383775",
+    "transaction": "17514|6|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0004",
+    "timestamp": "1781383770",
+    "transaction": "17514|5|",
+    "type": "AUCTION_INIT"
+   },
+   {
+    "franchise": "0003",
+    "timestamp": "1781383757",
+    "transaction": "|16621,",
+    "type": "FREE_AGENT"
+   },
+   {
+    "franchise": "0008",
+    "timestamp": "1781383740",
+    "transaction": "17512|55|",
+    "type": "AUCTION_WON"
+   },
+   {
+    "franchise": "0008",
+    "timestamp": "1781383724",
+    "transaction": "17512|55|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0003",
+    "timestamp": "1781383719",
+    "transaction": "17512|54|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0008",
+    "timestamp": "1781383707",
+    "transaction": "17512|53|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0008",
+    "timestamp": "1781383706",
+    "transaction": "17512|52|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0003",
+    "timestamp": "1781383693",
+    "transaction": "17512|51|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0008",
+    "timestamp": "1781383681",
+    "transaction": "17512|50|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0003",
+    "timestamp": "1781383666",
+    "transaction": "17512|49|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0008",
+    "timestamp": "1781383659",
+    "transaction": "17512|48|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0003",
+    "timestamp": "1781383645",
+    "transaction": "17512|47|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0008",
+    "timestamp": "1781383637",
+    "transaction": "17512|46|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0003",
+    "timestamp": "1781383623",
+    "transaction": "17512|45|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0008",
+    "timestamp": "1781383612",
+    "transaction": "17512|44|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0003",
+    "timestamp": "1781383606",
+    "transaction": "17512|43|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0008",
+    "timestamp": "1781383604",
+    "transaction": "17512|42|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0003",
+    "timestamp": "1781383593",
+    "transaction": "17512|41|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0008",
+    "timestamp": "1781383592",
+    "transaction": "17512|40|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0003",
+    "timestamp": "1781383578",
+    "transaction": "17512|39|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0008",
+    "timestamp": "1781383575",
+    "transaction": "17512|38|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0003",
+    "timestamp": "1781383563",
+    "transaction": "17512|37|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0008",
+    "timestamp": "1781383561",
+    "transaction": "17512|36|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0003",
+    "timestamp": "1781383548",
+    "transaction": "17512|35|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0008",
+    "timestamp": "1781383545",
+    "transaction": "17512|34|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0010",
+    "timestamp": "1781383533",
+    "transaction": "17512|33|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0003",
+    "timestamp": "1781383526",
+    "transaction": "17512|32|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0010",
+    "timestamp": "1781383511",
+    "transaction": "17512|31|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0008",
+    "timestamp": "1781383508",
+    "transaction": "17512|30|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0010",
+    "timestamp": "1781383498",
+    "transaction": "17512|29|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0008",
+    "timestamp": "1781383497",
+    "transaction": "17512|28|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0010",
+    "timestamp": "1781383491",
+    "transaction": "17512|27|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0003",
+    "timestamp": "1781383489",
+    "transaction": "17512|26|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0010",
+    "timestamp": "1781383484",
+    "transaction": "17512|25|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0008",
+    "timestamp": "1781383482",
+    "transaction": "17512|24|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0003",
+    "timestamp": "1781383478",
+    "transaction": "17512|23|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0010",
+    "timestamp": "1781383467",
+    "transaction": "17512|22|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0008",
+    "timestamp": "1781383465",
+    "transaction": "17512|21|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0010",
+    "timestamp": "1781383459",
+    "transaction": "17512|20|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0007",
+    "timestamp": "1781383458",
+    "transaction": "17512|19|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0001",
+    "timestamp": "1781383457",
+    "transaction": "17512|18|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0010",
+    "timestamp": "1781383455",
+    "transaction": "17512|17|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0003",
+    "timestamp": "1781383452",
+    "transaction": "17512|16|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0010",
+    "timestamp": "1781383439",
+    "transaction": "17512|15|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0008",
+    "timestamp": "1781383439",
+    "transaction": "17512|14|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0001",
+    "timestamp": "1781383434",
+    "transaction": "17512|13|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0008",
+    "timestamp": "1781383430",
+    "transaction": "17512|12|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0010",
+    "timestamp": "1781383427",
+    "transaction": "17512|11|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0004",
+    "timestamp": "1781383424",
+    "transaction": "17512|10|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0001",
+    "timestamp": "1781383420",
+    "transaction": "17512|6|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0008",
+    "timestamp": "1781383417",
+    "transaction": "17512|5|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0001",
+    "timestamp": "1781383415",
+    "transaction": "17512|4|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0004",
+    "timestamp": "1781383413",
+    "transaction": "17512|3|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0001",
+    "timestamp": "1781383406",
+    "transaction": "17512|2|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0003",
+    "timestamp": "1781383400",
+    "transaction": "17512|1|",
+    "type": "AUCTION_INIT"
+   },
+   {
+    "demoted": "17473,",
+    "franchise": "0003",
+    "promoted": "",
+    "timestamp": "1781383362",
+    "type": "TAXI"
+   },
+   {
+    "franchise": "0003",
+    "timestamp": "1781383360",
+    "transaction": "17502|80|",
+    "type": "AUCTION_WON"
+   },
+   {
+    "franchise": "0011",
+    "timestamp": "1781383335",
+    "transaction": "|17046,",
+    "type": "FREE_AGENT"
+   },
+   {
+    "franchise": "0003",
+    "timestamp": "1781383322",
+    "transaction": "17502|80|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0001",
+    "timestamp": "1781383313",
+    "transaction": "17502|79|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0003",
+    "timestamp": "1781383311",
+    "transaction": "17502|78|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0001",
+    "timestamp": "1781383309",
+    "transaction": "17502|77|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0003",
+    "timestamp": "1781383307",
+    "transaction": "17502|76|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0001",
+    "timestamp": "1781383305",
+    "transaction": "17502|75|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0003",
+    "timestamp": "1781383301",
+    "transaction": "17502|74|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0001",
+    "timestamp": "1781383299",
+    "transaction": "17502|73|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0003",
+    "timestamp": "1781383290",
+    "transaction": "17502|72|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0001",
+    "timestamp": "1781383277",
+    "transaction": "17502|71|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0008",
+    "timestamp": "1781383265",
+    "transaction": "17502|70|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0001",
+    "timestamp": "1781383257",
+    "transaction": "17502|69|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0008",
+    "timestamp": "1781383253",
+    "transaction": "17502|68|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0001",
+    "timestamp": "1781383251",
+    "transaction": "17502|67|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0003",
+    "timestamp": "1781383249",
+    "transaction": "17502|66|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0010",
+    "timestamp": "1781383245",
+    "transaction": "17502|65|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0008",
+    "timestamp": "1781383245",
+    "transaction": "17502|64|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0001",
+    "timestamp": "1781383243",
+    "transaction": "17502|63|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0003",
+    "timestamp": "1781383237",
+    "transaction": "17502|62|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0001",
+    "timestamp": "1781383233",
+    "transaction": "17502|61|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0003",
+    "timestamp": "1781383222",
+    "transaction": "17502|60|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0010",
+    "timestamp": "1781383220",
+    "transaction": "17502|21|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0001",
+    "timestamp": "1781383207",
+    "transaction": "17502|20|",
+    "type": "AUCTION_INIT"
+   },
+   {
+    "franchise": "0003",
+    "timestamp": "1781383166",
+    "transaction": "17501|120|",
+    "type": "AUCTION_WON"
+   },
+   {
+    "franchise": "0003",
+    "timestamp": "1781383150",
+    "transaction": "17501|120|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0001",
+    "timestamp": "1781383148",
+    "transaction": "17501|91|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0012",
+    "timestamp": "1781383142",
+    "transaction": "17501|1|",
+    "type": "AUCTION_INIT"
+   },
+   {
+    "franchise": "0011",
+    "timestamp": "1781383091",
+    "transaction": "17477|47|",
+    "type": "AUCTION_WON"
+   },
+   {
+    "franchise": "0011",
+    "timestamp": "1781383075",
+    "transaction": "17477|47|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0008",
+    "timestamp": "1781383063",
+    "transaction": "17477|46|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0011",
+    "timestamp": "1781383057",
+    "transaction": "17477|45|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0008",
+    "timestamp": "1781383049",
+    "transaction": "17477|44|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0011",
+    "timestamp": "1781383037",
+    "transaction": "17477|43|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0008",
+    "timestamp": "1781383022",
+    "transaction": "17477|42|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0010",
+    "timestamp": "1781383015",
+    "transaction": "17477|41|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0008",
+    "timestamp": "1781383007",
+    "transaction": "17477|38|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0010",
+    "timestamp": "1781383002",
+    "transaction": "17477|37|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0008",
+    "timestamp": "1781382997",
+    "transaction": "17477|36|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0003",
+    "timestamp": "1781382995",
+    "transaction": "17477|35|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0007",
+    "timestamp": "1781382991",
+    "transaction": "17477|25|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0008",
+    "timestamp": "1781382985",
+    "transaction": "17477|24|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0010",
+    "timestamp": "1781382982",
+    "transaction": "17477|23|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0008",
+    "timestamp": "1781382980",
+    "transaction": "17477|22|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0003",
+    "timestamp": "1781382977",
+    "transaction": "17477|21|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0008",
+    "timestamp": "1781382974",
+    "transaction": "17477|13|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0010",
+    "timestamp": "1781382972",
+    "transaction": "17477|12|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0008",
+    "timestamp": "1781382966",
+    "transaction": "17477|11|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0004",
+    "timestamp": "1781382966",
+    "transaction": "17477|10|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0003",
+    "timestamp": "1781382965",
+    "transaction": "17477|8|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0001",
+    "timestamp": "1781382963",
+    "transaction": "17477|7|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0010",
+    "timestamp": "1781382956",
+    "transaction": "17477|6|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0008",
+    "timestamp": "1781382948",
+    "transaction": "17477|5|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0010",
+    "timestamp": "1781382944",
+    "transaction": "17477|4|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0004",
+    "timestamp": "1781382942",
+    "transaction": "17477|3|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0001",
+    "timestamp": "1781382940",
+    "transaction": "17477|2|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0011",
+    "timestamp": "1781382934",
+    "transaction": "17477|1|",
+    "type": "AUCTION_INIT"
+   },
+   {
+    "franchise": "0008",
+    "timestamp": "1781382894",
+    "transaction": "17544|156|",
+    "type": "AUCTION_WON"
+   },
+   {
+    "franchise": "0008",
+    "timestamp": "1781382878",
+    "transaction": "17544|156|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0003",
+    "timestamp": "1781382871",
+    "transaction": "17544|155|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0008",
+    "timestamp": "1781382858",
+    "transaction": "17544|147|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0003",
+    "timestamp": "1781382856",
+    "transaction": "17544|146|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0008",
+    "timestamp": "1781382846",
+    "transaction": "17544|145|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0003",
+    "timestamp": "1781382838",
+    "transaction": "17544|144|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0008",
+    "timestamp": "1781382828",
+    "transaction": "17544|133|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0003",
+    "timestamp": "1781382823",
+    "transaction": "17544|132|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0008",
+    "timestamp": "1781382819",
+    "transaction": "17544|131|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0003",
+    "timestamp": "1781382813",
+    "transaction": "17544|130|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0008",
+    "timestamp": "1781382808",
+    "transaction": "17544|126|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0003",
+    "timestamp": "1781382799",
+    "transaction": "17544|125|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0008",
+    "timestamp": "1781382793",
+    "transaction": "17544|121|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0003",
+    "timestamp": "1781382789",
+    "transaction": "17544|120|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0008",
+    "timestamp": "1781382782",
+    "transaction": "17544|107|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0003",
+    "timestamp": "1781382777",
+    "transaction": "17544|106|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0008",
+    "timestamp": "1781382775",
+    "transaction": "17544|105|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0003",
+    "timestamp": "1781382766",
+    "transaction": "17544|104|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0008",
+    "timestamp": "1781382763",
+    "transaction": "17544|103|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0003",
+    "timestamp": "1781382754",
+    "transaction": "17544|102|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0008",
+    "timestamp": "1781382749",
+    "transaction": "17544|101|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0012",
+    "timestamp": "1781382747",
+    "transaction": "17544|100|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0003",
+    "timestamp": "1781382743",
+    "transaction": "17544|99|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0008",
+    "timestamp": "1781382740",
+    "transaction": "17544|98|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0012",
+    "timestamp": "1781382737",
+    "transaction": "17544|97|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0003",
+    "timestamp": "1781382737",
+    "transaction": "17544|96|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0012",
+    "timestamp": "1781382733",
+    "transaction": "17544|95|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0008",
+    "timestamp": "1781382729",
+    "transaction": "17544|94|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0012",
+    "timestamp": "1781382723",
+    "transaction": "17544|93|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0003",
+    "timestamp": "1781382723",
+    "transaction": "17544|92|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0001",
+    "timestamp": "1781382720",
+    "transaction": "17544|91|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0004",
+    "timestamp": "1781382719",
+    "transaction": "17544|90|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0001",
+    "timestamp": "1781382718",
+    "transaction": "17544|81|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0012",
+    "timestamp": "1781382717",
+    "transaction": "17544|80|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0001",
+    "timestamp": "1781382715",
+    "transaction": "17544|79|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0012",
+    "timestamp": "1781382713",
+    "transaction": "17544|78|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0010",
+    "timestamp": "1781382712",
+    "transaction": "17544|77|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0003",
+    "timestamp": "1781382711",
+    "transaction": "17544|76|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0004",
+    "timestamp": "1781382710",
+    "transaction": "17544|75|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0001",
+    "timestamp": "1781382708",
+    "transaction": "17544|64|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0010",
+    "timestamp": "1781382704",
+    "transaction": "17544|63|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0008",
+    "timestamp": "1781382702",
+    "transaction": "17544|62|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0001",
+    "timestamp": "1781382700",
+    "transaction": "17544|61|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0004",
+    "timestamp": "1781382698",
+    "transaction": "17544|60|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0010",
+    "timestamp": "1781382696",
+    "transaction": "17544|47|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0012",
+    "timestamp": "1781382695",
+    "transaction": "17544|46|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0003",
+    "timestamp": "1781382692",
+    "transaction": "17544|45|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0008",
+    "timestamp": "1781382692",
+    "transaction": "17544|43|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0010",
+    "timestamp": "1781382687",
+    "transaction": "17544|42|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0008",
+    "timestamp": "1781382685",
+    "transaction": "17544|41|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0003",
+    "timestamp": "1781382682",
+    "transaction": "17544|40|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0010",
+    "timestamp": "1781382671",
+    "transaction": "17544|1|",
+    "type": "AUCTION_INIT"
+   },
+   {
+    "franchise": "0008",
+    "timestamp": "1781382637",
+    "transaction": "17482|44|",
+    "type": "AUCTION_WON"
+   },
+   {
+    "franchise": "0008",
+    "timestamp": "1781382621",
+    "transaction": "17482|44|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0007",
+    "timestamp": "1781382617",
+    "transaction": "17482|43|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0008",
+    "timestamp": "1781382607",
+    "transaction": "17482|41|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0007",
+    "timestamp": "1781382598",
+    "transaction": "17482|40|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0008",
+    "timestamp": "1781382589",
+    "transaction": "17482|36|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0007",
+    "timestamp": "1781382584",
+    "transaction": "17482|35|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0008",
+    "timestamp": "1781382574",
+    "transaction": "17482|30|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0007",
+    "timestamp": "1781382571",
+    "transaction": "17482|29|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0008",
+    "timestamp": "1781382564",
+    "transaction": "17482|28|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0007",
+    "timestamp": "1781382559",
+    "transaction": "17482|27|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0008",
+    "timestamp": "1781382556",
+    "transaction": "17482|26|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0011",
+    "timestamp": "1781382551",
+    "transaction": "17482|25|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0008",
+    "timestamp": "1781382547",
+    "transaction": "17482|24|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0007",
+    "timestamp": "1781382537",
+    "transaction": "17482|23|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0008",
+    "timestamp": "1781382527",
+    "transaction": "17482|22|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0007",
+    "timestamp": "1781382522",
+    "transaction": "17482|21|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0008",
+    "timestamp": "1781382518",
+    "transaction": "17482|20|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0007",
+    "timestamp": "1781382514",
+    "transaction": "17482|19|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0008",
+    "timestamp": "1781382509",
+    "transaction": "17482|18|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0007",
+    "timestamp": "1781382506",
+    "transaction": "17482|17|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0008",
+    "timestamp": "1781382492",
+    "transaction": "17482|16|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0007",
+    "timestamp": "1781382490",
+    "transaction": "17482|15|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0008",
+    "timestamp": "1781382475",
+    "transaction": "17482|14|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0007",
+    "timestamp": "1781382468",
+    "transaction": "17482|13|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0008",
+    "timestamp": "1781382467",
+    "transaction": "17482|12|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0008",
+    "timestamp": "1781382467",
+    "transaction": "17482|11|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0007",
+    "timestamp": "1781382464",
+    "transaction": "17482|10|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0001",
+    "timestamp": "1781382462",
+    "transaction": "17482|9|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0007",
+    "timestamp": "1781382459",
+    "transaction": "17482|8|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0008",
+    "timestamp": "1781382455",
+    "transaction": "17482|7|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0001",
+    "timestamp": "1781382446",
+    "transaction": "17482|6|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0010",
+    "timestamp": "1781382445",
+    "transaction": "17482|5|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0001",
+    "timestamp": "1781382437",
+    "transaction": "17482|2|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0008",
+    "timestamp": "1781382431",
+    "transaction": "17482|1|",
+    "type": "AUCTION_INIT"
+   },
+   {
+    "franchise": "0008",
+    "timestamp": "1781382400",
+    "transaction": "17462|208|",
+    "type": "AUCTION_WON"
+   },
+   {
+    "franchise": "0008",
+    "timestamp": "1781382384",
+    "transaction": "17462|208|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0010",
+    "timestamp": "1781382379",
+    "transaction": "17462|207|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0008",
+    "timestamp": "1781382375",
+    "transaction": "17462|206|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0010",
+    "timestamp": "1781382373",
+    "transaction": "17462|205|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0008",
+    "timestamp": "1781382370",
+    "transaction": "17462|204|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0010",
+    "timestamp": "1781382368",
+    "transaction": "17462|203|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0008",
+    "timestamp": "1781382356",
+    "transaction": "17462|202|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0008",
+    "timestamp": "1781382346",
+    "transaction": "17462|201|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0011",
+    "timestamp": "1781382342",
+    "transaction": "17462|200|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0010",
+    "timestamp": "1781382336",
+    "transaction": "17462|91|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0001",
+    "timestamp": "1781382333",
+    "transaction": "17462|90|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0007",
+    "timestamp": "1781382325",
+    "transaction": "17462|1|",
+    "type": "AUCTION_INIT"
+   },
+   {
+    "franchise": "0003",
+    "timestamp": "1781382303",
+    "transaction": "17473|157|",
+    "type": "AUCTION_WON"
+   },
+   {
+    "franchise": "0003",
+    "timestamp": "1781382287",
+    "transaction": "17473|157|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0008",
+    "timestamp": "1781382279",
+    "transaction": "17473|156|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0003",
+    "timestamp": "1781382272",
+    "transaction": "17473|155|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0008",
+    "timestamp": "1781382266",
+    "transaction": "17473|151|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0003",
+    "timestamp": "1781382251",
+    "transaction": "17473|150|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0012",
+    "timestamp": "1781382246",
+    "transaction": "17473|141|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0011",
+    "timestamp": "1781382243",
+    "transaction": "17473|140|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0012",
+    "timestamp": "1781382240",
+    "transaction": "17473|123|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0003",
+    "timestamp": "1781382234",
+    "transaction": "17473|122|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0008",
+    "timestamp": "1781382232",
+    "transaction": "17473|113|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0012",
+    "timestamp": "1781382228",
+    "transaction": "17473|112|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0003",
+    "timestamp": "1781382222",
+    "transaction": "17473|111|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0012",
+    "timestamp": "1781382218",
+    "transaction": "17473|99|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0008",
+    "timestamp": "1781382217",
+    "transaction": "17473|98|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0012",
+    "timestamp": "1781382214",
+    "transaction": "17473|97|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0003",
+    "timestamp": "1781382209",
+    "transaction": "17473|96|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0012",
+    "timestamp": "1781382203",
+    "transaction": "17473|95|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0003",
+    "timestamp": "1781382202",
+    "transaction": "17473|94|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0008",
+    "timestamp": "1781382200",
+    "transaction": "17473|93|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0003",
+    "timestamp": "1781382195",
+    "transaction": "17473|92|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0004",
+    "timestamp": "1781382192",
+    "transaction": "17473|91|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0003",
+    "timestamp": "1781382184",
+    "transaction": "17473|88|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0010",
+    "timestamp": "1781382181",
+    "transaction": "17473|45|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0001",
+    "timestamp": "1781382175",
+    "transaction": "17473|31|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0004",
+    "timestamp": "1781382170",
+    "transaction": "17473|30|",
+    "type": "AUCTION_INIT"
+   },
+   {
+    "franchise": "0008",
+    "timestamp": "1781382134",
+    "transaction": "17500|51|",
+    "type": "AUCTION_WON"
+   },
+   {
+    "franchise": "0008",
+    "timestamp": "1781382118",
+    "transaction": "17500|51|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0003",
+    "timestamp": "1781382109",
+    "transaction": "17500|50|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0008",
+    "timestamp": "1781382096",
+    "transaction": "17500|49|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0003",
+    "timestamp": "1781382088",
+    "transaction": "17500|48|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0008",
+    "timestamp": "1781382074",
+    "transaction": "17500|47|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0003",
+    "timestamp": "1781382070",
+    "transaction": "17500|46|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0010",
+    "timestamp": "1781382059",
+    "transaction": "17500|45|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0003",
+    "timestamp": "1781382048",
+    "transaction": "17500|44|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0008",
+    "timestamp": "1781382045",
+    "transaction": "17500|43|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0010",
+    "timestamp": "1781382039",
+    "transaction": "17500|42|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0003",
+    "timestamp": "1781382027",
+    "transaction": "17500|41|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0008",
+    "timestamp": "1781382026",
+    "transaction": "17500|35|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0001",
+    "timestamp": "1781382019",
+    "transaction": "17500|34|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0010",
+    "timestamp": "1781382014",
+    "transaction": "17500|33|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0004",
+    "timestamp": "1781382008",
+    "transaction": "17500|29|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0001",
+    "timestamp": "1781382004",
+    "transaction": "17500|28|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0008",
+    "timestamp": "1781382000",
+    "transaction": "17500|27|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0004",
+    "timestamp": "1781381995",
+    "transaction": "17500|26|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0003",
+    "timestamp": "1781381990",
+    "transaction": "17500|25|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0001",
+    "timestamp": "1781381987",
+    "transaction": "17500|24|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0010",
+    "timestamp": "1781381983",
+    "transaction": "17500|23|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0004",
+    "timestamp": "1781381977",
+    "transaction": "17500|22|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0001",
+    "timestamp": "1781381977",
+    "transaction": "17500|16|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0003",
+    "timestamp": "1781381975",
+    "transaction": "17500|15|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0004",
+    "timestamp": "1781381961",
+    "transaction": "|16170,",
+    "type": "FREE_AGENT"
+   },
+   {
+    "franchise": "0001",
+    "timestamp": "1781381957",
+    "transaction": "17500|14|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0010",
+    "timestamp": "1781381955",
+    "transaction": "17500|13|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0001",
+    "timestamp": "1781381950",
+    "transaction": "17500|10|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0008",
+    "timestamp": "1781381947",
+    "transaction": "17500|9|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0001",
+    "timestamp": "1781381945",
+    "transaction": "17500|8|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0010",
+    "timestamp": "1781381941",
+    "transaction": "17500|7|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0001",
+    "timestamp": "1781381935",
+    "transaction": "17500|4|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0002",
+    "timestamp": "1781381931",
+    "transaction": "17500|3|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0002",
+    "timestamp": "1781381930",
+    "transaction": "17500|2|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0003",
+    "timestamp": "1781381924",
+    "transaction": "17500|1|",
+    "type": "AUCTION_INIT"
+   },
+   {
+    "franchise": "0003",
+    "timestamp": "1781381855",
+    "transaction": "17497|125|",
+    "type": "AUCTION_WON"
+   },
+   {
+    "franchise": "0003",
+    "timestamp": "1781381839",
+    "transaction": "17497|125|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0001",
+    "timestamp": "1781381829",
+    "transaction": "17497|49|",
+    "type": "AUCTION_INIT"
+   },
+   {
+    "franchise": "0004",
+    "timestamp": "1781381811",
+    "transaction": "17498|199|",
+    "type": "AUCTION_WON"
+   },
+   {
+    "franchise": "0004",
+    "timestamp": "1781381795",
+    "transaction": "17498|199|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0003",
+    "timestamp": "1781381790",
+    "transaction": "17498|196|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0004",
+    "timestamp": "1781381786",
+    "transaction": "17498|195|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0003",
+    "timestamp": "1781381780",
+    "transaction": "17498|194|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0004",
+    "timestamp": "1781381777",
+    "transaction": "17498|193|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0003",
+    "timestamp": "1781381769",
+    "transaction": "17498|191|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0004",
+    "timestamp": "1781381766",
+    "transaction": "17498|190|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0003",
+    "timestamp": "1781381761",
+    "transaction": "17498|185|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0004",
+    "timestamp": "1781381756",
+    "transaction": "17498|182|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0003",
+    "timestamp": "1781381746",
+    "transaction": "17498|180|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0004",
+    "timestamp": "1781381740",
+    "transaction": "17498|176|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0003",
+    "timestamp": "1781381734",
+    "transaction": "17498|175|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0004",
+    "timestamp": "1781381723",
+    "transaction": "17498|174|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0003",
+    "timestamp": "1781381716",
+    "transaction": "17498|173|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0004",
+    "timestamp": "1781381713",
+    "transaction": "17498|172|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0003",
+    "timestamp": "1781381707",
+    "transaction": "17498|171|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0004",
+    "timestamp": "1781381696",
+    "transaction": "17498|170|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0003",
+    "timestamp": "1781381694",
+    "transaction": "17498|166|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0004",
+    "timestamp": "1781381679",
+    "transaction": "17498|165|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0003",
+    "timestamp": "1781381677",
+    "transaction": "17498|160|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0004",
+    "timestamp": "1781381666",
+    "transaction": "17498|159|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0003",
+    "timestamp": "1781381658",
+    "transaction": "17498|158|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0004",
+    "timestamp": "1781381655",
+    "transaction": "17498|157|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0003",
+    "timestamp": "1781381645",
+    "transaction": "17498|156|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0004",
+    "timestamp": "1781381642",
+    "transaction": "17498|155|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0003",
+    "timestamp": "1781381631",
+    "transaction": "17498|151|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0004",
+    "timestamp": "1781381628",
+    "transaction": "17498|150|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0012",
+    "timestamp": "1781381623",
+    "transaction": "17498|142|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0003",
+    "timestamp": "1781381618",
+    "transaction": "17498|141|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0004",
+    "timestamp": "1781381616",
+    "transaction": "17498|140|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0012",
+    "timestamp": "1781381612",
+    "transaction": "17498|138|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0003",
+    "timestamp": "1781381607",
+    "transaction": "17498|137|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0004",
+    "timestamp": "1781381605",
+    "transaction": "17498|136|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0003",
+    "timestamp": "1781381595",
+    "transaction": "17498|135|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0012",
+    "timestamp": "1781381591",
+    "transaction": "17498|134|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0003",
+    "timestamp": "1781381580",
+    "transaction": "17498|133|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0012",
+    "timestamp": "1781381575",
+    "transaction": "17498|124|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0004",
+    "timestamp": "1781381574",
+    "transaction": "17498|123|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0003",
+    "timestamp": "1781381564",
+    "transaction": "17498|121|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0004",
+    "timestamp": "1781381562",
+    "transaction": "17498|120|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0012",
+    "timestamp": "1781381561",
+    "transaction": "17498|118|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0003",
+    "timestamp": "1781381556",
+    "transaction": "17498|117|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0012",
+    "timestamp": "1781381545",
+    "transaction": "17498|116|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0003",
+    "timestamp": "1781381542",
+    "transaction": "17498|115|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0012",
+    "timestamp": "1781381529",
+    "transaction": "17498|114|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0003",
+    "timestamp": "1781381528",
+    "transaction": "17498|113|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0004",
+    "timestamp": "1781381526",
+    "transaction": "17498|112|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0003",
+    "timestamp": "1781381518",
+    "transaction": "17498|111|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0012",
+    "timestamp": "1781381512",
+    "transaction": "17498|101|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0004",
+    "timestamp": "1781381506",
+    "transaction": "17498|100|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0003",
+    "timestamp": "1781381503",
+    "transaction": "17498|92|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0001",
+    "timestamp": "1781381495",
+    "transaction": "17498|91|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0012",
+    "timestamp": "1781381493",
+    "transaction": "17498|90|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0001",
+    "timestamp": "1781381489",
+    "transaction": "17498|89|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0003",
+    "timestamp": "1781381486",
+    "transaction": "17498|88|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0001",
+    "timestamp": "1781381479",
+    "transaction": "17498|77|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0003",
+    "timestamp": "1781381476",
+    "transaction": "17498|76|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0001",
+    "timestamp": "1781381468",
+    "transaction": "17498|75|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0012",
+    "timestamp": "1781381460",
+    "transaction": "17498|1|",
+    "type": "AUCTION_INIT"
+   },
+   {
+    "franchise": "0011",
+    "timestamp": "1781381442",
+    "transaction": "17472|460|",
+    "type": "AUCTION_WON"
+   },
+   {
+    "franchise": "0011",
+    "timestamp": "1781381426",
+    "transaction": "17472|460|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0008",
+    "timestamp": "1781381415",
+    "transaction": "17472|459|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0011",
+    "timestamp": "1781381401",
+    "transaction": "17472|458|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0008",
+    "timestamp": "1781381392",
+    "transaction": "17472|457|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0008",
+    "timestamp": "1781381378",
+    "transaction": "17472|456|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0011",
+    "timestamp": "1781381372",
+    "transaction": "17472|455|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0008",
+    "timestamp": "1781381364",
+    "transaction": "17472|451|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0003",
+    "timestamp": "1781381360",
+    "transaction": "17472|450|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0008",
+    "timestamp": "1781381357",
+    "transaction": "17472|446|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0008",
+    "timestamp": "1781381349",
+    "transaction": "17472|445|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0011",
+    "timestamp": "1781381342",
+    "transaction": "17472|444|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0008",
+    "timestamp": "1781381339",
+    "transaction": "17472|402|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0012",
+    "timestamp": "1781381335",
+    "transaction": "17472|401|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0003",
+    "timestamp": "1781381329",
+    "transaction": "17472|400|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0012",
+    "timestamp": "1781381327",
+    "transaction": "17472|362|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0008",
+    "timestamp": "1781381324",
+    "transaction": "17472|361|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0011",
+    "timestamp": "1781381322",
+    "transaction": "17472|360|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0012",
+    "timestamp": "1781381316",
+    "transaction": "17472|351|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0003",
+    "timestamp": "1781381315",
+    "transaction": "17472|350|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0008",
+    "timestamp": "1781381314",
+    "transaction": "17472|328|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0012",
+    "timestamp": "1781381311",
+    "transaction": "17472|327|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0008",
+    "timestamp": "1781381307",
+    "transaction": "17472|326|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0003",
+    "timestamp": "1781381302",
+    "transaction": "17472|325|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0011",
+    "timestamp": "1781381296",
+    "transaction": "17472|300|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0008",
+    "timestamp": "1781381291",
+    "transaction": "17472|226|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0003",
+    "timestamp": "1781381288",
+    "transaction": "17472|225|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0010",
+    "timestamp": "1781381286",
+    "transaction": "17472|200|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0001",
+    "timestamp": "1781381285",
+    "transaction": "17472|90|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0002",
+    "timestamp": "1781381278",
+    "transaction": "17472|2|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0011",
+    "timestamp": "1781381275",
+    "transaction": "17472|1|",
+    "type": "AUCTION_INIT"
+   },
+   {
+    "franchise": "0011",
+    "timestamp": "1781381244",
+    "transaction": "17543|174|",
+    "type": "AUCTION_WON"
+   },
+   {
+    "franchise": "0011",
+    "timestamp": "1781381228",
+    "transaction": "17543|174|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0003",
+    "timestamp": "1781381222",
+    "transaction": "17543|173|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0008",
+    "timestamp": "1781381210",
+    "transaction": "17543|172|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0003",
+    "timestamp": "1781381208",
+    "transaction": "17543|171|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0011",
+    "timestamp": "1781381195",
+    "transaction": "17543|170|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0003",
+    "timestamp": "1781381190",
+    "transaction": "17543|169|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0008",
+    "timestamp": "1781381180",
+    "transaction": "17543|168|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0011",
+    "timestamp": "1781381179",
+    "transaction": "17543|167|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0003",
+    "timestamp": "1781381166",
+    "transaction": "17543|166|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0008",
+    "timestamp": "1781381151",
+    "transaction": "17543|165|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0012",
+    "timestamp": "1781381138",
+    "transaction": "17543|147|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0008",
+    "timestamp": "1781381135",
+    "transaction": "17543|146|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0012",
+    "timestamp": "1781381124",
+    "transaction": "17543|145|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0008",
+    "timestamp": "1781381122",
+    "transaction": "17543|144|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0012",
+    "timestamp": "1781381117",
+    "transaction": "17543|143|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0008",
+    "timestamp": "1781381114",
+    "transaction": "17543|142|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0012",
+    "timestamp": "1781381108",
+    "transaction": "17543|141|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0008",
+    "timestamp": "1781381106",
+    "transaction": "17543|140|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0012",
+    "timestamp": "1781381101",
+    "transaction": "17543|139|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0008",
+    "timestamp": "1781381098",
+    "transaction": "17543|138|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0012",
+    "timestamp": "1781381090",
+    "transaction": "17543|137|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0008",
+    "timestamp": "1781381088",
+    "transaction": "17543|136|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0012",
+    "timestamp": "1781381081",
+    "transaction": "17543|135|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0011",
+    "timestamp": "1781381077",
+    "transaction": "17543|134|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0012",
+    "timestamp": "1781381074",
+    "transaction": "17543|133|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0008",
+    "timestamp": "1781381072",
+    "transaction": "17543|132|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0012",
+    "timestamp": "1781381067",
+    "transaction": "17543|131|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0011",
+    "timestamp": "1781381066",
+    "transaction": "17543|130|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0007",
+    "timestamp": "1781381055",
+    "transaction": "|9207,",
+    "type": "FREE_AGENT"
+   },
+   {
+    "franchise": "0008",
+    "timestamp": "1781381055",
+    "transaction": "17543|121|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0003",
+    "timestamp": "1781381045",
+    "transaction": "17543|120|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0012",
+    "timestamp": "1781381045",
+    "transaction": "17543|118|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0004",
+    "timestamp": "1781381042",
+    "transaction": "17543|117|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0008",
+    "timestamp": "1781381038",
+    "transaction": "17543|116|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0003",
+    "timestamp": "1781381035",
+    "transaction": "17543|115|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0008",
+    "timestamp": "1781381034",
+    "transaction": "17543|112|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0012",
+    "timestamp": "1781381027",
+    "transaction": "17543|111|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0003",
+    "timestamp": "1781381023",
+    "transaction": "17543|110|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0012",
+    "timestamp": "1781381020",
+    "transaction": "17543|101|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0008",
+    "timestamp": "1781381016",
+    "transaction": "17543|100|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0004",
+    "timestamp": "1781381016",
+    "transaction": "17543|82|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0012",
+    "timestamp": "1781381012",
+    "transaction": "17543|81|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0003",
+    "timestamp": "1781381004",
+    "transaction": "17543|80|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0008",
+    "timestamp": "1781380998",
+    "transaction": "17543|76|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0011",
+    "timestamp": "1781380998",
+    "transaction": "17543|75|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0003",
+    "timestamp": "1781380996",
+    "transaction": "17543|60|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0001",
+    "timestamp": "1781380990",
+    "transaction": "17543|50|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0008",
+    "timestamp": "1781380988",
+    "transaction": "17543|26|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0010",
+    "timestamp": "1781380981",
+    "transaction": "17543|25|",
+    "type": "AUCTION_INIT"
+   },
+   {
+    "franchise": "0007",
+    "timestamp": "1781380966",
+    "transaction": "|17041,",
+    "type": "FREE_AGENT"
+   },
+   {
+    "franchise": "0001",
+    "timestamp": "1781380963",
+    "transaction": "17499|175|",
+    "type": "AUCTION_WON"
+   },
+   {
+    "franchise": "0001",
+    "timestamp": "1781380947",
+    "transaction": "17499|175|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0003",
+    "timestamp": "1781380943",
+    "transaction": "17499|156|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0001",
+    "timestamp": "1781380936",
+    "transaction": "17499|155|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0003",
+    "timestamp": "1781380931",
+    "transaction": "17499|141|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0001",
+    "timestamp": "1781380928",
+    "transaction": "17499|140|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0012",
+    "timestamp": "1781380928",
+    "transaction": "17499|122|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0003",
+    "timestamp": "1781380922",
+    "transaction": "17499|121|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0007",
+    "timestamp": "1781380910",
+    "transaction": "|17303,",
+    "type": "FREE_AGENT"
+   },
+   {
+    "franchise": "0001",
+    "timestamp": "1781380902",
+    "transaction": "17499|120|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0004",
+    "timestamp": "1781380896",
+    "transaction": "17499|100|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0001",
+    "timestamp": "1781380892",
+    "transaction": "17499|50|",
+    "type": "AUCTION_BID"
+   },
+   {
+    "franchise": "0008",
+    "timestamp": "1781380884",
+    "transaction": "17499|1|",
+    "type": "AUCTION_INIT"
+   },
+   {
+    "franchise": "0011",
+    "timestamp": "1781380555",
+    "transaction": "|13193,15330,16151,",
+    "type": "FREE_AGENT"
+   },
+   {
+    "franchise": "0008",
+    "timestamp": "1781379225",
+    "transaction": "|13156,",
+    "type": "FREE_AGENT"
+   },
+   {
+    "franchise": "0008",
+    "timestamp": "1781378763",
+    "transaction": "|11367,14223,13143,12447,13763,15979,",
+    "type": "FREE_AGENT"
+   },
+   {
+    "franchise": "0003",
+    "timestamp": "1781378466",
+    "transaction": "|16197,15981,",
+    "type": "FREE_AGENT"
+   },
+   {
+    "demoted": "17082,17109,",
+    "franchise": "0008",
+    "promoted": "",
+    "timestamp": "1781378442",
+    "type": "TAXI"
+   },
+   {
+    "franchise": "0008",
+    "timestamp": "1781378442",
+    "transaction": "|14108,17062,17232,",
+    "type": "FREE_AGENT"
+   },
+   {
+    "franchise": "0004",
+    "timestamp": "1781378297",
+    "transaction": "|16215,",
+    "type": "FREE_AGENT"
+   },
+   {
+    "franchise": "0002",
+    "timestamp": "1781378029",
+    "transaction": "|10703,",
+    "type": "FREE_AGENT"
+   },
+   {
+    "franchise": "0001",
+    "timestamp": "1781378003",
+    "transaction": "|16752,",
+    "type": "FREE_AGENT"
+   },
+   {
+    "franchise": "0002",
+    "timestamp": "1781377993",
+    "transaction": "|11232,",
+    "type": "FREE_AGENT"
+   },
+   {
+    "franchise": "0001",
+    "timestamp": "1781377993",
+    "transaction": "|16191,",
+    "type": "FREE_AGENT"
+   },
+   {
+    "franchise": "0002",
+    "timestamp": "1781377920",
+    "transaction": "|17337,",
+    "type": "FREE_AGENT"
+   },
+   {
+    "franchise": "0002",
+    "timestamp": "1781377904",
+    "transaction": "|13133,",
+    "type": "FREE_AGENT"
+   },
+   {
+    "franchise": "0002",
+    "timestamp": "1781377891",
+    "transaction": "|16387,",
+    "type": "FREE_AGENT"
+   },
+   {
+    "activated": "16596,14223,16171,",
+    "deactivated": "",
+    "franchise": "0008",
+    "timestamp": "1781377545",
+    "type": "IR"
+   },
+   {
+    "expires": "1781913600",
+    "franchise": "0010",
+    "franchise1_gave_up": "16598,",
+    "franchise2": "0003",
+    "franchise2_gave_up": "FP_0006_2027_1,FP_0003_2028_4,",
+    "timestamp": "1781357843",
+    "type": "TRADE"
+   },
+   {
+    "demoted": "17104,",
+    "franchise": "0003",
+    "promoted": "",
+    "timestamp": "1781354839",
+    "type": "TAXI"
+   },
+   {
+    "demoted": "17134,",
+    "franchise": "0008",
+    "promoted": "",
+    "timestamp": "1781352784",
+    "type": "TAXI"
+   },
+   {
+    "franchise": "0008",
+    "timestamp": "1781351331",
+    "transaction": "|13793,",
+    "type": "FREE_AGENT"
+   },
+   {
+    "franchise": "0008",
+    "timestamp": "1781326775",
+    "transaction": "|14864,",
+    "type": "FREE_AGENT"
+   },
+   {
+    "franchise": "0003",
+    "timestamp": "1781323633",
+    "transaction": "|14057,16390,15283,15626,16219,",
+    "type": "FREE_AGENT"
+   },
+   {
+    "franchise": "0012",
+    "timestamp": "1781321851",
+    "transaction": "|15301,13168,13776,",
+    "type": "FREE_AGENT"
+   },
+   {
+    "activated": "16597,15301,13168,13776,",
+    "deactivated": "",
+    "franchise": "0012",
+    "timestamp": "1781306416",
+    "type": "IR"
+   },
+   {
+    "franchise": "0012",
+    "timestamp": "1781306399",
+    "transaction": "|11938,14123,12187,12658,",
+    "type": "FREE_AGENT"
+   },
+   {
+    "activated": "13116,16788,16604,16222,16170,",
+    "deactivated": "",
+    "franchise": "0004",
+    "timestamp": "1781182276",
+    "type": "IR"
+   },
+   {
+    "demoted": "17063,17088,",
+    "franchise": "0004",
+    "promoted": "",
+    "timestamp": "1781182240",
+    "type": "TAXI"
+   },
+   {
+    "franchise": "0004",
+    "timestamp": "1781182183",
+    "transaction": "|15948,11674,12677,16751,17269,17192,",
+    "type": "FREE_AGENT"
+   },
+   {
+    "activated": "13113,15753,",
+    "deactivated": "",
+    "franchise": "0005",
+    "timestamp": "1781097912",
+    "type": "IR"
+   },
+   {
+    "demoted": "17045,17074,",
+    "franchise": "0005",
+    "promoted": "",
+    "timestamp": "1781096999",
+    "type": "TAXI"
+   },
+   {
+    "franchise": "0005",
+    "timestamp": "1781096999",
+    "transaction": "|16595,16773,",
+    "type": "FREE_AGENT"
+   },
+   {
+    "activated": "17045,17074,16641,",
+    "deactivated": "",
+    "franchise": "0005",
+    "timestamp": "1781096950",
+    "type": "IR"
+   },
+   {
+    "franchise": "0005",
+    "timestamp": "1781096783",
+    "transaction": "|15252,",
+    "type": "FREE_AGENT"
+   },
+   {
+    "activated": "16615,",
+    "deactivated": "",
+    "franchise": "0005",
+    "timestamp": "1781096595",
+    "type": "IR"
+   },
+   {
+    "franchise": "0005",
+    "timestamp": "1781096595",
+    "transaction": "|16642,",
+    "type": "FREE_AGENT"
+   },
+   {
+    "demoted": "17099,",
+    "franchise": "0005",
+    "promoted": "",
+    "timestamp": "1781096398",
+    "type": "TAXI"
+   },
+   {
+    "franchise": "0005",
+    "timestamp": "1781096324",
+    "transaction": "|17274,",
+    "type": "FREE_AGENT"
+   },
+   {
+    "franchise": "0001",
+    "timestamp": "1777467600",
+    "transaction": "15788,|0.00|15759,",
+    "type": "BBID_WAIVER"
+   },
+   {
+    "franchise": "",
+    "timestamp": "1777467600",
+    "transaction": "",
+    "type": "BBID_AUTO_PROCESS_WAIVERS"
+   },
+   {
+    "franchise": "",
+    "timestamp": "1773838800",
+    "transaction": "",
+    "type": "UNLOCK_ALL_PLAYERS"
+   },
+   {
+    "franchise": "0001",
+    "timestamp": "1773838800",
+    "transaction": "16608,|0.00|15258,",
+    "type": "BBID_WAIVER"
+   },
+   {
+    "franchise": "0001",
+    "timestamp": "1773838800",
+    "transaction": "11644,|1.00|10948,",
+    "type": "BBID_WAIVER"
+   },
+   {
+    "franchise": "",
+    "timestamp": "1773838800",
+    "transaction": "",
+    "type": "BBID_AUTO_PROCESS_WAIVERS"
+   },
+   {
+    "activated": "16149,14056,12610,16752,15738,",
+    "deactivated": "",
+    "franchise": "0001",
+    "timestamp": "1773374138",
+    "type": "IR"
+   },
+   {
+    "franchise": "0001",
+    "timestamp": "1773374138",
+    "transaction": "|14086,",
+    "type": "FREE_AGENT"
+   },
+   {
+    "demoted": "17059,",
+    "franchise": "0001",
+    "promoted": "",
+    "timestamp": "1773373776",
+    "type": "TAXI"
+   },
+   {
+    "franchise": "0001",
+    "timestamp": "1773373776",
+    "transaction": "|7394,16180,17234,",
+    "type": "FREE_AGENT"
+   }
+  ]
+ },
+ "version": "1.0"
+}

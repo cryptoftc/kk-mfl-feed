@@ -1,0 +1,241 @@
+{
+ "encoding": "utf-8",
+ "league": {
+  "auction_kind": "live",
+  "baseURL": "https://www47.myfantasyleague.com",
+  "bbidConditional": "No",
+  "bbidIncrement": "1",
+  "bbidSeasonLimit": "560",
+  "bbidTiebreaker": "SORT",
+  "bestLineup": "No",
+  "bidIncrement": "1",
+  "currentWaiverType": "BBID",
+  "defaultTradeExpirationDays": "7",
+  "endWeek": "17",
+  "franchises": {
+   "count": "12",
+   "franchise": [
+    {
+     "abbrev": "BMAN",
+     "bbidAvailableBalance": "71.00",
+     "icon": "https://www47.myfantasyleague.com/fflnetdynamic2019/53478_franchise_icon0001.jpg",
+     "id": "0001",
+     "logo": "https://www47.myfantasyleague.com/fflnetdynamic2019/53478_franchise_logo0001.jpg",
+     "name": "Business Man",
+     "waiverSortOrder": "3"
+    },
+    {
+     "abbrev": "SWegs",
+     "bbidAvailableBalance": "78.00",
+     "icon": "https://www47.myfantasyleague.com/fflnetdynamic2019/53478_franchise_icon0002.jpg",
+     "id": "0002",
+     "logo": "https://www47.myfantasyleague.com/fflnetdynamic2019/53478_franchise_logo0002.jpg",
+     "name": "ScallyWegs",
+     "stadium": "Doubloon Dome",
+     "waiverSortOrder": "1"
+    },
+    {
+     "abbrev": "MSTDN",
+     "bbidAvailableBalance": "388.00",
+     "icon": "https://www47.myfantasyleague.com/fflnetdynamic2019/53478_franchise_icon0003.png",
+     "id": "0003",
+     "logo": "https://www47.myfantasyleague.com/fflnetdynamic2019/53478_franchise_logo0003.png",
+     "name": "The Mastadans ",
+     "waiverSortOrder": "6"
+    },
+    {
+     "bbidAvailableBalance": "28.00",
+     "icon": "https://www47.myfantasyleague.com/fflnetdynamic2019/53478_franchise_icon0004.jpg",
+     "id": "0004",
+     "name": "Creepy",
+     "waiverSortOrder": "7"
+    },
+    {
+     "bbidAvailableBalance": "1539.00",
+     "icon": "https://www47.myfantasyleague.com/fflnetdynamic2019/53478_franchise_icon0005.png",
+     "id": "0005",
+     "name": "Jackie's Jerkoffs",
+     "waiverSortOrder": "12"
+    },
+    {
+     "bbidAvailableBalance": "0.00",
+     "icon": "https://www47.myfantasyleague.com/fflnetdynamic2019/53478_franchise_icon0006.jpg",
+     "id": "0006",
+     "name": "Black Jesus",
+     "waiverSortOrder": "8"
+    },
+    {
+     "bbidAvailableBalance": "26.00",
+     "icon": "https://www47.myfantasyleague.com/fflnetdynamic2019/53478_franchise_icon0007.jpg",
+     "id": "0007",
+     "logo": "https://www47.myfantasyleague.com/fflnetdynamic2019/53478_franchise_logo0007.jpg",
+     "name": "Eli's O-Face",
+     "waiverSortOrder": "11"
+    },
+    {
+     "bbidAvailableBalance": "288.00",
+     "icon": "https://www47.myfantasyleague.com/fflnetdynamic2019/53478_franchise_icon0008.jpg",
+     "id": "0008",
+     "name": "Bernard Alphonse",
+     "waiverSortOrder": "2"
+    },
+    {
+     "bbidAvailableBalance": "13.00",
+     "icon": "https://www47.myfantasyleague.com/fflnetdynamic2019/53478_franchise_icon0009.jpg",
+     "id": "0009",
+     "logo": "https://www47.myfantasyleague.com/fflnetdynamic2019/53478_franchise_icon0009.jpg",
+     "name": "Bush League",
+     "waiverSortOrder": "9"
+    },
+    {
+     "bbidAvailableBalance": "164.00",
+     "icon": "https://www47.myfantasyleague.com/fflnetdynamic2019/53478_franchise_icon0010.jpg",
+     "id": "0010",
+     "name": "Berrcat",
+     "waiverSortOrder": "10"
+    },
+    {
+     "bbidAvailableBalance": "117.00",
+     "icon": "https://www47.myfantasyleague.com/fflnetdynamic2020/53478_franchise_icon0011.jpg",
+     "id": "0011",
+     "logo": "https://www47.myfantasyleague.com/fflnetdynamic2023/53478_franchise_logo0011.jpg",
+     "name": "The Royal Reserves",
+     "waiverSortOrder": "5"
+    },
+    {
+     "abbrev": "MEOW",
+     "bbidAvailableBalance": "564.00",
+     "icon": "https://www47.myfantasyleague.com/fflnetdynamic2019/53478_franchise_icon0012.jpg",
+     "id": "0012",
+     "logo": "https://www47.myfantasyleague.com/fflnetdynamic2019/53478_franchise_logo0012.jpg",
+     "name": "Fritz the Cat",
+     "waiverSortOrder": "4"
+    }
+   ]
+  },
+  "h2h": "YES",
+  "history": {
+   "league": [
+    {
+     "url": "https://www47.myfantasyleague.com/2026/home/53478",
+     "year": "2026"
+    },
+    {
+     "url": "https://www47.myfantasyleague.com/2018/home/53478",
+     "year": "2018"
+    },
+    {
+     "url": "https://www47.myfantasyleague.com/2019/home/53478",
+     "year": "2019"
+    },
+    {
+     "url": "https://www47.myfantasyleague.com/2020/home/53478",
+     "year": "2020"
+    },
+    {
+     "url": "https://www47.myfantasyleague.com/2021/home/53478",
+     "year": "2021"
+    },
+    {
+     "url": "https://www47.myfantasyleague.com/2022/home/53478",
+     "year": "2022"
+    },
+    {
+     "url": "https://www47.myfantasyleague.com/2023/home/53478",
+     "year": "2023"
+    },
+    {
+     "url": "https://www47.myfantasyleague.com/2024/home/53478",
+     "year": "2024"
+    },
+    {
+     "url": "https://www47.myfantasyleague.com/2025/home/53478",
+     "year": "2025"
+    }
+   ]
+  },
+  "id": "53478",
+  "injuredReserve": "8",
+  "keeperType": "dynasty",
+  "lastRegularSeasonWeek": "13",
+  "leagueLogo": "https://www47.myfantasyleague.com/fflnetdynamic2018/53478_league_logo.jpg",
+  "loadRosters": "live_auction",
+  "lockout": "Yes",
+  "maxWaiverRounds": "4",
+  "minBid": "1",
+  "mobileAlerts": "0008,",
+  "name": "Kelly Kapowski Fantasy",
+  "nflPoolEndWeek": "17",
+  "nflPoolStartWeek": "1",
+  "nflPoolType": "Confidence",
+  "partialLineupAllowed": "NO",
+  "playerLimitUnit": "LEAGUE",
+  "precision": "1",
+  "rosterLimits": {
+   "position": [
+    {
+     "limit": "0-0",
+     "name": "QB"
+    },
+    {
+     "limit": "0-0",
+     "name": "RB"
+    },
+    {
+     "limit": "0-0",
+     "name": "WR"
+    },
+    {
+     "limit": "0-0",
+     "name": "TE"
+    },
+    {
+     "limit": "0-0",
+     "name": "PK"
+    }
+   ]
+  },
+  "rosterSize": "24",
+  "rostersPerPlayer": "1",
+  "standingsSort": "VICTORY_POINTS,PCT,PTS,",
+  "startWeek": "1",
+  "starters": {
+   "count": "13",
+   "position": [
+    {
+     "limit": "2",
+     "name": "QB"
+    },
+    {
+     "limit": "3-5",
+     "name": "RB"
+    },
+    {
+     "limit": "4-6",
+     "name": "WR"
+    },
+    {
+     "limit": "2-4",
+     "name": "TE"
+    },
+    {
+     "limit": "0-2",
+     "name": "PK"
+    }
+   ]
+  },
+  "survivorPool": "Yes",
+  "survivorPoolEndWeek": "17",
+  "survivorPoolStartWeek": "1",
+  "taxiSquad": "8",
+  "usesContractYear": "0",
+  "usesSalaries": "0",
+  "victoryPointsBuckets": "1 0",
+  "victoryPointsEndWeek": "13",
+  "victoryPointsLoss": "0",
+  "victoryPointsStartWeek": "1",
+  "victoryPointsTie": "0.5",
+  "victoryPointsWin": "1"
+ },
+ "version": "1.0"
+}
