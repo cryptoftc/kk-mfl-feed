@@ -1,0 +1,40 @@
+name: Sync Kelly Kapowski league data
+
+on:
+  schedule:
+    # Times are UTC. Saskatoon is CST (UTC-6) year round - no daylight saving.
+    - cron: '30 1 * * 3'   # Tue 7:30 PM Saskatoon - 30 min before the waiver report
+    - cron: '30 13 * * 0'  # Sun 7:30 AM Saskatoon - 30 min before the lineup report
+  workflow_dispatch:        # lets you run it by hand from the Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Fetch league data from MFL
+        env:
+          MFL_API_KEY: ${{ secrets.MFL_API_KEY }}
+          MFL_LEAGUE_ID: '53478'
+          MFL_YEAR: '2026'
+        run: python fetch_mfl.py
+
+      - name: Commit refreshed data
+        run: |
+          git config user.name  "mfl-feed-bot"
+          git config user.email "mfl-feed-bot@users.noreply.github.com"
+          git add data/
+          if git diff --staged --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "Sync MFL data $(date -u '+%Y-%m-%d %H:%M UTC')"
+            git push
+          fi
