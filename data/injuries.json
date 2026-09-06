@@ -981,12 +981,6 @@
     "status": "IR-PUP"
    },
    {
-    "details": "Undisclosed",
-    "exp_return": "Sep 13, 2026",
-    "id": "15869",
-    "status": "Questionable"
-   },
-   {
     "details": "Knee",
     "exp_return": "Oct 11, 2026",
     "id": "15870",
@@ -1423,12 +1417,6 @@
     "exp_return": "Oct 11, 2026",
     "id": "16363",
     "status": "IR-PUP"
-   },
-   {
-    "details": "Concussion",
-    "exp_return": "Sep 10, 2026",
-    "id": "16367",
-    "status": "Questionable"
    },
    {
     "details": "Achilles",
@@ -2673,7 +2661,7 @@
     "status": "Questionable"
    }
   ],
-  "timestamp": "1788581224",
+  "timestamp": "1788710823",
   "week": "1"
  },
  "version": "1.0"

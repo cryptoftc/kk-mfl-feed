@@ -4684,7 +4684,7 @@
     "sportsdata_id": "407f1923-6659-4564-800f-25b8746d6d3e",
     "stats_global_id": "400486",
     "stats_id": "25739",
-    "team": "FA",
+    "team": "MIN",
     "twitter_username": "HarriSmith22",
     "weight": "211"
    },
@@ -10364,7 +10364,7 @@
     "sportsdata_id": "f7ff7599-a175-4a0c-b887-3ae9e596fc64",
     "stats_global_id": "0",
     "stats_id": "31157",
-    "team": "CHI",
+    "team": "FA",
     "weight": "185"
    },
    {
@@ -16792,7 +16792,7 @@
     "sportsdata_id": "3f4fe254-f18f-4b56-83e0-c37cfc72c7f7",
     "stats_global_id": "0",
     "stats_id": "32817",
-    "team": "ATL",
+    "team": "SFO",
     "twitter_username": "khalid_kareem53",
     "weight": "255"
    },
@@ -18546,7 +18546,7 @@
     "sportsdata_id": "c5175598-1392-4eaa-ae62-d99811a0c477",
     "stats_global_id": "0",
     "stats_id": "32319",
-    "team": "BUF",
+    "team": "FA",
     "weight": "223"
    },
    {
@@ -20424,7 +20424,7 @@
     "sportsdata_id": "78af6ab8-1003-423d-b29b-111d8f4d45ad",
     "stats_global_id": "0",
     "stats_id": "33438",
-    "team": "FA",
+    "team": "LVR",
     "weight": "240"
    },
    {
@@ -25751,7 +25751,7 @@
     "sportsdata_id": "7078cdfc-032b-4f85-8b4b-720f926ba1cb",
     "stats_global_id": "0",
     "stats_id": "34197",
-    "team": "KCC",
+    "team": "FA",
     "weight": "213"
    },
    {
@@ -27769,7 +27769,7 @@
     "sportsdata_id": "ba06804a-b84c-408a-8ef6-5226d8424479",
     "stats_global_id": "0",
     "stats_id": "40279",
-    "team": "FA",
+    "team": "LVR",
     "weight": "195"
    },
    {
@@ -30663,7 +30663,7 @@
     "sportsdata_id": "733cc366-53e3-4703-a2fc-2aa860272cf3",
     "stats_global_id": "0",
     "stats_id": "40261",
-    "team": "SFO",
+    "team": "FA",
     "weight": "240"
    },
    {
@@ -33348,7 +33348,7 @@
     "sportsdata_id": "1c5dddf1-b744-4019-b57b-4fc8a3798dee",
     "stats_global_id": "0",
     "stats_id": "40955",
-    "team": "FA",
+    "team": "ATL",
     "weight": "274"
    },
    {
@@ -40415,7 +40415,7 @@
     "sportsdata_id": "83573dd8-c19e-4e20-9c3d-056418bf3842",
     "stats_global_id": "0",
     "stats_id": "41890",
-    "team": "LAC",
+    "team": "FA",
     "weight": "254"
    },
    {
@@ -45019,7 +45019,7 @@
     "stats_global_id": "0",
     "stats_id": "43126",
     "status": "R",
-    "team": "LVR",
+    "team": "FA",
     "weight": "209"
    },
    {
@@ -49142,7 +49142,7 @@
     "stats_global_id": "0",
     "stats_id": "43115",
     "status": "R",
-    "team": "KCC",
+    "team": "FA",
     "weight": "211"
    },
    {
@@ -49770,9 +49770,26 @@
     "stats_global_id": "0",
     "status": "R",
     "team": "BAL"
+   },
+   {
+    "birthdate": "1050638400",
+    "college": "Duke",
+    "draft_team": "FA",
+    "draft_year": "2026",
+    "espn_id": "4602967",
+    "height": "76",
+    "id": "17769",
+    "jersey": "61",
+    "name": "Hall, Aaron",
+    "position": "DT",
+    "rotowire_id": "19746",
+    "stats_global_id": "0",
+    "status": "R",
+    "team": "CAR",
+    "weight": "297"
    }
   ],
-  "timestamp": "1788507422"
+  "timestamp": "1788711668"
  },
  "version": "1.0"
 }
