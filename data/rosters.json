@@ -800,7 +800,7 @@
       "status": "ROSTER"
      },
      {
-      "id": "17752",
+      "id": "17175",
       "status": "ROSTER"
      },
      {
@@ -810,10 +810,6 @@
      {
       "id": "17523",
       "status": "INJURED_RESERVE"
-     },
-     {
-      "id": "17175",
-      "status": "TAXI_SQUAD"
      },
      {
       "id": "16757",
@@ -841,6 +837,10 @@
      },
      {
       "id": "17541",
+      "status": "TAXI_SQUAD"
+     },
+     {
+      "id": "17752",
       "status": "TAXI_SQUAD"
      }
     ],

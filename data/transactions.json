@@ -3,6 +3,13 @@
  "transactions": {
   "transaction": [
    {
+    "demoted": "17752,",
+    "franchise": "0006",
+    "promoted": "17175,",
+    "timestamp": "1788755091",
+    "type": "TAXI"
+   },
+   {
     "activated": "",
     "deactivated": "14073,",
     "franchise": "0007",
