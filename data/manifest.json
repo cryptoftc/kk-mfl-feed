@@ -1,18 +1,18 @@
 {
- "fetched_at_utc": "2026-09-09T06:31:00Z",
+ "fetched_at_utc": "2026-09-12T06:15:24Z",
  "year": "2026",
  "league_id": "53478",
  "week_requested": "current",
  "ok": {
-  "league": 6480,
-  "rosters": 25387,
-  "free_agents": 19110,
-  "injuries": 50451,
+  "league": 6485,
+  "rosters": 25300,
+  "free_agents": 18967,
+  "injuries": 40306,
   "standings": 1523,
-  "player_scores": 171,
-  "nfl_schedule": 10078,
-  "players": 1197614,
-  "transactions": 129340,
+  "player_scores": 5335,
+  "nfl_schedule": 10095,
+  "players": 1197751,
+  "transactions": 132210,
   "future_picks": 13614
  },
  "failed": {}

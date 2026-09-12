@@ -6390,7 +6390,7 @@
     "sportsdata_id": "b040e601-ec40-4757-bf3d-71bf64ef99cf",
     "stats_global_id": "606501",
     "stats_id": "28654",
-    "team": "LVR",
+    "team": "FA",
     "weight": "212"
    },
    {
@@ -7175,7 +7175,7 @@
     "sportsdata_id": "852b00dd-fd1c-4edb-809d-912a6472cd07",
     "stats_global_id": "830687",
     "stats_id": "29278",
-    "team": "TEN",
+    "team": "MIN",
     "twitter_username": "JIHADWARD17",
     "weight": "285"
    },
@@ -9101,7 +9101,7 @@
     "sportsdata_id": "dd7640e6-d81d-4605-b900-451bf40e5bd6",
     "stats_global_id": "0",
     "stats_id": "30203",
-    "team": "SEA",
+    "team": "FA",
     "weight": "198"
    },
    {
@@ -28310,7 +28310,7 @@
     "sportsdata_id": "779fd90f-ae23-4f6e-80f2-49052e7ca6aa",
     "stats_global_id": "0",
     "stats_id": "40109",
-    "team": "DEN",
+    "team": "FA",
     "weight": "233"
    },
    {
@@ -30456,7 +30456,7 @@
     "sportsdata_id": "6f9135a9-2761-4b13-8651-56b536f0f22f",
     "stats_global_id": "0",
     "stats_id": "40258",
-    "team": "IND",
+    "team": "FA",
     "weight": "203"
    },
    {
@@ -35294,7 +35294,7 @@
     "sportsdata_id": "ef0feb13-57b8-474c-a723-cf03f57a321a",
     "stats_global_id": "0",
     "stats_id": "41045",
-    "team": "FA",
+    "team": "CLE",
     "weight": "215"
    },
    {
@@ -36164,7 +36164,7 @@
     "sportsdata_id": "687dea60-07cc-11ef-ad8e-ffa665412428",
     "stats_global_id": "0",
     "stats_id": "41465",
-    "team": "WAS",
+    "team": "FA",
     "weight": "241"
    },
    {
@@ -36715,7 +36715,7 @@
     "sportsdata_id": "30ee4a00-04fb-11ef-bec6-79d1846dfa68",
     "stats_global_id": "0",
     "stats_id": "41133",
-    "team": "JAC",
+    "team": "FA",
     "weight": "213"
    },
    {
@@ -42174,7 +42174,7 @@
     "sportsdata_id": "a9afb800-23ba-11f0-aa7d-833b948e6c02",
     "stats_global_id": "0",
     "stats_id": "42130",
-    "team": "IND",
+    "team": "FA",
     "weight": "181"
    },
    {
@@ -42649,7 +42649,7 @@
     "sportsdata_id": "10e1f570-2f6d-11f0-83ff-1b0af9d7582e",
     "stats_global_id": "0",
     "stats_id": "42519",
-    "team": "LAC",
+    "team": "FA",
     "weight": "220"
    },
    {
@@ -48267,7 +48267,7 @@
     "stats_global_id": "0",
     "stats_id": "42854",
     "status": "R",
-    "team": "LAR",
+    "team": "LVR",
     "weight": "327"
    },
    {
@@ -48924,7 +48924,7 @@
     "stats_global_id": "0",
     "stats_id": "43146",
     "status": "R",
-    "team": "MIA",
+    "team": "HOU",
     "weight": "226"
    },
    {
@@ -49070,7 +49070,7 @@
     "stats_global_id": "0",
     "stats_id": "42891",
     "status": "R",
-    "team": "LAC",
+    "team": "CLE",
     "weight": "247"
    },
    {
@@ -49745,17 +49745,22 @@
    },
    {
     "birthdate": "1030593600",
+    "cbs_id": "3175784",
+    "college": "Illinois",
     "draft_team": "FA",
     "draft_year": "2026",
     "espn_id": "4693371",
+    "height": "78",
     "id": "17767",
     "jersey": "96",
     "name": "Thompson Jr., James",
     "position": "DT",
     "rotowire_id": "19611",
     "stats_global_id": "0",
+    "stats_id": "42968",
     "status": "R",
-    "team": "SFO"
+    "team": "SFO",
+    "weight": "308"
    },
    {
     "birthdate": "807598800",
@@ -49773,6 +49778,7 @@
    },
    {
     "birthdate": "1050638400",
+    "cbs_id": "26693433",
     "college": "Duke",
     "draft_team": "FA",
     "draft_year": "2026",
@@ -49789,7 +49795,7 @@
     "weight": "297"
    }
   ],
-  "timestamp": "1788935448"
+  "timestamp": "1789193714"
  },
  "version": "1.0"
 }
