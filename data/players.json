@@ -5444,7 +5444,7 @@
     "sportsdata_id": "0d038341-cd66-4651-93c4-e76c6d218135",
     "stats_global_id": "560298",
     "stats_id": "27640",
-    "team": "BUF",
+    "team": "NEP",
     "twitter_username": "RiDQulous_98",
     "weight": "320"
    },
@@ -15921,6 +15921,7 @@
     "draft_round": "2",
     "draft_team": "DET",
     "draft_year": "2020",
+    "espn_id": "4259545",
     "height": "68",
     "id": "14797",
     "jersey": "4",
@@ -19190,7 +19191,7 @@
     "sportsdata_id": "de456390-b27b-4146-87b9-0267f1ea8db4",
     "stats_global_id": "0",
     "stats_id": "33644",
-    "team": "MIN",
+    "team": "FA",
     "weight": "215"
    },
    {
@@ -29082,7 +29083,7 @@
     "sportsdata_id": "87895e2c-f210-497d-956a-cb5aac9fd8b5",
     "stats_global_id": "0",
     "stats_id": "40111",
-    "team": "FA",
+    "team": "ATL",
     "weight": "303"
    },
    {
@@ -31092,7 +31093,7 @@
     "sportsdata_id": "840a7940-ebaa-11ed-a11b-41cbcb1c4445",
     "stats_global_id": "0",
     "stats_id": "40548",
-    "team": "FA",
+    "team": "PHI",
     "weight": "189"
    },
    {
@@ -31662,7 +31663,7 @@
     "sportsdata_id": "cef32a80-e761-11ed-ac46-e3b4ebd723e5",
     "stats_global_id": "0",
     "stats_id": "40335",
-    "team": "MIA",
+    "team": "FA",
     "weight": "250"
    },
    {
@@ -32787,7 +32788,7 @@
     "sportsdata_id": "1472d4aa-ffbf-4683-aa91-86bc4795b34e",
     "stats_global_id": "0",
     "stats_id": "41016",
-    "team": "CLE",
+    "team": "FA",
     "weight": "190"
    },
    {
@@ -35609,7 +35610,7 @@
     "sportsdata_id": "ab636859-ef8d-443e-b2db-b555b21705c8",
     "stats_global_id": "0",
     "stats_id": "41076",
-    "team": "GBP",
+    "team": "HOU",
     "weight": "309"
    },
    {
@@ -36525,7 +36526,7 @@
     "sportsdata_id": "c20acbf0-04f9-11ef-8561-b171b26383e5",
     "stats_global_id": "0",
     "stats_id": "41136",
-    "team": "CHI",
+    "team": "FA",
     "weight": "182"
    },
    {
@@ -37266,7 +37267,7 @@
     "sportsdata_id": "5068d7b0-f368-11ed-b622-936c98a846ff",
     "stats_global_id": "0",
     "stats_id": "40745",
-    "team": "FA",
+    "team": "DET",
     "weight": "175"
    },
    {
@@ -49793,9 +49794,27 @@
     "status": "R",
     "team": "CAR",
     "weight": "297"
+   },
+   {
+    "birthdate": "1051243200",
+    "cbs_id": "26725313",
+    "college": "New Mexico",
+    "draft_team": "FA",
+    "draft_year": "2026",
+    "espn_id": "4876378",
+    "height": "70",
+    "id": "17770",
+    "name": "Bankston, Damon",
+    "position": "RB",
+    "rotowire_id": "19658",
+    "stats_global_id": "0",
+    "stats_id": "43354",
+    "status": "R",
+    "team": "GBP",
+    "weight": "186"
    }
   ],
-  "timestamp": "1789193714"
+  "timestamp": "1789318783"
  },
  "version": "1.0"
 }
