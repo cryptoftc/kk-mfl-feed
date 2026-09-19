@@ -6719,7 +6719,7 @@
     "sportsdata_id": "1ffc735b-74d8-44d2-ab32-00c5485c799f",
     "stats_global_id": "691278",
     "stats_id": "29274",
-    "team": "FA",
+    "team": "NYJ",
     "twitter_username": "sterl_shep3",
     "weight": "194"
    },
@@ -11898,7 +11898,7 @@
     "sportsdata_id": "e7f0a505-8060-403e-a3b3-9d4e88dda1dc",
     "stats_global_id": "742382",
     "stats_id": "31144",
-    "team": "FA",
+    "team": "LAC",
     "weight": "206"
    },
    {
@@ -16596,7 +16596,7 @@
     "sportsdata_id": "93c17735-5275-45cf-b3ef-620351c62313",
     "stats_global_id": "0",
     "stats_id": "32831",
-    "team": "FA",
+    "team": "NYJ",
     "twitter_username": "T_muhneyy10",
     "weight": "208"
    },
@@ -16725,7 +16725,7 @@
     "sportsdata_id": "7874d188-0fcd-4af9-9289-27c27e2bbd16",
     "stats_global_id": "0",
     "stats_id": "32764",
-    "team": "FA",
+    "team": "PHI",
     "twitter_username": "JosiahD5",
     "weight": "240"
    },
@@ -16901,7 +16901,7 @@
     "sportsdata_id": "79bf0ca5-a8db-4c39-a40b-67674ccb60d0",
     "stats_global_id": "0",
     "stats_id": "32693",
-    "team": "FA",
+    "team": "HOU",
     "twitter_username": "KennethMurray",
     "weight": "241"
    },
@@ -19253,7 +19253,7 @@
     "sportsdata_id": "02af99e0-3c84-4d4e-937a-a9f29a02323b",
     "stats_global_id": "0",
     "stats_id": "33605",
-    "team": "FA",
+    "team": "ATL",
     "weight": "212"
    },
    {
@@ -21793,7 +21793,7 @@
     "sportsdata_id": "0560d134-d316-4cda-9d48-34d32267af68",
     "stats_global_id": "0",
     "stats_id": "33891",
-    "team": "FA",
+    "team": "SFO",
     "weight": "247"
    },
    {
@@ -21968,6 +21968,25 @@
     "weight": "313"
    },
    {
+    "birthdate": "812955600",
+    "cbs_id": "3117054",
+    "college": "Temple",
+    "draft_team": "FA",
+    "draft_year": "2019",
+    "espn_id": "3138744",
+    "height": "77",
+    "id": "15620",
+    "jersey": "43",
+    "name": "Myarick, Chris",
+    "position": "TE",
+    "rotowire_id": "14282",
+    "sportsdata_id": "002adaa8-5dc2-4b4b-95bc-53a38dce3849",
+    "stats_global_id": "0",
+    "stats_id": "32442",
+    "team": "LVR",
+    "weight": "261"
+   },
+   {
     "birthdate": "896763600",
     "cbs_id": "2251340",
     "college": "Stanford",
@@ -22099,6 +22118,25 @@
     "stats_id": "33778",
     "team": "NEP",
     "weight": "231"
+   },
+   {
+    "birthdate": "846565200",
+    "cbs_id": "3116743",
+    "college": "New Mexico",
+    "draft_team": "FA",
+    "draft_year": "2019",
+    "espn_id": "3139389",
+    "height": "69",
+    "id": "15684",
+    "jersey": "37",
+    "name": "Ross, D'Angelo",
+    "position": "CB",
+    "rotowire_id": "14080",
+    "sportsdata_id": "3f0926f7-103e-44d5-85f0-e53ec48fe452",
+    "stats_global_id": "0",
+    "stats_id": "32223",
+    "team": "CLE",
+    "weight": "190"
    },
    {
     "birthdate": "897109200",
@@ -22369,7 +22407,7 @@
     "sportsdata_id": "cdc61676-6592-43f9-a4a6-d29ce52ac8f4",
     "stats_global_id": "0",
     "stats_id": "34112",
-    "team": "FA",
+    "team": "MIN",
     "weight": "210"
    },
    {
@@ -22594,7 +22632,7 @@
     "sportsdata_id": "3fec8370-ca72-11ec-a83a-8732d3d5a7e3",
     "stats_global_id": "0",
     "stats_id": "34261",
-    "team": "ATL",
+    "team": "DAL",
     "weight": "197"
    },
    {
@@ -23588,7 +23626,7 @@
     "sportsdata_id": "a134b125-37fb-4192-9ee2-f8a6f4da48bb",
     "stats_global_id": "0",
     "stats_id": "34017",
-    "team": "FA",
+    "team": "ATL",
     "weight": "273"
    },
    {
@@ -25037,7 +25075,7 @@
     "sportsdata_id": "9282c55b-7075-4ad1-b6a6-50b45f787382",
     "stats_global_id": "0",
     "stats_id": "34115",
-    "team": "FA",
+    "team": "GBP",
     "weight": "320"
    },
    {
@@ -26718,6 +26756,25 @@
     "weight": "250"
    },
    {
+    "birthdate": "879310800",
+    "cbs_id": "2239683",
+    "college": "Nebraska",
+    "draft_team": "FA",
+    "draft_year": "2022",
+    "espn_id": "4034861",
+    "height": "76",
+    "id": "16091",
+    "jersey": "97",
+    "name": "Stille, Ben",
+    "position": "DT",
+    "rotowire_id": "16241",
+    "sportsdata_id": "7a46ff50-d3b4-11ec-96a0-c3471a31202c",
+    "stats_global_id": "0",
+    "stats_id": "34537",
+    "team": "DET",
+    "weight": "296"
+   },
+   {
     "birthdate": "930718800",
     "cbs_id": "2868296",
     "college": "USC",
@@ -27331,7 +27388,7 @@
     "sportsdata_id": "dcc536c1-36f2-4e34-8028-ccf32d930018",
     "stats_global_id": "0",
     "stats_id": "40198",
-    "team": "FA",
+    "team": "CLE",
     "weight": "211"
    },
    {
@@ -28268,7 +28325,7 @@
     "sportsdata_id": "f4d8da18-8be8-470c-947c-d9fd3d85612c",
     "stats_global_id": "0",
     "stats_id": "40088",
-    "team": "FA",
+    "team": "JAC",
     "weight": "248"
    },
    {
@@ -28821,7 +28878,7 @@
     "draft_round": "1",
     "draft_team": "NYG",
     "draft_year": "2023",
-    "espn_id": "42873",
+    "espn_id": "4428328",
     "height": "74",
     "id": "16255",
     "jersey": "2",
@@ -30268,7 +30325,7 @@
     "sportsdata_id": "d492db9f-35b8-45e9-9e32-acd5dd7d1f42",
     "stats_global_id": "0",
     "stats_id": "40239",
-    "team": "FA",
+    "team": "ARI",
     "weight": "196"
    },
    {
@@ -31746,6 +31803,25 @@
     "stats_id": "40698",
     "team": "CAR",
     "weight": "265"
+   },
+   {
+    "birthdate": "923029200",
+    "cbs_id": "2868177",
+    "college": "USC",
+    "draft_team": "FA",
+    "draft_year": "2023",
+    "espn_id": "4259651",
+    "height": "75",
+    "id": "16486",
+    "jersey": "95",
+    "name": "Pili, Brandon",
+    "position": "DT",
+    "rotowire_id": "17560",
+    "sportsdata_id": "11232260-f0dc-11ed-8ba5-bf9b1d9bee25",
+    "stats_global_id": "0",
+    "stats_id": "40656",
+    "team": "SEA",
+    "weight": "334"
    },
    {
     "birthdate": "887000400",
@@ -33852,6 +33928,27 @@
     "weight": "182"
    },
    {
+    "birthdate": "1043730000",
+    "cbs_id": "26695286",
+    "college": "Penn State",
+    "draft_pick": "35",
+    "draft_round": "7",
+    "draft_team": "GBP",
+    "draft_year": "2024",
+    "espn_id": "4431433",
+    "height": "71",
+    "id": "16674",
+    "jersey": "34",
+    "name": "King, Kalen",
+    "position": "CB",
+    "rotowire_id": "17739",
+    "sportsdata_id": "c8cf0369-d2bc-47be-b459-360b277e081f",
+    "stats_global_id": "0",
+    "stats_id": "41129",
+    "team": "ARI",
+    "weight": "190"
+   },
+   {
     "birthdate": "1044766800",
     "cbs_id": "26699677",
     "college": "Iowa",
@@ -34663,7 +34760,7 @@
     "sportsdata_id": "00b1481f-e562-4727-9e2b-9ab3293f2748",
     "stats_global_id": "0",
     "stats_id": "40949",
-    "team": "FA",
+    "team": "SFO",
     "weight": "330"
    },
    {
@@ -35441,6 +35538,27 @@
     "stats_id": "41020",
     "team": "NYJ",
     "weight": "197"
+   },
+   {
+    "birthdate": "976078800",
+    "cbs_id": "26700297",
+    "college": "South Carolina",
+    "draft_pick": "4",
+    "draft_round": "6",
+    "draft_team": "NEP",
+    "draft_year": "2024",
+    "espn_id": "4875079",
+    "height": "72",
+    "id": "16756",
+    "jersey": "24",
+    "name": "Dial, Marcellas",
+    "position": "CB",
+    "rotowire_id": "17984",
+    "sportsdata_id": "2c5c81d9-07bd-40a7-8052-8c2fa1203834",
+    "stats_global_id": "0",
+    "stats_id": "41059",
+    "team": "MIA",
+    "weight": "190"
    },
    {
     "birthdate": "998974800",
@@ -37122,7 +37240,7 @@
     "sportsdata_id": "6dcf20a0-f31f-11ed-93d5-0b07c9520235",
     "stats_global_id": "0",
     "stats_id": "40697",
-    "team": "FA",
+    "team": "ARI",
     "weight": "200"
    },
    {
@@ -37369,7 +37487,7 @@
     "sportsdata_id": "e88c3c70-06fa-11ef-92ba-0de371d8ef1a",
     "stats_global_id": "0",
     "stats_id": "41251",
-    "team": "CLE",
+    "team": "HOU",
     "weight": "214"
    },
    {
@@ -37428,6 +37546,25 @@
     "stats_id": "40829",
     "team": "FA",
     "weight": "182"
+   },
+   {
+    "birthdate": "988779600",
+    "cbs_id": "3121240",
+    "college": "East Carolina",
+    "draft_team": "FA",
+    "draft_year": "2024",
+    "espn_id": "4872841",
+    "height": "73",
+    "id": "16989",
+    "jersey": "25",
+    "name": "Wood, Julius",
+    "position": "S",
+    "rotowire_id": "18247",
+    "sportsdata_id": "a7011ca0-072f-11ef-aee1-63cc61868faa",
+    "stats_global_id": "0",
+    "stats_id": "41400",
+    "team": "MIA",
+    "weight": "193"
    },
    {
     "birthdate": "956120400",
@@ -37504,6 +37641,25 @@
     "stats_id": "40288",
     "team": "HOU",
     "weight": "210"
+   },
+   {
+    "birthdate": "958194000",
+    "cbs_id": "2963213",
+    "college": "Harvard",
+    "draft_team": "FA",
+    "draft_year": "2023",
+    "espn_id": "4367828",
+    "height": "75",
+    "id": "17016",
+    "jersey": "56",
+    "name": "Jones, Truman",
+    "position": "DE",
+    "rotowire_id": "17289",
+    "sportsdata_id": "484759c0-ec39-11ed-aeaf-cb0dc6206dc5",
+    "stats_global_id": "0",
+    "stats_id": "40559",
+    "team": "TEN",
+    "weight": "255"
    },
    {
     "birthdate": "516171600",
@@ -38243,7 +38399,7 @@
     "sportsdata_id": "54b97d06-1639-46a3-9dcc-67320687281d",
     "stats_global_id": "0",
     "stats_id": "42018",
-    "team": "FA",
+    "team": "NYG",
     "weight": "234"
    },
    {
@@ -41566,7 +41722,7 @@
     "sportsdata_id": "f15872a6-7bc1-41e4-a2cd-0a2fbc432bf7",
     "stats_global_id": "0",
     "stats_id": "41999",
-    "team": "CAR",
+    "team": "FA",
     "weight": "174"
    },
    {
@@ -43055,7 +43211,7 @@
     "sportsdata_id": "a514f5d0-260d-11f0-81c1-eb0abefb169c",
     "stats_global_id": "0",
     "stats_id": "42417",
-    "team": "FA",
+    "team": "BAL",
     "weight": "171"
    },
    {
@@ -43173,6 +43329,7 @@
    },
    {
     "birthdate": "1028692800",
+    "cbs_id": "3161657",
     "college": "TCU",
     "draft_team": "FA",
     "draft_year": "2025",
@@ -43380,7 +43537,7 @@
     "rotowire_id": "18833",
     "stats_global_id": "0",
     "stats_id": "42256",
-    "team": "FA",
+    "team": "WAS",
     "weight": "244"
    },
    {
@@ -43595,6 +43752,7 @@
    },
    {
     "birthdate": "1005886800",
+    "cbs_id": "3162490",
     "college": "Tulane",
     "draft_team": "FA",
     "draft_year": "2025",
@@ -43606,6 +43764,7 @@
     "position": "CB",
     "rotowire_id": "19078",
     "stats_global_id": "0",
+    "stats_id": "42425",
     "team": "IND",
     "weight": "201"
    },
@@ -43852,6 +44011,24 @@
     "weight": "249"
    },
    {
+    "birthdate": "941173200",
+    "cbs_id": "2965588",
+    "college": "NC State",
+    "draft_team": "FA",
+    "draft_year": "2024",
+    "espn_id": "4361651",
+    "height": "68",
+    "id": "17423",
+    "jersey": "34",
+    "name": "Ingle, Tanner",
+    "position": "S",
+    "rotowire_id": "17474",
+    "stats_global_id": "0",
+    "stats_id": "40389",
+    "team": "LAR",
+    "weight": "186"
+   },
+   {
     "birthdate": "993531600",
     "cbs_id": "29375393",
     "college": "Northern Ireland",
@@ -43939,6 +44116,24 @@
     "stats_id": "42246",
     "team": "FA",
     "weight": "195"
+   },
+   {
+    "birthdate": "1025582400",
+    "cbs_id": "3165353",
+    "college": "UNLV",
+    "draft_team": "FA",
+    "draft_year": "2025",
+    "espn_id": "4685637",
+    "height": "74",
+    "id": "17449",
+    "jersey": "42",
+    "name": "Woodard, Jackson",
+    "position": "LB",
+    "rotowire_id": "18726",
+    "stats_global_id": "0",
+    "stats_id": "42448",
+    "team": "MIA",
+    "weight": "230"
    },
    {
     "draft_team": "FA",
@@ -49553,7 +49748,7 @@
     "stats_global_id": "0",
     "stats_id": "42947",
     "status": "R",
-    "team": "FA",
+    "team": "KCC",
     "weight": "268"
    },
    {
@@ -50104,17 +50299,22 @@
    },
    {
     "birthdate": "1020312000",
+    "cbs_id": "3161523",
+    "college": "Oklahoma State",
     "draft_team": "FA",
     "draft_year": "2026",
     "espn_id": "4685970",
+    "height": "72",
     "id": "17772",
     "jersey": "29",
     "name": "Harris, Kenneth",
     "position": "CB",
     "rotowire_id": "19831",
     "stats_global_id": "0",
+    "stats_id": "43365",
     "status": "R",
-    "team": "IND"
+    "team": "IND",
+    "weight": "192"
    },
    {
     "birthdate": "991544400",
@@ -50184,7 +50384,7 @@
     "team": "DET"
    }
   ],
-  "timestamp": "1789540326"
+  "timestamp": "1789798871"
  },
  "version": "1.0"
 }
