@@ -570,10 +570,6 @@
       "status": "ROSTER"
      },
      {
-      "id": "16190",
-      "status": "ROSTER"
-     },
-     {
       "id": "15287",
       "status": "ROSTER"
      },
@@ -662,6 +658,10 @@
       "status": "ROSTER"
      },
      {
+      "id": "13124",
+      "status": "ROSTER"
+     },
+     {
       "id": "16204",
       "status": "INJURED_RESERVE"
      },
@@ -679,6 +679,10 @@
      },
      {
       "id": "15290",
+      "status": "INJURED_RESERVE"
+     },
+     {
+      "id": "16190",
       "status": "INJURED_RESERVE"
      },
      {
@@ -1528,10 +1532,6 @@
     "id": "0012",
     "player": [
      {
-      "id": "15889",
-      "status": "ROSTER"
-     },
-     {
       "id": "10700",
       "status": "ROSTER"
      },
@@ -1596,10 +1596,6 @@
       "status": "ROSTER"
      },
      {
-      "id": "17517",
-      "status": "ROSTER"
-     },
-     {
       "id": "15981",
       "status": "ROSTER"
      },
@@ -1624,7 +1620,19 @@
       "status": "ROSTER"
      },
      {
+      "id": "17599",
+      "status": "ROSTER"
+     },
+     {
       "id": "16215",
+      "status": "INJURED_RESERVE"
+     },
+     {
+      "id": "17517",
+      "status": "INJURED_RESERVE"
+     },
+     {
+      "id": "15889",
       "status": "INJURED_RESERVE"
      },
      {
@@ -1637,10 +1645,6 @@
      },
      {
       "id": "17483",
-      "status": "TAXI_SQUAD"
-     },
-     {
-      "id": "17599",
       "status": "TAXI_SQUAD"
      },
      {
