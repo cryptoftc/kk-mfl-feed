@@ -22,7 +22,7 @@
      "id": "0001",
      "logo": "https://www47.myfantasyleague.com/fflnetdynamic2019/53478_franchise_logo0001.jpg",
      "name": "Business Man",
-     "waiverSortOrder": "5"
+     "waiverSortOrder": "3"
     },
     {
      "abbrev": "SWegs",
@@ -32,7 +32,7 @@
      "logo": "https://www47.myfantasyleague.com/fflnetdynamic2019/53478_franchise_logo0002.jpg",
      "name": "ScallyWegs",
      "stadium": "Doubloon Dome",
-     "waiverSortOrder": "1"
+     "waiverSortOrder": "5"
     },
     {
      "abbrev": "MSTDN",
@@ -48,7 +48,7 @@
      "icon": "https://www47.myfantasyleague.com/fflnetdynamic2019/53478_franchise_icon0004.jpg",
      "id": "0004",
      "name": "Creepy",
-     "waiverSortOrder": "4"
+     "waiverSortOrder": "7"
     },
     {
      "bbidAvailableBalance": "1539.00",
@@ -70,14 +70,14 @@
      "id": "0007",
      "logo": "https://www47.myfantasyleague.com/fflnetdynamic2019/53478_franchise_logo0007.jpg",
      "name": "Eli's O-Face",
-     "waiverSortOrder": "9"
+     "waiverSortOrder": "8"
     },
     {
      "bbidAvailableBalance": "288.00",
      "icon": "https://www47.myfantasyleague.com/fflnetdynamic2019/53478_franchise_icon0008.jpg",
      "id": "0008",
      "name": "Bernard Alphonse",
-     "waiverSortOrder": "2"
+     "waiverSortOrder": "1"
     },
     {
      "bbidAvailableBalance": "13.00",
@@ -85,14 +85,14 @@
      "id": "0009",
      "logo": "https://www47.myfantasyleague.com/fflnetdynamic2019/53478_franchise_icon0009.jpg",
      "name": "Bush League",
-     "waiverSortOrder": "6"
+     "waiverSortOrder": "9"
     },
     {
      "bbidAvailableBalance": "164.00",
      "icon": "https://www47.myfantasyleague.com/fflnetdynamic2019/53478_franchise_icon0010.jpg",
      "id": "0010",
      "name": "Berrcat",
-     "waiverSortOrder": "8"
+     "waiverSortOrder": "6"
     },
     {
      "bbidAvailableBalance": "114.00",
@@ -100,7 +100,7 @@
      "id": "0011",
      "logo": "https://www47.myfantasyleague.com/fflnetdynamic2023/53478_franchise_logo0011.jpg",
      "name": "The Royal Reserves",
-     "waiverSortOrder": "3"
+     "waiverSortOrder": "2"
     },
     {
      "abbrev": "MEOW",
@@ -109,7 +109,7 @@
      "id": "0012",
      "logo": "https://www47.myfantasyleague.com/fflnetdynamic2019/53478_franchise_logo0012.jpg",
      "name": "Fritz the Cat",
-     "waiverSortOrder": "7"
+     "waiverSortOrder": "4"
     }
    ]
   },
