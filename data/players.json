@@ -4754,7 +4754,7 @@
     "sportsdata_id": "380435a9-1833-4381-a12b-498a43732798",
     "stats_global_id": "459211",
     "stats_id": "26350",
-    "team": "FA",
+    "team": "MIN",
     "twitter_username": "JHekker",
     "weight": "225"
    },
@@ -4942,7 +4942,7 @@
     "sportsdata_id": "de3421f7-2147-4835-89a5-724e87bad463",
     "stats_global_id": "503177",
     "stats_id": "26658",
-    "team": "FA",
+    "team": "PHI",
     "twitter_username": "ZERTZ_86",
     "weight": "250"
    },
@@ -5204,7 +5204,7 @@
     "sportsdata_id": "b6b954eb-4591-4b7a-86b9-a481f15fdd58",
     "stats_global_id": "607864",
     "stats_id": "27548",
-    "team": "FA",
+    "team": "SFO",
     "twitter_username": "brandincooks",
     "weight": "193"
    },
@@ -6972,7 +6972,7 @@
     "sportsdata_id": "014038bd-e9b7-476f-b7bd-bd78a46a9a57",
     "stats_global_id": "697675",
     "stats_id": "29277",
-    "team": "JAC",
+    "team": "BUF",
     "weight": "314"
    },
    {
@@ -9931,7 +9931,7 @@
     "sportsdata_id": "cbfb7144-357e-4feb-82d7-a6104fdbf908",
     "stats_global_id": "1050229",
     "stats_id": "30669",
-    "team": "FA",
+    "team": "PHI",
     "twitter_username": "KennyMoore1",
     "weight": "190"
    },
@@ -13391,7 +13391,7 @@
     "sportsdata_id": "82ed30a5-54a8-4ed0-b040-99c3a78fb055",
     "stats_global_id": "880557",
     "stats_id": "32003",
-    "team": "FA",
+    "team": "IND",
     "weight": "198"
    },
    {
@@ -16511,7 +16511,7 @@
     "sportsdata_id": "1d1c217b-6407-40d7-aebb-ba95fa05d127",
     "stats_global_id": "0",
     "stats_id": "32877",
-    "team": "FA",
+    "team": "PIT",
     "twitter_username": "IsaiahHodgins",
     "weight": "200"
    },
@@ -18495,7 +18495,7 @@
     "sportsdata_id": "fc081a72-124d-4648-86a4-45aebb95a5ba",
     "stats_global_id": "0",
     "stats_id": "33221",
-    "team": "FA",
+    "team": "CLE",
     "weight": "229"
    },
    {
@@ -19211,7 +19211,7 @@
     "sportsdata_id": "82996e3b-b72d-41ca-8eb1-91e462ceff85",
     "stats_global_id": "0",
     "stats_id": "33706",
-    "team": "FA",
+    "team": "MIN",
     "weight": "195"
    },
    {
@@ -21159,7 +21159,7 @@
     "sportsdata_id": "ff28a5cc-3780-4f94-8c40-d713ff75cd0d",
     "stats_global_id": "0",
     "stats_id": "33544",
-    "team": "FA",
+    "team": "NYJ",
     "weight": "293"
    },
    {
@@ -21180,7 +21180,7 @@
     "sportsdata_id": "39156891-0d05-470b-8b64-751602820bb1",
     "stats_global_id": "0",
     "stats_id": "33545",
-    "team": "ARI",
+    "team": "CAR",
     "weight": "185"
    },
    {
@@ -21987,7 +21987,7 @@
     "sportsdata_id": "09dc5222-9669-4aba-9b67-dc87dfcf01fc",
     "stats_global_id": "0",
     "stats_id": "33818",
-    "team": "FA",
+    "team": "CHI",
     "weight": "191"
    },
    {
@@ -22006,7 +22006,7 @@
     "sportsdata_id": "728571c3-6651-4534-ad27-d86d72dc7d16",
     "stats_global_id": "0",
     "stats_id": "33833",
-    "team": "MIN",
+    "team": "SFO",
     "weight": "313"
    },
    {
@@ -26186,7 +26186,7 @@
     "sportsdata_id": "4f2ecf70-d3b2-11ec-96a0-c3471a31202c",
     "stats_global_id": "0",
     "stats_id": "34513",
-    "team": "FA",
+    "team": "NEP",
     "weight": "237"
    },
    {
@@ -27037,7 +27037,7 @@
     "sportsdata_id": "4c8a2f7e-f982-4eca-9d52-cf53df6985a4",
     "stats_global_id": "0",
     "stats_id": "40068",
-    "team": "FA",
+    "team": "NYJ",
     "weight": "229"
    },
    {
@@ -29927,7 +29927,7 @@
     "sportsdata_id": "254842eb-c5ad-4e57-8679-3df5a674a14e",
     "stats_global_id": "0",
     "stats_id": "40170",
-    "team": "WAS",
+    "team": "PIT",
     "weight": "198"
    },
    {
@@ -30720,7 +30720,7 @@
     "sportsdata_id": "0c816f95-6a50-4c77-b768-dc277f51a88f",
     "stats_global_id": "0",
     "stats_id": "40247",
-    "team": "FA",
+    "team": "MIA",
     "weight": "258"
    },
    {
@@ -32128,7 +32128,7 @@
     "sportsdata_id": "4ee53be0-eacb-11ed-bff4-2305d99deffc",
     "stats_global_id": "0",
     "stats_id": "40491",
-    "team": "FA",
+    "team": "BAL",
     "weight": "198"
    },
    {
@@ -32493,7 +32493,7 @@
     "sportsdata_id": "3b86dd7c-0b21-448d-a662-5675e87fd0da",
     "stats_global_id": "0",
     "stats_id": "41019",
-    "team": "NOS",
+    "team": "FA",
     "weight": "227"
    },
    {
@@ -36541,7 +36541,7 @@
     "sportsdata_id": "38c63ba0-0723-11ef-acb3-9348ceb755d6",
     "stats_global_id": "0",
     "stats_id": "41336",
-    "team": "FA",
+    "team": "CAR",
     "weight": "232"
    },
    {
@@ -37510,7 +37510,7 @@
     "sportsdata_id": "eb055af0-0e1a-11ef-aa6c-9183e6948e0f",
     "stats_global_id": "0",
     "stats_id": "41675",
-    "team": "FA",
+    "team": "JAC",
     "weight": "255"
    },
    {
@@ -41825,7 +41825,7 @@
     "sportsdata_id": "ee2fdc5e-e57f-4ce7-b64f-f54f6932b3be",
     "stats_global_id": "0",
     "stats_id": "41998",
-    "team": "PHI",
+    "team": "ATL",
     "weight": "174"
    },
    {
@@ -41930,7 +41930,7 @@
     "sportsdata_id": "09ab3357-370f-4d35-abfe-4576d00e5c87",
     "stats_global_id": "0",
     "stats_id": "42003",
-    "team": "FA",
+    "team": "ARI",
     "weight": "342"
    },
    {
@@ -42856,7 +42856,7 @@
     "sportsdata_id": "2b89f6e0-249e-11f0-8ecb-33c8d222dbba",
     "stats_global_id": "0",
     "stats_id": "42217",
-    "team": "FA",
+    "team": "IND",
     "weight": "205"
    },
    {
@@ -43633,7 +43633,7 @@
     "rotowire_id": "18224",
     "stats_global_id": "0",
     "stats_id": "41582",
-    "team": "FA",
+    "team": "NYG",
     "weight": "300"
    },
    {
@@ -43968,7 +43968,7 @@
     "rotowire_id": "18251",
     "stats_global_id": "0",
     "stats_id": "41692",
-    "team": "JAC",
+    "team": "LAC",
     "weight": "247"
    },
    {
@@ -50578,7 +50578,7 @@
     "rotowire_id": "17502",
     "stats_global_id": "0",
     "stats_id": "40522",
-    "team": "FA",
+    "team": "MIA",
     "weight": "230"
    },
    {
@@ -50599,7 +50599,7 @@
     "weight": "189"
    }
   ],
-  "timestamp": "1790144922"
+  "timestamp": "1790404120"
  },
  "version": "1.0"
 }

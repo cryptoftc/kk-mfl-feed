@@ -3,6 +3,114 @@
  "transactions": {
   "transaction": [
    {
+    "activated": "",
+    "deactivated": "14823,",
+    "franchise": "0004",
+    "timestamp": "1790368452",
+    "type": "IR"
+   },
+   {
+    "franchise": "0004",
+    "timestamp": "1790342207",
+    "transaction": "11760,|",
+    "type": "FREE_AGENT"
+   },
+   {
+    "franchise": "0008",
+    "timestamp": "1790306541",
+    "transaction": "16474,|",
+    "type": "FREE_AGENT"
+   },
+   {
+    "franchise": "0008",
+    "timestamp": "1790306493",
+    "transaction": "16940,|",
+    "type": "FREE_AGENT"
+   },
+   {
+    "demoted": "",
+    "franchise": "0008",
+    "promoted": "17082,",
+    "timestamp": "1790306338",
+    "type": "TAXI"
+   },
+   {
+    "activated": "",
+    "deactivated": "17509,17514,17544,",
+    "franchise": "0008",
+    "timestamp": "1790306230",
+    "type": "IR"
+   },
+   {
+    "franchise": "0002",
+    "timestamp": "1790295380",
+    "transaction": "16630,|",
+    "type": "FREE_AGENT"
+   },
+   {
+    "activated": "",
+    "deactivated": "16581,",
+    "franchise": "0002",
+    "timestamp": "1790295169",
+    "type": "IR"
+   },
+   {
+    "activated": "",
+    "deactivated": "17743,",
+    "franchise": "0004",
+    "timestamp": "1790294869",
+    "type": "IR"
+   },
+   {
+    "activated": "15889,",
+    "deactivated": "16597,15768,",
+    "franchise": "0012",
+    "timestamp": "1790294690",
+    "type": "IR"
+   },
+   {
+    "franchise": "",
+    "timestamp": "1790168400",
+    "transaction": "",
+    "type": "UNLOCK_ALL_PLAYERS"
+   },
+   {
+    "franchise": "0002",
+    "timestamp": "1790168400",
+    "transaction": "17492,|0.00|",
+    "type": "BBID_WAIVER"
+   },
+   {
+    "franchise": "0002",
+    "timestamp": "1790168400",
+    "transaction": "17510,|0.00|",
+    "type": "BBID_WAIVER"
+   },
+   {
+    "franchise": "0002",
+    "timestamp": "1790168400",
+    "transaction": "16414,|0.00|",
+    "type": "BBID_WAIVER"
+   },
+   {
+    "franchise": "0001",
+    "timestamp": "1790168400",
+    "transaction": "10948,|0.00|",
+    "type": "BBID_WAIVER"
+   },
+   {
+    "franchise": "0001",
+    "timestamp": "1790168400",
+    "transaction": "16601,|0.00|",
+    "type": "BBID_WAIVER"
+   },
+   {
+    "franchise": "",
+    "timestamp": "1790168400",
+    "transaction": "",
+    "type": "BBID_AUTO_PROCESS_WAIVERS"
+   },
+   {
     "franchise": "0001",
     "timestamp": "1790132311",
     "transaction": "|15788,",
