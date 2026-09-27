@@ -3,6 +3,109 @@
  "transactions": {
   "transaction": [
    {
+    "franchise": "0004",
+    "timestamp": "1790527267",
+    "transaction": "14083,|",
+    "type": "FREE_AGENT"
+   },
+   {
+    "activated": "",
+    "deactivated": "17508,",
+    "franchise": "0004",
+    "timestamp": "1790527122",
+    "type": "IR"
+   },
+   {
+    "demoted": "17530,",
+    "franchise": "0004",
+    "promoted": "17508,",
+    "timestamp": "1790527110",
+    "type": "TAXI"
+   },
+   {
+    "demoted": "17254,",
+    "franchise": "0005",
+    "promoted": "17529,",
+    "timestamp": "1790522165",
+    "type": "TAXI"
+   },
+   {
+    "franchise": "0004",
+    "timestamp": "1790512096",
+    "transaction": "17530,|",
+    "type": "FREE_AGENT"
+   },
+   {
+    "franchise": "0001",
+    "timestamp": "1790460532",
+    "transaction": "10313,|",
+    "type": "FREE_AGENT"
+   },
+   {
+    "franchise": "0001",
+    "timestamp": "1790460424",
+    "transaction": "16640,|",
+    "type": "FREE_AGENT"
+   },
+   {
+    "demoted": "17061,",
+    "franchise": "0001",
+    "promoted": "17080,",
+    "timestamp": "1790460366",
+    "type": "TAXI"
+   },
+   {
+    "activated": "",
+    "deactivated": "17032,",
+    "franchise": "0001",
+    "timestamp": "1790460300",
+    "type": "IR"
+   },
+   {
+    "expires": "1790985600",
+    "franchise": "0006",
+    "franchise1_gave_up": "17032,FP_0006_2028_1,",
+    "franchise2": "0001",
+    "franchise2_gave_up": "12620,13163,FP_0007_2027_2,",
+    "timestamp": "1790459776",
+    "type": "TRADE"
+   },
+   {
+    "activated": "16641,",
+    "deactivated": "16579,",
+    "franchise": "0005",
+    "timestamp": "1790456623",
+    "type": "IR"
+   },
+   {
+    "franchise": "0011",
+    "timestamp": "1790456412",
+    "transaction": "|16175,15840,16643,",
+    "type": "FREE_AGENT"
+   },
+   {
+    "expires": "1790985600",
+    "franchise": "0006",
+    "franchise1_gave_up": "16584,FP_0006_2028_3,",
+    "franchise2": "0002",
+    "franchise2_gave_up": "12140,",
+    "timestamp": "1790454720",
+    "type": "TRADE"
+   },
+   {
+    "franchise": "0001",
+    "timestamp": "1790453583",
+    "transaction": "12645,|",
+    "type": "FREE_AGENT"
+   },
+   {
+    "activated": "",
+    "deactivated": "13674,",
+    "franchise": "0001",
+    "timestamp": "1790453513",
+    "type": "IR"
+   },
+   {
     "activated": "",
     "deactivated": "14823,",
     "franchise": "0004",
