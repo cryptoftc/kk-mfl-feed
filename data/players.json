@@ -7175,7 +7175,7 @@
     "sportsdata_id": "852b00dd-fd1c-4edb-809d-912a6472cd07",
     "stats_global_id": "830687",
     "stats_id": "29278",
-    "team": "MIN",
+    "team": "NYG",
     "twitter_username": "JIHADWARD17",
     "weight": "285"
    },
@@ -10428,7 +10428,7 @@
     "sportsdata_id": "82a7e1ff-019a-4f4b-aeb6-c41420e44891",
     "stats_global_id": "830686",
     "stats_id": "31777",
-    "team": "FA",
+    "team": "SFO",
     "weight": "202"
    },
    {
@@ -12539,7 +12539,7 @@
     "sportsdata_id": "6f124753-5c6c-454b-97c7-0f9b4d14e7c2",
     "stats_global_id": "757521",
     "stats_id": "31769",
-    "team": "SFO",
+    "team": "FA",
     "weight": "210"
    },
    {
@@ -12559,7 +12559,7 @@
     "sportsdata_id": "1ad3e535-2b5c-48a8-82f0-c7a933d250f0",
     "stats_global_id": "694909",
     "stats_id": "30586",
-    "team": "FA",
+    "team": "NYG",
     "weight": "340"
    },
    {
@@ -23605,7 +23605,7 @@
     "sportsdata_id": "6f19e499-48e5-495d-b889-523fbba45608",
     "stats_global_id": "0",
     "stats_id": "34000",
-    "team": "FA",
+    "team": "NOS",
     "weight": "252"
    },
    {
@@ -28680,7 +28680,7 @@
     "sportsdata_id": "fbc596af-8abd-466f-9c01-7a38d11eb7a4",
     "stats_global_id": "0",
     "stats_id": "40089",
-    "team": "PIT",
+    "team": "DAL",
     "weight": "193"
    },
    {
@@ -31430,7 +31430,7 @@
     "sportsdata_id": "98b88de0-e8e5-11ed-ad77-290d92d9e505",
     "stats_global_id": "0",
     "stats_id": "40399",
-    "team": "LAR",
+    "team": "FA",
     "weight": "176"
    },
    {
@@ -31487,7 +31487,7 @@
     "sportsdata_id": "56688bd0-e777-11ed-ba5f-bf6902a39571",
     "stats_global_id": "0",
     "stats_id": "40340",
-    "team": "FA",
+    "team": "PHI",
     "weight": "230"
    },
    {
@@ -31582,7 +31582,7 @@
     "sportsdata_id": "2a1d4ce0-e6f6-11ed-abca-c7a3a205e21d",
     "stats_global_id": "0",
     "stats_id": "40296",
-    "team": "FA",
+    "team": "NYJ",
     "weight": "156"
    },
    {
@@ -36584,7 +36584,7 @@
     "sportsdata_id": "38c63ba0-0723-11ef-acb3-9348ceb755d6",
     "stats_global_id": "0",
     "stats_id": "41336",
-    "team": "FA",
+    "team": "CAR",
     "weight": "232"
    },
    {
@@ -37610,7 +37610,7 @@
     "sportsdata_id": "5068d7b0-f368-11ed-b622-936c98a846ff",
     "stats_global_id": "0",
     "stats_id": "40745",
-    "team": "DET",
+    "team": "MIN",
     "weight": "175"
    },
    {
@@ -38415,7 +38415,7 @@
     "height": "74",
     "id": "17059",
     "jersey": "31",
-    "name": "Gordon, Ollie",
+    "name": "Gordon II, Ollie",
     "position": "RB",
     "rotowire_id": "18450",
     "sportsdata_id": "42753bb4-a416-4d40-bf81-f20d2181be2f",
@@ -42826,7 +42826,7 @@
     "sportsdata_id": "f71d0370-23b2-11f0-b632-8947e146a0ae",
     "stats_global_id": "0",
     "stats_id": "42126",
-    "team": "IND",
+    "team": "NOS",
     "weight": "200"
    },
    {
@@ -43784,7 +43784,7 @@
     "rotowire_id": "18255",
     "stats_global_id": "0",
     "stats_id": "41329",
-    "team": "FA",
+    "team": "BAL",
     "weight": "230"
    },
    {
@@ -43945,7 +43945,7 @@
     "rotowire_id": "18841",
     "stats_global_id": "0",
     "stats_id": "42278",
-    "team": "FA",
+    "team": "CIN",
     "weight": "189"
    },
    {
@@ -44171,7 +44171,7 @@
     "rotowire_id": "17474",
     "stats_global_id": "0",
     "stats_id": "40389",
-    "team": "FA",
+    "team": "LAR",
     "weight": "186"
    },
    {
@@ -44225,7 +44225,7 @@
     "rotowire_id": "19075",
     "stats_global_id": "0",
     "stats_id": "42227",
-    "team": "FA",
+    "team": "NYJ",
     "weight": "184"
    },
    {
@@ -50897,9 +50897,16 @@
     "status": "R",
     "team": "DEN",
     "weight": "185"
+   },
+   {
+    "id": "17801",
+    "name": "Pyburn, Jack",
+    "position": "DE",
+    "status": "R",
+    "team": "KCC"
    }
   ],
-  "timestamp": "1791010437"
+  "timestamp": "1791099423"
  },
  "version": "1.0"
 }

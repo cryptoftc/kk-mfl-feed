@@ -11,8 +11,8 @@
       "id": "PIT",
       "inRedZone": "0",
       "isHome": "0",
-      "passDefenseRank": "14",
-      "passOffenseRank": "14",
+      "passDefenseRank": "8",
+      "passOffenseRank": "16",
       "rushDefenseRank": "17",
       "rushOffenseRank": "21",
       "score": "24",
@@ -23,17 +23,17 @@
       "id": "CLE",
       "inRedZone": "0",
       "isHome": "1",
-      "passDefenseRank": "22",
-      "passOffenseRank": "17",
-      "rushDefenseRank": "18",
-      "rushOffenseRank": "23",
+      "passDefenseRank": "17",
+      "passOffenseRank": "26",
+      "rushDefenseRank": "21",
+      "rushOffenseRank": "27",
       "score": "27",
       "spread": "2.5"
      }
     ]
    },
    {
-    "gameSecondsRemaining": "3600",
+    "gameSecondsRemaining": "0",
     "kickoff": "1791120600",
     "team": [
      {
@@ -45,7 +45,7 @@
       "passOffenseRank": "23",
       "rushDefenseRank": "27",
       "rushOffenseRank": "15",
-      "score": "",
+      "score": "30",
       "spread": "-3.5"
      },
      {
@@ -57,7 +57,7 @@
       "passOffenseRank": "25",
       "rushDefenseRank": "3",
       "rushOffenseRank": "8",
-      "score": "",
+      "score": "13",
       "spread": "3.5"
      }
     ]
