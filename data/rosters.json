@@ -150,7 +150,7 @@
       "status": "TAXI_SQUAD"
      }
     ],
-    "week": "4"
+    "week": "5"
    },
    {
     "id": "0002",
@@ -189,10 +189,6 @@
      },
      {
       "id": "16385",
-      "status": "ROSTER"
-     },
-     {
-      "id": "16616",
       "status": "ROSTER"
      },
      {
@@ -252,6 +248,10 @@
       "status": "ROSTER"
      },
      {
+      "id": "16649",
+      "status": "ROSTER"
+     },
+     {
       "id": "13146",
       "status": "INJURED_RESERVE"
      },
@@ -296,7 +296,7 @@
       "status": "TAXI_SQUAD"
      }
     ],
-    "week": "4"
+    "week": "5"
    },
    {
     "id": "0003",
@@ -434,7 +434,7 @@
       "status": "TAXI_SQUAD"
      }
     ],
-    "week": "4"
+    "week": "5"
    },
    {
     "id": "0004",
@@ -445,10 +445,6 @@
      },
      {
       "id": "15742",
-      "status": "ROSTER"
-     },
-     {
-      "id": "16164",
       "status": "ROSTER"
      },
      {
@@ -528,11 +524,15 @@
       "status": "ROSTER"
      },
      {
-      "id": "17743",
+      "id": "17046",
       "status": "ROSTER"
      },
      {
-      "id": "17046",
+      "id": "13131",
+      "status": "ROSTER"
+     },
+     {
+      "id": "14823",
       "status": "ROSTER"
      },
      {
@@ -544,11 +544,11 @@
       "status": "INJURED_RESERVE"
      },
      {
-      "id": "14823",
+      "id": "17743",
       "status": "INJURED_RESERVE"
      },
      {
-      "id": "13131",
+      "id": "16164",
       "status": "INJURED_RESERVE"
      },
      {
@@ -584,7 +584,7 @@
       "status": "TAXI_SQUAD"
      }
     ],
-    "week": "4"
+    "week": "5"
    },
    {
     "id": "0005",
@@ -682,7 +682,7 @@
       "status": "ROSTER"
      },
      {
-      "id": "13119",
+      "id": "15708",
       "status": "ROSTER"
      },
      {
@@ -707,10 +707,6 @@
      },
      {
       "id": "16628",
-      "status": "INJURED_RESERVE"
-     },
-     {
-      "id": "15708",
       "status": "INJURED_RESERVE"
      },
      {
@@ -750,7 +746,7 @@
       "status": "TAXI_SQUAD"
      }
     ],
-    "week": "4"
+    "week": "5"
    },
    {
     "id": "0006",
@@ -789,10 +785,6 @@
      },
      {
       "id": "16162",
-      "status": "ROSTER"
-     },
-     {
-      "id": "16649",
       "status": "ROSTER"
      },
      {
@@ -852,6 +844,10 @@
       "status": "ROSTER"
      },
      {
+      "id": "16616",
+      "status": "ROSTER"
+     },
+     {
       "id": "16622",
       "status": "INJURED_RESERVE"
      },
@@ -896,7 +892,7 @@
       "status": "TAXI_SQUAD"
      }
     ],
-    "week": "4"
+    "week": "5"
    },
    {
     "id": "0007",
@@ -1042,7 +1038,7 @@
       "status": "TAXI_SQUAD"
      }
     ],
-    "week": "4"
+    "week": "5"
    },
    {
     "id": "0008",
@@ -1184,7 +1180,7 @@
       "status": "TAXI_SQUAD"
      }
     ],
-    "week": "4"
+    "week": "5"
    },
    {
     "id": "0009",
@@ -1211,10 +1207,6 @@
      },
      {
       "id": "14861",
-      "status": "ROSTER"
-     },
-     {
-      "id": "15253",
       "status": "ROSTER"
      },
      {
@@ -1251,10 +1243,6 @@
      },
      {
       "id": "13672",
-      "status": "ROSTER"
-     },
-     {
-      "id": "16207",
       "status": "ROSTER"
      },
      {
@@ -1302,6 +1290,14 @@
       "status": "INJURED_RESERVE"
      },
      {
+      "id": "15253",
+      "status": "INJURED_RESERVE"
+     },
+     {
+      "id": "16207",
+      "status": "INJURED_RESERVE"
+     },
+     {
       "id": "17078",
       "status": "TAXI_SQUAD"
      },
@@ -1318,7 +1314,7 @@
       "status": "TAXI_SQUAD"
      }
     ],
-    "week": "4"
+    "week": "5"
    },
    {
     "id": "0010",
@@ -1404,10 +1400,6 @@
       "status": "ROSTER"
      },
      {
-      "id": "16639",
-      "status": "ROSTER"
-     },
-     {
       "id": "13143",
       "status": "ROSTER"
      },
@@ -1420,7 +1412,15 @@
       "status": "ROSTER"
      },
      {
+      "id": "15589",
+      "status": "ROSTER"
+     },
+     {
       "id": "15777",
+      "status": "INJURED_RESERVE"
+     },
+     {
+      "id": "16639",
       "status": "INJURED_RESERVE"
      },
      {
@@ -1452,7 +1452,7 @@
       "status": "TAXI_SQUAD"
      }
     ],
-    "week": "4"
+    "week": "5"
    },
    {
     "id": "0011",
@@ -1562,7 +1562,7 @@
       "status": "TAXI_SQUAD"
      }
     ],
-    "week": "4"
+    "week": "5"
    },
    {
     "id": "0012",
@@ -1692,7 +1692,7 @@
       "status": "TAXI_SQUAD"
      }
     ],
-    "week": "4"
+    "week": "5"
    }
   ]
  },
