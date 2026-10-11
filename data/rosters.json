@@ -516,15 +516,15 @@
       "status": "ROSTER"
      },
      {
-      "id": "14823",
-      "status": "ROSTER"
-     },
-     {
       "id": "17679",
       "status": "ROSTER"
      },
      {
       "id": "17709",
+      "status": "ROSTER"
+     },
+     {
+      "id": "17743",
       "status": "ROSTER"
      },
      {
@@ -536,15 +536,15 @@
       "status": "INJURED_RESERVE"
      },
      {
-      "id": "17743",
-      "status": "INJURED_RESERVE"
-     },
-     {
       "id": "16164",
       "status": "INJURED_RESERVE"
      },
      {
       "id": "16387",
+      "status": "INJURED_RESERVE"
+     },
+     {
+      "id": "14823",
       "status": "INJURED_RESERVE"
      },
      {
@@ -966,10 +966,6 @@
       "status": "ROSTER"
      },
      {
-      "id": "15240",
-      "status": "ROSTER"
-     },
-     {
       "id": "14059",
       "status": "ROSTER"
      },
@@ -998,6 +994,10 @@
       "status": "ROSTER"
      },
      {
+      "id": "17465",
+      "status": "ROSTER"
+     },
+     {
       "id": "12801",
       "status": "INJURED_RESERVE"
      },
@@ -1015,6 +1015,10 @@
      },
      {
       "id": "14105",
+      "status": "INJURED_RESERVE"
+     },
+     {
+      "id": "15240",
       "status": "INJURED_RESERVE"
      },
      {
@@ -1262,10 +1266,6 @@
       "status": "ROSTER"
      },
      {
-      "id": "12141",
-      "status": "ROSTER"
-     },
-     {
       "id": "14800",
       "status": "ROSTER"
      },
@@ -1294,6 +1294,10 @@
       "status": "ROSTER"
      },
      {
+      "id": "17269",
+      "status": "ROSTER"
+     },
+     {
       "id": "13633",
       "status": "INJURED_RESERVE"
      },
@@ -1319,6 +1323,10 @@
      },
      {
       "id": "14842",
+      "status": "INJURED_RESERVE"
+     },
+     {
+      "id": "12141",
       "status": "INJURED_RESERVE"
      },
      {
