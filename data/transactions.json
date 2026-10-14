@@ -3,6 +3,32 @@
  "transactions": {
   "transaction": [
    {
+    "activated": "14823,",
+    "deactivated": "",
+    "franchise": "0004",
+    "timestamp": "1791929240",
+    "type": "IR"
+   },
+   {
+    "franchise": "0004",
+    "timestamp": "1791929221",
+    "transaction": "|17709,",
+    "type": "FREE_AGENT"
+   },
+   {
+    "franchise": "",
+    "timestamp": "1791853200",
+    "transaction": "",
+    "type": "LOCK_ALL_PLAYERS"
+   },
+   {
+    "demoted": "17465,",
+    "franchise": "0007",
+    "promoted": "17205,",
+    "timestamp": "1791771223",
+    "type": "TAXI"
+   },
+   {
     "activated": "17743,",
     "deactivated": "14823,",
     "franchise": "0004",
