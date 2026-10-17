@@ -153,25 +153,25 @@
     "week": "5"
    },
    {
-    "id": "16342",
-    "isAvailable": "0",
-    "score": "24.5",
-    "week": "5"
-   },
-   {
     "id": "12626",
     "isAvailable": "0",
     "score": "24.5",
     "week": "5"
    },
    {
-    "id": "16214",
+    "id": "16342",
+    "isAvailable": "0",
+    "score": "24.5",
+    "week": "5"
+   },
+   {
+    "id": "16185",
     "isAvailable": "0",
     "score": "24.3",
     "week": "5"
    },
    {
-    "id": "16185",
+    "id": "16214",
     "isAvailable": "0",
     "score": "24.3",
     "week": "5"
@@ -267,13 +267,13 @@
     "week": "5"
    },
    {
-    "id": "15281",
+    "id": "15756",
     "isAvailable": "0",
     "score": "19.7",
     "week": "5"
    },
    {
-    "id": "15756",
+    "id": "15281",
     "isAvailable": "0",
     "score": "19.7",
     "week": "5"
@@ -291,13 +291,13 @@
     "week": "5"
    },
    {
-    "id": "13130",
+    "id": "14836",
     "isAvailable": "0",
     "score": "18.8",
     "week": "5"
    },
    {
-    "id": "14836",
+    "id": "13130",
     "isAvailable": "0",
     "score": "18.8",
     "week": "5"
@@ -345,13 +345,13 @@
     "week": "5"
    },
    {
-    "id": "12678",
+    "id": "16161",
     "isAvailable": "0",
     "score": "17.8",
     "week": "5"
    },
    {
-    "id": "16161",
+    "id": "12678",
     "isAvailable": "0",
     "score": "17.8",
     "week": "5"
@@ -363,12 +363,6 @@
     "week": "5"
    },
    {
-    "id": "15698",
-    "isAvailable": "0",
-    "score": "17.2",
-    "week": "5"
-   },
-   {
     "id": "17081",
     "isAvailable": "0",
     "score": "17.2",
@@ -376,6 +370,12 @@
    },
    {
     "id": "15256",
+    "isAvailable": "0",
+    "score": "17.2",
+    "week": "5"
+   },
+   {
+    "id": "15698",
     "isAvailable": "0",
     "score": "17.2",
     "week": "5"
@@ -471,13 +471,13 @@
     "week": "5"
    },
    {
-    "id": "17500",
+    "id": "16757",
     "isAvailable": "0",
     "score": "14.1",
     "week": "5"
    },
    {
-    "id": "16757",
+    "id": "17500",
     "isAvailable": "0",
     "score": "14.1",
     "week": "5"
@@ -495,12 +495,6 @@
     "week": "5"
    },
    {
-    "id": "17607",
-    "isAvailable": "0",
-    "score": "13.7",
-    "week": "5"
-   },
-   {
     "id": "15293",
     "isAvailable": "0",
     "score": "13.7",
@@ -508,6 +502,12 @@
    },
    {
     "id": "10700",
+    "isAvailable": "0",
+    "score": "13.7",
+    "week": "5"
+   },
+   {
+    "id": "17607",
     "isAvailable": "0",
     "score": "13.7",
     "week": "5"
@@ -525,25 +525,25 @@
     "week": "5"
    },
    {
-    "id": "14370",
-    "isAvailable": "1",
-    "score": "13.4",
-    "week": "5"
-   },
-   {
     "id": "17269",
     "isAvailable": "0",
     "score": "13.4",
     "week": "5"
    },
    {
-    "id": "14109",
+    "id": "14370",
+    "isAvailable": "1",
+    "score": "13.4",
+    "week": "5"
+   },
+   {
+    "id": "16333",
     "isAvailable": "0",
     "score": "13.2",
     "week": "5"
    },
    {
-    "id": "16333",
+    "id": "14109",
     "isAvailable": "0",
     "score": "13.2",
     "week": "5"
@@ -555,13 +555,13 @@
     "week": "5"
    },
    {
-    "id": "11150",
+    "id": "14783",
     "isAvailable": "0",
     "score": "13.0",
     "week": "5"
    },
    {
-    "id": "14783",
+    "id": "11150",
     "isAvailable": "0",
     "score": "13.0",
     "week": "5"
@@ -639,13 +639,13 @@
     "week": "5"
    },
    {
-    "id": "13418",
+    "id": "15761",
     "isAvailable": "0",
     "score": "11.5",
     "week": "5"
    },
    {
-    "id": "15761",
+    "id": "13418",
     "isAvailable": "0",
     "score": "11.5",
     "week": "5"
@@ -663,26 +663,26 @@
     "week": "5"
    },
    {
-    "id": "13189",
-    "isAvailable": "0",
-    "score": "11.0",
-    "week": "5"
-   },
-   {
     "id": "8851",
     "isAvailable": "1",
     "score": "11.0",
     "week": "5"
    },
    {
-    "id": "16681",
-    "isAvailable": "1",
+    "id": "13189",
+    "isAvailable": "0",
     "score": "11.0",
     "week": "5"
    },
    {
     "id": "16171",
     "isAvailable": "0",
+    "score": "11.0",
+    "week": "5"
+   },
+   {
+    "id": "16681",
+    "isAvailable": "1",
     "score": "11.0",
     "week": "5"
    },
@@ -711,31 +711,7 @@
     "week": "5"
    },
    {
-    "id": "14983",
-    "isAvailable": "1",
-    "score": "10.0",
-    "week": "5"
-   },
-   {
-    "id": "12956",
-    "isAvailable": "1",
-    "score": "10.0",
-    "week": "5"
-   },
-   {
-    "id": "11936",
-    "isAvailable": "1",
-    "score": "10.0",
-    "week": "5"
-   },
-   {
     "id": "15802",
-    "isAvailable": "0",
-    "score": "10.0",
-    "week": "5"
-   },
-   {
-    "id": "11222",
     "isAvailable": "0",
     "score": "10.0",
     "week": "5"
@@ -747,14 +723,38 @@
     "week": "5"
    },
    {
-    "id": "17070",
+    "id": "14983",
+    "isAvailable": "1",
+    "score": "10.0",
+    "week": "5"
+   },
+   {
+    "id": "11936",
+    "isAvailable": "1",
+    "score": "10.0",
+    "week": "5"
+   },
+   {
+    "id": "12956",
+    "isAvailable": "1",
+    "score": "10.0",
+    "week": "5"
+   },
+   {
+    "id": "11222",
     "isAvailable": "0",
-    "score": "9.9",
+    "score": "10.0",
     "week": "5"
    },
    {
     "id": "16621",
     "isAvailable": "1",
+    "score": "9.9",
+    "week": "5"
+   },
+   {
+    "id": "17070",
+    "isAvailable": "0",
     "score": "9.9",
     "week": "5"
    },
@@ -783,6 +783,12 @@
     "week": "5"
    },
    {
+    "id": "13299",
+    "isAvailable": "0",
+    "score": "8.9",
+    "week": "5"
+   },
+   {
     "id": "16582",
     "isAvailable": "0",
     "score": "8.9",
@@ -790,12 +796,6 @@
    },
    {
     "id": "13672",
-    "isAvailable": "0",
-    "score": "8.9",
-    "week": "5"
-   },
-   {
-    "id": "13299",
     "isAvailable": "0",
     "score": "8.9",
     "week": "5"
@@ -813,6 +813,12 @@
     "week": "5"
    },
    {
+    "id": "17051",
+    "isAvailable": "0",
+    "score": "8.5",
+    "week": "5"
+   },
+   {
     "id": "16645",
     "isAvailable": "1",
     "score": "8.5",
@@ -820,12 +826,6 @@
    },
    {
     "id": "16649",
-    "isAvailable": "0",
-    "score": "8.5",
-    "week": "5"
-   },
-   {
-    "id": "17051",
     "isAvailable": "0",
     "score": "8.5",
     "week": "5"
@@ -843,12 +843,6 @@
     "week": "5"
    },
    {
-    "id": "14085",
-    "isAvailable": "0",
-    "score": "8.2",
-    "week": "5"
-   },
-   {
     "id": "11674",
     "isAvailable": "0",
     "score": "8.2",
@@ -856,6 +850,12 @@
    },
    {
     "id": "16617",
+    "isAvailable": "0",
+    "score": "8.2",
+    "week": "5"
+   },
+   {
+    "id": "14085",
     "isAvailable": "0",
     "score": "8.2",
     "week": "5"
@@ -891,12 +891,6 @@
     "week": "5"
    },
    {
-    "id": "16181",
-    "isAvailable": "0",
-    "score": "7.5",
-    "week": "5"
-   },
-   {
     "id": "13772",
     "isAvailable": "0",
     "score": "7.5",
@@ -904,6 +898,12 @@
    },
    {
     "id": "13163",
+    "isAvailable": "0",
+    "score": "7.5",
+    "week": "5"
+   },
+   {
+    "id": "16181",
     "isAvailable": "0",
     "score": "7.5",
     "week": "5"
@@ -921,13 +921,13 @@
     "week": "5"
    },
    {
-    "id": "16206",
+    "id": "16165",
     "isAvailable": "0",
     "score": "7.3",
     "week": "5"
    },
    {
-    "id": "16165",
+    "id": "16206",
     "isAvailable": "0",
     "score": "7.3",
     "week": "5"
@@ -969,15 +969,21 @@
     "week": "5"
    },
    {
+    "id": "17512",
+    "isAvailable": "0",
+    "score": "6.6",
+    "week": "5"
+   },
+   {
     "id": "16788",
     "isAvailable": "0",
     "score": "6.6",
     "week": "5"
    },
    {
-    "id": "17512",
+    "id": "12645",
     "isAvailable": "0",
-    "score": "6.6",
+    "score": "6.4",
     "week": "5"
    },
    {
@@ -993,19 +999,13 @@
     "week": "5"
    },
    {
-    "id": "12645",
-    "isAvailable": "0",
-    "score": "6.4",
-    "week": "5"
-   },
-   {
-    "id": "17043",
+    "id": "13629",
     "isAvailable": "0",
     "score": "6.3",
     "week": "5"
    },
    {
-    "id": "13629",
+    "id": "17043",
     "isAvailable": "0",
     "score": "6.3",
     "week": "5"
@@ -1023,7 +1023,13 @@
     "week": "5"
    },
    {
-    "id": "16680",
+    "id": "14717",
+    "isAvailable": "1",
+    "score": "6.0",
+    "week": "5"
+   },
+   {
+    "id": "17736",
     "isAvailable": "1",
     "score": "6.0",
     "week": "5"
@@ -1035,13 +1041,7 @@
     "week": "5"
    },
    {
-    "id": "14717",
-    "isAvailable": "1",
-    "score": "6.0",
-    "week": "5"
-   },
-   {
-    "id": "17736",
+    "id": "16680",
     "isAvailable": "1",
     "score": "6.0",
     "week": "5"
@@ -1065,25 +1065,25 @@
     "week": "5"
    },
    {
-    "id": "17591",
-    "isAvailable": "0",
-    "score": "5.5",
-    "week": "5"
-   },
-   {
     "id": "16616",
     "isAvailable": "0",
     "score": "5.5",
     "week": "5"
    },
    {
-    "id": "16178",
+    "id": "17591",
+    "isAvailable": "0",
+    "score": "5.5",
+    "week": "5"
+   },
+   {
+    "id": "17104",
     "isAvailable": "0",
     "score": "5.4",
     "week": "5"
    },
    {
-    "id": "17104",
+    "id": "16178",
     "isAvailable": "0",
     "score": "5.4",
     "week": "5"
@@ -1113,19 +1113,19 @@
     "week": "5"
    },
    {
-    "id": "17030",
-    "isAvailable": "0",
-    "score": "5.0",
-    "week": "5"
-   },
-   {
     "id": "16419",
     "isAvailable": "1",
     "score": "5.0",
     "week": "5"
    },
    {
-    "id": "13303",
+    "id": "17030",
+    "isAvailable": "0",
+    "score": "5.0",
+    "week": "5"
+   },
+   {
+    "id": "13719",
     "isAvailable": "1",
     "score": "5.0",
     "week": "5"
@@ -1137,7 +1137,7 @@
     "week": "5"
    },
    {
-    "id": "13719",
+    "id": "13303",
     "isAvailable": "1",
     "score": "5.0",
     "week": "5"
@@ -1173,8 +1173,8 @@
     "week": "5"
    },
    {
-    "id": "17521",
-    "isAvailable": "0",
+    "id": "17446",
+    "isAvailable": "1",
     "score": "4.7",
     "week": "5"
    },
@@ -1185,8 +1185,8 @@
     "week": "5"
    },
    {
-    "id": "17446",
-    "isAvailable": "1",
+    "id": "17521",
+    "isAvailable": "0",
     "score": "4.7",
     "week": "5"
    },
@@ -1197,25 +1197,25 @@
     "week": "5"
    },
    {
-    "id": "17475",
-    "isAvailable": "0",
-    "score": "4.4",
-    "week": "5"
-   },
-   {
     "id": "14833",
     "isAvailable": "0",
     "score": "4.4",
     "week": "5"
    },
    {
-    "id": "16080",
+    "id": "17475",
+    "isAvailable": "0",
+    "score": "4.4",
+    "week": "5"
+   },
+   {
+    "id": "17171",
     "isAvailable": "0",
     "score": "4.3",
     "week": "5"
    },
    {
-    "id": "17171",
+    "id": "16080",
     "isAvailable": "0",
     "score": "4.3",
     "week": "5"
@@ -1233,14 +1233,14 @@
     "week": "5"
    },
    {
-    "id": "14835",
-    "isAvailable": "0",
+    "id": "13793",
+    "isAvailable": "1",
     "score": "4.2",
     "week": "5"
    },
    {
-    "id": "13793",
-    "isAvailable": "1",
+    "id": "14835",
+    "isAvailable": "0",
     "score": "4.2",
     "week": "5"
    },
@@ -1248,12 +1248,6 @@
     "id": "16608",
     "isAvailable": "0",
     "score": "4.1",
-    "week": "5"
-   },
-   {
-    "id": "14244",
-    "isAvailable": "1",
-    "score": "4.0",
     "week": "5"
    },
    {
@@ -1269,15 +1263,15 @@
     "week": "5"
    },
    {
-    "id": "14984",
+    "id": "14244",
     "isAvailable": "1",
-    "score": "3.8",
+    "score": "4.0",
     "week": "5"
    },
    {
-    "id": "16213",
-    "isAvailable": "0",
-    "score": "3.7",
+    "id": "14984",
+    "isAvailable": "1",
+    "score": "3.8",
     "week": "5"
    },
    {
@@ -1287,21 +1281,9 @@
     "week": "5"
    },
    {
-    "id": "16364",
-    "isAvailable": "1",
-    "score": "3.6",
-    "week": "5"
-   },
-   {
-    "id": "15626",
-    "isAvailable": "1",
-    "score": "3.6",
-    "week": "5"
-   },
-   {
-    "id": "17048",
+    "id": "16213",
     "isAvailable": "0",
-    "score": "3.6",
+    "score": "3.7",
     "week": "5"
    },
    {
@@ -1323,6 +1305,30 @@
     "week": "5"
    },
    {
+    "id": "17048",
+    "isAvailable": "0",
+    "score": "3.6",
+    "week": "5"
+   },
+   {
+    "id": "16364",
+    "isAvailable": "1",
+    "score": "3.6",
+    "week": "5"
+   },
+   {
+    "id": "15626",
+    "isAvailable": "1",
+    "score": "3.6",
+    "week": "5"
+   },
+   {
+    "id": "17507",
+    "isAvailable": "0",
+    "score": "3.5",
+    "week": "5"
+   },
+   {
     "id": "13164",
     "isAvailable": "0",
     "score": "3.5",
@@ -1341,12 +1347,6 @@
     "week": "5"
    },
    {
-    "id": "17507",
-    "isAvailable": "0",
-    "score": "3.5",
-    "week": "5"
-   },
-   {
     "id": "13678",
     "isAvailable": "1",
     "score": "3.4",
@@ -1359,13 +1359,13 @@
     "week": "5"
    },
    {
-    "id": "14138",
+    "id": "17752",
     "isAvailable": "0",
     "score": "3.2",
     "week": "5"
    },
    {
-    "id": "17752",
+    "id": "14138",
     "isAvailable": "0",
     "score": "3.2",
     "week": "5"
@@ -1374,6 +1374,12 @@
     "id": "17073",
     "isAvailable": "0",
     "score": "3.2",
+    "week": "5"
+   },
+   {
+    "id": "17088",
+    "isAvailable": "1",
+    "score": "3.1",
     "week": "5"
    },
    {
@@ -1389,19 +1395,13 @@
     "week": "5"
    },
    {
-    "id": "17088",
-    "isAvailable": "1",
-    "score": "3.1",
-    "week": "5"
-   },
-   {
-    "id": "15369",
+    "id": "14600",
     "isAvailable": "1",
     "score": "3.0",
     "week": "5"
    },
    {
-    "id": "14600",
+    "id": "15369",
     "isAvailable": "1",
     "score": "3.0",
     "week": "5"
@@ -1413,13 +1413,13 @@
     "week": "5"
    },
    {
-    "id": "15254",
+    "id": "13404",
     "isAvailable": "0",
     "score": "2.9",
     "week": "5"
    },
    {
-    "id": "13404",
+    "id": "15254",
     "isAvailable": "0",
     "score": "2.9",
     "week": "5"
@@ -1431,6 +1431,12 @@
     "week": "5"
    },
    {
+    "id": "14815",
+    "isAvailable": "1",
+    "score": "2.6",
+    "week": "5"
+   },
+   {
     "id": "15712",
     "isAvailable": "0",
     "score": "2.6",
@@ -1439,12 +1445,6 @@
    {
     "id": "17485",
     "isAvailable": "0",
-    "score": "2.6",
-    "week": "5"
-   },
-   {
-    "id": "14815",
-    "isAvailable": "1",
     "score": "2.6",
     "week": "5"
    },
@@ -1461,25 +1461,25 @@
     "week": "5"
    },
    {
-    "id": "17074",
-    "isAvailable": "0",
-    "score": "2.4",
-    "week": "5"
-   },
-   {
-    "id": "14974",
-    "isAvailable": "0",
-    "score": "2.4",
-    "week": "5"
-   },
-   {
     "id": "16640",
     "isAvailable": "1",
     "score": "2.4",
     "week": "5"
    },
    {
+    "id": "17074",
+    "isAvailable": "0",
+    "score": "2.4",
+    "week": "5"
+   },
+   {
     "id": "16630",
+    "isAvailable": "0",
+    "score": "2.4",
+    "week": "5"
+   },
+   {
+    "id": "14974",
     "isAvailable": "0",
     "score": "2.4",
     "week": "5"
@@ -1503,13 +1503,13 @@
     "week": "5"
    },
    {
-    "id": "17472",
+    "id": "15717",
     "isAvailable": "0",
     "score": "2.2",
     "week": "5"
    },
    {
-    "id": "15717",
+    "id": "17472",
     "isAvailable": "0",
     "score": "2.2",
     "week": "5"
@@ -1521,12 +1521,6 @@
     "week": "5"
    },
    {
-    "id": "16843",
-    "isAvailable": "1",
-    "score": "2.0",
-    "week": "5"
-   },
-   {
     "id": "17668",
     "isAvailable": "1",
     "score": "2.0",
@@ -1534,6 +1528,12 @@
    },
    {
     "id": "16292",
+    "isAvailable": "1",
+    "score": "2.0",
+    "week": "5"
+   },
+   {
+    "id": "16843",
     "isAvailable": "1",
     "score": "2.0",
     "week": "5"
@@ -1551,12 +1551,6 @@
     "week": "5"
    },
    {
-    "id": "13066",
-    "isAvailable": "0",
-    "score": "1.9",
-    "week": "5"
-   },
-   {
     "id": "15301",
     "isAvailable": "1",
     "score": "1.9",
@@ -1564,6 +1558,12 @@
    },
    {
     "id": "14832",
+    "isAvailable": "0",
+    "score": "1.9",
+    "week": "5"
+   },
+   {
+    "id": "13066",
     "isAvailable": "0",
     "score": "1.9",
     "week": "5"
@@ -1587,12 +1587,6 @@
     "week": "5"
    },
    {
-    "id": "15716",
-    "isAvailable": "0",
-    "score": "1.6",
-    "week": "5"
-   },
-   {
     "id": "16174",
     "isAvailable": "0",
     "score": "1.6",
@@ -1605,13 +1599,37 @@
     "week": "5"
    },
    {
+    "id": "15716",
+    "isAvailable": "0",
+    "score": "1.6",
+    "week": "5"
+   },
+   {
+    "id": "16218",
+    "isAvailable": "1",
+    "score": "1.5",
+    "week": "5"
+   },
+   {
+    "id": "16391",
+    "isAvailable": "0",
+    "score": "1.5",
+    "week": "5"
+   },
+   {
+    "id": "17605",
+    "isAvailable": "0",
+    "score": "1.5",
+    "week": "5"
+   },
+   {
     "id": "15873",
     "isAvailable": "0",
     "score": "1.5",
     "week": "5"
    },
    {
-    "id": "14146",
+    "id": "17360",
     "isAvailable": "1",
     "score": "1.5",
     "week": "5"
@@ -1623,31 +1641,13 @@
     "week": "5"
    },
    {
-    "id": "16391",
-    "isAvailable": "0",
-    "score": "1.5",
-    "week": "5"
-   },
-   {
-    "id": "16218",
-    "isAvailable": "1",
-    "score": "1.5",
-    "week": "5"
-   },
-   {
-    "id": "17360",
+    "id": "14146",
     "isAvailable": "1",
     "score": "1.5",
     "week": "5"
    },
    {
     "id": "17482",
-    "isAvailable": "0",
-    "score": "1.5",
-    "week": "5"
-   },
-   {
-    "id": "17605",
     "isAvailable": "0",
     "score": "1.5",
     "week": "5"
@@ -1665,18 +1665,6 @@
     "week": "5"
    },
    {
-    "id": "15650",
-    "isAvailable": "1",
-    "score": "1.3",
-    "week": "5"
-   },
-   {
-    "id": "15977",
-    "isAvailable": "1",
-    "score": "1.3",
-    "week": "5"
-   },
-   {
     "id": "17050",
     "isAvailable": "1",
     "score": "1.3",
@@ -1689,9 +1677,15 @@
     "week": "5"
    },
    {
-    "id": "16212",
-    "isAvailable": "0",
-    "score": "1.2",
+    "id": "15650",
+    "isAvailable": "1",
+    "score": "1.3",
+    "week": "5"
+   },
+   {
+    "id": "15977",
+    "isAvailable": "1",
+    "score": "1.3",
     "week": "5"
    },
    {
@@ -1701,19 +1695,13 @@
     "week": "5"
    },
    {
-    "id": "15344",
-    "isAvailable": "1",
-    "score": "1.1",
-    "week": "5"
-   },
-   {
-    "id": "14071",
+    "id": "16212",
     "isAvailable": "0",
-    "score": "1.1",
+    "score": "1.2",
     "week": "5"
    },
    {
-    "id": "17706",
+    "id": "17481",
     "isAvailable": "0",
     "score": "1.1",
     "week": "5"
@@ -1725,13 +1713,25 @@
     "week": "5"
    },
    {
+    "id": "14071",
+    "isAvailable": "0",
+    "score": "1.1",
+    "week": "5"
+   },
+   {
     "id": "16678",
     "isAvailable": "0",
     "score": "1.1",
     "week": "5"
    },
    {
-    "id": "17481",
+    "id": "15344",
+    "isAvailable": "1",
+    "score": "1.1",
+    "week": "5"
+   },
+   {
+    "id": "17706",
     "isAvailable": "0",
     "score": "1.1",
     "week": "5"
@@ -1749,13 +1749,13 @@
     "week": "5"
    },
    {
-    "id": "10948",
+    "id": "15292",
     "isAvailable": "0",
     "score": "0.7",
     "week": "5"
    },
    {
-    "id": "15292",
+    "id": "10948",
     "isAvailable": "0",
     "score": "0.7",
     "week": "5"
@@ -1791,13 +1791,13 @@
     "week": "5"
    },
    {
-    "id": "16335",
+    "id": "17213",
     "isAvailable": "1",
     "score": "0.0",
     "week": "5"
    },
    {
-    "id": "17011",
+    "id": "14083",
     "isAvailable": "1",
     "score": "0.0",
     "week": "5"
