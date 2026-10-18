@@ -9539,7 +9539,7 @@
     "sportsdata_id": "cd09c042-0bfc-4866-8d3f-a14ef4c3d7fc",
     "stats_global_id": "733850",
     "stats_id": "30304",
-    "team": "CHI",
+    "team": "FA",
     "weight": "200"
    },
    {
@@ -10670,7 +10670,7 @@
     "sportsdata_id": "eacc232b-701d-4a67-9ce5-61b9b931fd42",
     "stats_global_id": "747990",
     "stats_id": "31130",
-    "team": "FA",
+    "team": "SFO",
     "weight": "253"
    },
    {
@@ -11898,7 +11898,7 @@
     "sportsdata_id": "e7f0a505-8060-403e-a3b3-9d4e88dda1dc",
     "stats_global_id": "742382",
     "stats_id": "31144",
-    "team": "LAC",
+    "team": "FA",
     "weight": "206"
    },
    {
@@ -13391,7 +13391,7 @@
     "sportsdata_id": "82ed30a5-54a8-4ed0-b040-99c3a78fb055",
     "stats_global_id": "880557",
     "stats_id": "32003",
-    "team": "IND",
+    "team": "FA",
     "weight": "198"
    },
    {
@@ -26277,6 +26277,25 @@
     "weight": "153"
    },
    {
+    "birthdate": "860907600",
+    "cbs_id": "2185963",
+    "college": "Indiana (PA)",
+    "draft_team": "FA",
+    "draft_year": "2022",
+    "espn_id": "3929636",
+    "height": "76",
+    "id": "15984",
+    "jersey": "19",
+    "name": "Charles, Irvin",
+    "position": "WR",
+    "rotowire_id": "16430",
+    "sportsdata_id": "f8578e10-d3bd-11ec-96a0-c3471a31202c",
+    "stats_global_id": "0",
+    "stats_id": "34356",
+    "team": "SEA",
+    "weight": "219"
+   },
+   {
     "birthdate": "915598800",
     "cbs_id": "2804276",
     "college": "Florida A&M",
@@ -30134,7 +30153,7 @@
     "sportsdata_id": "406b6c6f-0172-482e-9ade-f38f5abb95f0",
     "stats_global_id": "0",
     "stats_id": "40176",
-    "team": "FA",
+    "team": "ATL",
     "weight": "200"
    },
    {
@@ -30637,7 +30656,7 @@
     "sportsdata_id": "308b4b49-5159-48c1-8da6-5d559a3efedd",
     "stats_global_id": "0",
     "stats_id": "40210",
-    "team": "TEN",
+    "team": "FA",
     "weight": "200"
    },
    {
@@ -31933,7 +31952,7 @@
     "sportsdata_id": "a02978e0-f327-11ed-8969-c3ee6357abaf",
     "stats_global_id": "0",
     "stats_id": "40711",
-    "team": "FA",
+    "team": "BUF",
     "weight": "188"
    },
    {
@@ -32575,7 +32594,7 @@
     "sportsdata_id": "74043480-24ef-4c26-99d4-18f43d5b41d3",
     "stats_global_id": "0",
     "stats_id": "41060",
-    "team": "DAL",
+    "team": "PHI",
     "weight": "246"
    },
    {
@@ -49241,7 +49260,7 @@
     "stats_global_id": "0",
     "stats_id": "42865",
     "status": "R",
-    "team": "HOU",
+    "team": "FA",
     "weight": "231"
    },
    {
@@ -50831,7 +50850,7 @@
     "rotowire_id": "18166",
     "stats_global_id": "0",
     "stats_id": "41504",
-    "team": "FA",
+    "team": "NOS",
     "weight": "184"
    },
    {
@@ -51319,9 +51338,27 @@
     "status": "R",
     "team": "DEN",
     "weight": "181"
+   },
+   {
+    "birthdate": "983336400",
+    "cbs_id": "3172564",
+    "college": "Army",
+    "draft_team": "FA",
+    "draft_year": "2024",
+    "espn_id": "4689804",
+    "height": "74",
+    "id": "17815",
+    "jersey": "46",
+    "name": "Ciarlo, Jimmy",
+    "position": "LB",
+    "rotowire_id": "18202",
+    "stats_global_id": "0",
+    "stats_id": "41355",
+    "team": "SEA",
+    "weight": "230"
    }
   ],
-  "timestamp": "1792216643"
+  "timestamp": "1792309022"
  },
  "version": "1.0"
 }

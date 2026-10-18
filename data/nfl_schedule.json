@@ -12,8 +12,8 @@
       "inRedZone": "0",
       "isHome": "0",
       "passDefenseRank": "1",
-      "passOffenseRank": "15",
-      "rushDefenseRank": "9",
+      "passOffenseRank": "16",
+      "rushDefenseRank": "11",
       "rushOffenseRank": "16",
       "score": "14",
       "spread": "-3"
@@ -23,9 +23,9 @@
       "id": "DEN",
       "inRedZone": "0",
       "isHome": "1",
-      "passDefenseRank": "10",
-      "passOffenseRank": "28",
-      "rushDefenseRank": "25",
+      "passDefenseRank": "9",
+      "passOffenseRank": "25",
+      "rushDefenseRank": "27",
       "rushOffenseRank": "23",
       "score": "17",
       "spread": "3.0"
@@ -33,11 +33,11 @@
     ]
    },
    {
-    "gameSecondsRemaining": "3600",
+    "gameSecondsRemaining": "1049",
     "kickoff": "1792330200",
     "team": [
      {
-      "hasPossession": "0",
+      "hasPossession": "1",
       "id": "HOU",
       "inRedZone": "0",
       "isHome": "0",
@@ -45,7 +45,7 @@
       "passOffenseRank": "6",
       "rushDefenseRank": "3",
       "rushOffenseRank": "29",
-      "score": "",
+      "score": "24",
       "spread": "3"
      },
      {
@@ -57,7 +57,7 @@
       "passOffenseRank": "17",
       "rushDefenseRank": "1",
       "rushOffenseRank": "14",
-      "score": "",
+      "score": "21",
       "spread": "-3.0"
      }
     ]
