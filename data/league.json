@@ -32,7 +32,7 @@
      "logo": "https://www47.myfantasyleague.com/fflnetdynamic2019/53478_franchise_logo0002.jpg",
      "name": "ScallyWegs",
      "stadium": "Doubloon Dome",
-     "waiverSortOrder": "3"
+     "waiverSortOrder": "4"
     },
     {
      "abbrev": "MSTDN",
@@ -41,7 +41,7 @@
      "id": "0003",
      "logo": "https://www47.myfantasyleague.com/fflnetdynamic2019/53478_franchise_logo0003.png",
      "name": "The Mastadans ",
-     "waiverSortOrder": "9"
+     "waiverSortOrder": "10"
     },
     {
      "bbidAvailableBalance": "27.00",
@@ -85,7 +85,7 @@
      "id": "0009",
      "logo": "https://www47.myfantasyleague.com/fflnetdynamic2019/53478_franchise_icon0009.jpg",
      "name": "Bush League",
-     "waiverSortOrder": "10"
+     "waiverSortOrder": "9"
     },
     {
      "bbidAvailableBalance": "164.00",
@@ -109,7 +109,7 @@
      "id": "0012",
      "logo": "https://www47.myfantasyleague.com/fflnetdynamic2019/53478_franchise_logo0012.jpg",
      "name": "Fritz the Cat",
-     "waiverSortOrder": "4"
+     "waiverSortOrder": "3"
     }
    ]
   },
