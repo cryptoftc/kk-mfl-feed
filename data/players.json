@@ -50433,6 +50433,7 @@
     "position": "WR",
     "rotowire_id": "19119",
     "stats_global_id": "0",
+    "stats_id": "42515",
     "status": "R",
     "team": "FA",
     "weight": "188"
@@ -51413,7 +51414,7 @@
     "weight": "268"
    }
   ],
-  "timestamp": "1792913822"
+  "timestamp": "1793171637"
  },
  "version": "1.0"
 }
