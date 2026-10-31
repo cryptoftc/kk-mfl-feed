@@ -216,11 +216,6 @@
      },
      {
       "originalPickFor": "0003",
-      "round": "4",
-      "year": "2027"
-     },
-     {
-      "originalPickFor": "0003",
       "round": "1",
       "year": "2028"
      },
@@ -413,6 +408,11 @@
       "originalPickFor": "0005",
       "round": "4",
       "year": "2029"
+     },
+     {
+      "originalPickFor": "0003",
+      "round": "4",
+      "year": "2027"
      }
     ],
     "id": "0005"
