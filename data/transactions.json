@@ -4,6 +4,67 @@
   "transaction": [
    {
     "activated": "",
+    "deactivated": "15282,",
+    "franchise": "0002",
+    "timestamp": "1793544326",
+    "type": "IR"
+   },
+   {
+    "activated": "",
+    "deactivated": "15717,",
+    "franchise": "0007",
+    "timestamp": "1793543123",
+    "type": "IR"
+   },
+   {
+    "demoted": "17503,",
+    "franchise": "0007",
+    "promoted": "",
+    "timestamp": "1793543103",
+    "type": "TAXI"
+   },
+   {
+    "activated": "17473,",
+    "deactivated": "17497,",
+    "franchise": "0003",
+    "timestamp": "1793539681",
+    "type": "IR"
+   },
+   {
+    "franchise": "0004",
+    "timestamp": "1793496887",
+    "transaction": "15730,|",
+    "type": "FREE_AGENT"
+   },
+   {
+    "franchise": "0005",
+    "timestamp": "1793496256",
+    "transaction": "17069,|",
+    "type": "FREE_AGENT"
+   },
+   {
+    "activated": "",
+    "deactivated": "14104,",
+    "franchise": "0005",
+    "timestamp": "1793496180",
+    "type": "IR"
+   },
+   {
+    "demoted": "17743,",
+    "franchise": "0004",
+    "promoted": "16778,",
+    "timestamp": "1793494283",
+    "type": "TAXI"
+   },
+   {
+    "demoted": "17043,",
+    "franchise": "0009",
+    "promoted": "",
+    "timestamp": "1793466944",
+    "type": "TAXI"
+   },
+   {
+    "activated": "",
     "deactivated": "16195,16165,",
     "franchise": "0004",
     "timestamp": "1793391172",

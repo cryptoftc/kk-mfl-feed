@@ -13849,7 +13849,7 @@
     "sportsdata_id": "dcbe3642-aa52-43e6-8f4c-4b9809377c4d",
     "stats_global_id": "922057",
     "stats_id": "31851",
-    "team": "TEN",
+    "team": "CHI",
     "weight": "305"
    },
    {
@@ -15701,7 +15701,7 @@
     "sportsdata_id": "2a86a6b4-58ef-42f5-aff9-d5d979bea6c7",
     "stats_global_id": "883319",
     "stats_id": "32321",
-    "team": "SFO",
+    "team": "IND",
     "weight": "285"
    },
    {
@@ -25429,7 +25429,7 @@
     "sportsdata_id": "f461da0c-f764-414c-9e0d-2f02e22a68d8",
     "stats_global_id": "0",
     "stats_id": "34133",
-    "team": "CAR",
+    "team": "DAL",
     "weight": "249"
    },
    {
@@ -26634,7 +26634,7 @@
     "sportsdata_id": "16b730e0-cc7f-11ec-8d55-87af3a9174bd",
     "stats_global_id": "0",
     "stats_id": "34289",
-    "team": "FA",
+    "team": "TEN",
     "weight": "323"
    },
    {
@@ -30425,7 +30425,7 @@
     "sportsdata_id": "5d64ba96-04f6-41ee-8620-ed251f16485c",
     "stats_global_id": "0",
     "stats_id": "40181",
-    "team": "MIA",
+    "team": "FA",
     "weight": "250"
    },
    {
@@ -35651,7 +35651,7 @@
     "sportsdata_id": "d83c6686-ffd6-41cd-a2ca-9583a0470769",
     "stats_global_id": "0",
     "stats_id": "41039",
-    "team": "FA",
+    "team": "TEN",
     "weight": "220"
    },
    {
@@ -35840,7 +35840,7 @@
     "sportsdata_id": "6393b3f5-c426-4895-81d2-b96e0320c450",
     "stats_global_id": "0",
     "stats_id": "41023",
-    "team": "FA",
+    "team": "CAR",
     "weight": "195"
    },
    {
@@ -37888,7 +37888,7 @@
     "sportsdata_id": "804bd6a0-2c00-11ee-b1fc-571fc9ac66e0",
     "stats_global_id": "0",
     "stats_id": "40829",
-    "team": "FA",
+    "team": "CHI",
     "weight": "182"
    },
    {
@@ -51457,9 +51457,11 @@
    },
    {
     "birthdate": "960958800",
+    "cbs_id": "2962602",
     "college": "James Madison",
     "draft_team": "FA",
     "draft_year": "2025",
+    "espn_id": "4372463",
     "height": "75",
     "id": "17818",
     "jersey": "59",
@@ -51467,7 +51469,8 @@
     "position": "DE",
     "rotowire_id": "18256",
     "stats_global_id": "0",
-    "team": "CHI",
+    "stats_id": "41321",
+    "team": "MIA",
     "weight": "268"
    },
    {
@@ -51541,7 +51544,7 @@
     "weight": "190"
    }
   ],
-  "timestamp": "1793431333"
+  "timestamp": "1793522224"
  },
  "version": "1.0"
 }
