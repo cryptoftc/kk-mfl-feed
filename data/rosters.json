@@ -252,11 +252,11 @@
       "status": "ROSTER"
      },
      {
-      "id": "13146",
-      "status": "INJURED_RESERVE"
+      "id": "15282",
+      "status": "ROSTER"
      },
      {
-      "id": "15282",
+      "id": "13146",
       "status": "INJURED_RESERVE"
      },
      {
@@ -390,15 +390,15 @@
       "status": "ROSTER"
      },
      {
+      "id": "17497",
+      "status": "ROSTER"
+     },
+     {
       "id": "16594",
       "status": "INJURED_RESERVE"
      },
      {
       "id": "16184",
-      "status": "INJURED_RESERVE"
-     },
-     {
-      "id": "17497",
       "status": "INJURED_RESERVE"
      },
      {
@@ -500,19 +500,11 @@
       "status": "ROSTER"
      },
      {
-      "id": "17679",
-      "status": "ROSTER"
-     },
-     {
       "id": "14823",
       "status": "ROSTER"
      },
      {
       "id": "15702",
-      "status": "ROSTER"
-     },
-     {
-      "id": "17274",
       "status": "ROSTER"
      },
      {
@@ -529,6 +521,14 @@
      },
      {
       "id": "15730",
+      "status": "ROSTER"
+     },
+     {
+      "id": "17760",
+      "status": "ROSTER"
+     },
+     {
+      "id": "17508",
       "status": "ROSTER"
      },
      {
@@ -584,15 +584,15 @@
       "status": "TAXI_SQUAD"
      },
      {
-      "id": "17750",
-      "status": "TAXI_SQUAD"
-     },
-     {
-      "id": "17508",
-      "status": "TAXI_SQUAD"
-     },
-     {
       "id": "17743",
+      "status": "TAXI_SQUAD"
+     },
+     {
+      "id": "17679",
+      "status": "TAXI_SQUAD"
+     },
+     {
+      "id": "17274",
       "status": "TAXI_SQUAD"
      }
     ],
@@ -654,10 +654,6 @@
       "status": "ROSTER"
      },
      {
-      "id": "15753",
-      "status": "ROSTER"
-     },
-     {
       "id": "16641",
       "status": "ROSTER"
      },
@@ -694,7 +690,11 @@
       "status": "ROSTER"
      },
      {
-      "id": "17069",
+      "id": "14104",
+      "status": "ROSTER"
+     },
+     {
+      "id": "16647",
       "status": "ROSTER"
      },
      {
@@ -714,7 +714,7 @@
       "status": "INJURED_RESERVE"
      },
      {
-      "id": "14104",
+      "id": "15753",
       "status": "INJURED_RESERVE"
      },
      {
@@ -982,10 +982,6 @@
       "status": "ROSTER"
      },
      {
-      "id": "13593",
-      "status": "ROSTER"
-     },
-     {
       "id": "14073",
       "status": "ROSTER"
      },
@@ -998,6 +994,10 @@
       "status": "ROSTER"
      },
      {
+      "id": "14067",
+      "status": "ROSTER"
+     },
+     {
       "id": "15240",
       "status": "INJURED_RESERVE"
      },
@@ -1007,6 +1007,10 @@
      },
      {
       "id": "15717",
+      "status": "INJURED_RESERVE"
+     },
+     {
+      "id": "13593",
       "status": "INJURED_RESERVE"
      },
      {
@@ -1096,10 +1100,6 @@
       "status": "ROSTER"
      },
      {
-      "id": "17507",
-      "status": "ROSTER"
-     },
-     {
       "id": "17485",
       "status": "ROSTER"
      },
@@ -1140,6 +1140,10 @@
       "status": "ROSTER"
      },
      {
+      "id": "17544",
+      "status": "ROSTER"
+     },
+     {
       "id": "17509",
       "status": "INJURED_RESERVE"
      },
@@ -1148,7 +1152,7 @@
       "status": "INJURED_RESERVE"
      },
      {
-      "id": "17544",
+      "id": "17507",
       "status": "INJURED_RESERVE"
      },
      {
@@ -1506,19 +1510,11 @@
       "status": "ROSTER"
      },
      {
-      "id": "16747",
-      "status": "ROSTER"
-     },
-     {
       "id": "14778",
       "status": "ROSTER"
      },
      {
       "id": "15754",
-      "status": "ROSTER"
-     },
-     {
-      "id": "17068",
       "status": "ROSTER"
      },
      {
@@ -1542,16 +1538,20 @@
       "status": "ROSTER"
      },
      {
+      "id": "16585",
+      "status": "ROSTER"
+     },
+     {
+      "id": "17477",
+      "status": "ROSTER"
+     },
+     {
       "id": "17472",
       "status": "ROSTER"
      },
      {
-      "id": "17469",
-      "status": "ROSTER"
-     },
-     {
-      "id": "16585",
-      "status": "TAXI_SQUAD"
+      "id": "16747",
+      "status": "INJURED_RESERVE"
      },
      {
       "id": "17157",
@@ -1562,11 +1562,15 @@
       "status": "TAXI_SQUAD"
      },
      {
-      "id": "17477",
+      "id": "17466",
       "status": "TAXI_SQUAD"
      },
      {
-      "id": "17466",
+      "id": "17469",
+      "status": "TAXI_SQUAD"
+     },
+     {
+      "id": "17068",
       "status": "TAXI_SQUAD"
      }
     ],

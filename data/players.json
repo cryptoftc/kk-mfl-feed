@@ -6972,7 +6972,7 @@
     "sportsdata_id": "014038bd-e9b7-476f-b7bd-bd78a46a9a57",
     "stats_global_id": "697675",
     "stats_id": "29277",
-    "team": "BUF",
+    "team": "JAC",
     "weight": "314"
    },
    {
@@ -11132,7 +11132,7 @@
     "sportsdata_id": "7bb70550-c28a-4e47-9a13-cc0c0fef8b38",
     "stats_global_id": "744439",
     "stats_id": "31137",
-    "team": "NOS",
+    "team": "FA",
     "weight": "215"
    },
    {
@@ -12539,7 +12539,7 @@
     "sportsdata_id": "6f124753-5c6c-454b-97c7-0f9b4d14e7c2",
     "stats_global_id": "757521",
     "stats_id": "31769",
-    "team": "FA",
+    "team": "SFO",
     "weight": "210"
    },
    {
@@ -14510,7 +14510,7 @@
     "sportsdata_id": "5fb6e9f1-2efa-44c9-876f-4d635484be88",
     "stats_global_id": "910391",
     "stats_id": "31937",
-    "team": "BUF",
+    "team": "FA",
     "weight": "208"
    },
    {
@@ -15738,7 +15738,7 @@
     "sportsdata_id": "55998ec0-4d69-4d14-a2f4-cf72de36e998",
     "stats_global_id": "0",
     "stats_id": "31454",
-    "team": "PIT",
+    "team": "WAS",
     "weight": "300"
    },
    {
@@ -16490,7 +16490,7 @@
     "sportsdata_id": "c65488d4-251e-40fc-9f32-7019bbdaf75e",
     "stats_global_id": "0",
     "stats_id": "32871",
-    "team": "CLE",
+    "team": "ARI",
     "twitter_username": "jamesproche3",
     "weight": "193"
    },
@@ -17996,7 +17996,7 @@
     "sportsdata_id": "e1072f9a-86f7-4d01-89a6-33fe0186f232",
     "stats_global_id": "0",
     "stats_id": "32833",
-    "team": "NEP",
+    "team": "FA",
     "twitter_username": "ThePremier20",
     "weight": "189"
    },
@@ -19233,7 +19233,7 @@
     "sportsdata_id": "82996e3b-b72d-41ca-8eb1-91e462ceff85",
     "stats_global_id": "0",
     "stats_id": "33706",
-    "team": "CLE",
+    "team": "DEN",
     "weight": "195"
    },
    {
@@ -19275,7 +19275,7 @@
     "sportsdata_id": "de456390-b27b-4146-87b9-0267f1ea8db4",
     "stats_global_id": "0",
     "stats_id": "33644",
-    "team": "FA",
+    "team": "ARI",
     "weight": "215"
    },
    {
@@ -21116,7 +21116,7 @@
     "sportsdata_id": "0589b224-bfc7-47a5-b89d-ff58ef2dcf21",
     "stats_global_id": "0",
     "stats_id": "33525",
-    "team": "NYJ",
+    "team": "FA",
     "weight": "185"
    },
    {
@@ -21410,7 +21410,7 @@
     "sportsdata_id": "2784acd6-85b1-4411-a00a-094a5fc01930",
     "stats_global_id": "0",
     "stats_id": "33564",
-    "team": "NEP",
+    "team": "DET",
     "weight": "240"
    },
    {
@@ -22013,7 +22013,7 @@
     "sportsdata_id": "d25a19a7-7de6-4476-b42a-833c8c3cb208",
     "stats_global_id": "0",
     "stats_id": "32948",
-    "team": "LVR",
+    "team": "FA",
     "weight": "227"
    },
    {
@@ -22108,7 +22108,7 @@
     "sportsdata_id": "728571c3-6651-4534-ad27-d86d72dc7d16",
     "stats_global_id": "0",
     "stats_id": "33833",
-    "team": "SFO",
+    "team": "HOU",
     "weight": "313"
    },
    {
@@ -22696,7 +22696,7 @@
     "sportsdata_id": "f3a50b5d-0197-4ae8-b5a5-bb54484b8941",
     "stats_global_id": "0",
     "stats_id": "34087",
-    "team": "NEP",
+    "team": "CLE",
     "weight": "228"
    },
    {
@@ -24944,7 +24944,7 @@
     "sportsdata_id": "9a7ecca5-faf4-468f-93e6-e0357c5854cb",
     "stats_global_id": "0",
     "stats_id": "34075",
-    "team": "TEN",
+    "team": "LAC",
     "weight": "200"
    },
    {
@@ -27669,7 +27669,7 @@
     "sportsdata_id": "dcc536c1-36f2-4e34-8028-ccf32d930018",
     "stats_global_id": "0",
     "stats_id": "40198",
-    "team": "CLE",
+    "team": "NYG",
     "weight": "211"
    },
    {
@@ -28837,7 +28837,7 @@
     "sportsdata_id": "e6926317-2584-496a-9f32-e422040a8a20",
     "stats_global_id": "0",
     "stats_id": "40200",
-    "team": "TEN",
+    "team": "DET",
     "weight": "230"
    },
    {
@@ -29836,7 +29836,7 @@
     "sportsdata_id": "8197c5b4-ade0-47e4-81b3-f16aa47eab12",
     "stats_global_id": "0",
     "stats_id": "40148",
-    "team": "PHI",
+    "team": "FA",
     "weight": "200"
    },
    {
@@ -30463,7 +30463,7 @@
     "sportsdata_id": "5d64ba96-04f6-41ee-8620-ed251f16485c",
     "stats_global_id": "0",
     "stats_id": "40181",
-    "team": "FA",
+    "team": "SFO",
     "weight": "250"
    },
    {
@@ -30672,7 +30672,7 @@
     "sportsdata_id": "17093231-3e82-42fb-bec7-75160d097538",
     "stats_global_id": "0",
     "stats_id": "40208",
-    "team": "FA",
+    "team": "PHI",
     "weight": "185"
    },
    {
@@ -31727,7 +31727,7 @@
     "sportsdata_id": "664d2020-ec76-11ed-b1d3-55b3fe623f86",
     "stats_global_id": "0",
     "stats_id": "40598",
-    "team": "TEN",
+    "team": "CAR",
     "weight": "225"
    },
    {
@@ -32795,7 +32795,7 @@
     "sportsdata_id": "3b86dd7c-0b21-448d-a662-5675e87fd0da",
     "stats_global_id": "0",
     "stats_id": "41019",
-    "team": "CLE",
+    "team": "NOS",
     "weight": "227"
    },
    {
@@ -34474,7 +34474,7 @@
     "sportsdata_id": "4842ee80-07d1-11ef-977b-d7c6de486031",
     "stats_global_id": "0",
     "stats_id": "41476",
-    "team": "GBP",
+    "team": "BAL",
     "weight": "223"
    },
    {
@@ -36657,6 +36657,25 @@
     "weight": "195"
    },
    {
+    "birthdate": "951195600",
+    "cbs_id": "2967693",
+    "college": "Western Kentucky",
+    "draft_team": "FA",
+    "draft_year": "2024",
+    "espn_id": "4368343",
+    "height": "73",
+    "id": "16804",
+    "jersey": "16",
+    "name": "Reed, Austin",
+    "position": "QB",
+    "rotowire_id": "17980",
+    "sportsdata_id": "3dd3c120-05b2-11ef-a7ec-77a76ba1f065",
+    "stats_global_id": "0",
+    "stats_id": "41220",
+    "team": "BAL",
+    "weight": "214"
+   },
+   {
     "birthdate": "983768400",
     "cbs_id": "3127909",
     "college": "UTSA",
@@ -37793,7 +37812,7 @@
     "sportsdata_id": "e6fc9a80-1168-11ef-8e6a-d7d3a1fb0861",
     "stats_global_id": "0",
     "stats_id": "41713",
-    "team": "FA",
+    "team": "NEP",
     "weight": "217"
    },
    {
@@ -42209,7 +42228,7 @@
     "sportsdata_id": "065b4e2a-5071-4b33-aef8-0b3eb99dce35",
     "stats_global_id": "0",
     "stats_id": "41964",
-    "team": "FA",
+    "team": "GBP",
     "weight": "211"
    },
    {
@@ -44099,11 +44118,12 @@
     "rotowire_id": "18380",
     "stats_global_id": "0",
     "stats_id": "41448",
-    "team": "CAR",
+    "team": "LVR",
     "weight": "283"
    },
    {
     "birthdate": "995864400",
+    "cbs_id": "29184228",
     "college": "Towson",
     "draft_team": "LVR",
     "draft_year": "2025",
@@ -44665,7 +44685,7 @@
     "rotowire_id": "18386",
     "stats_global_id": "0",
     "stats_id": "41529",
-    "team": "LAR",
+    "team": "NEP",
     "weight": "221"
    },
    {
@@ -49717,7 +49737,7 @@
     "stats_global_id": "0",
     "stats_id": "42986",
     "status": "R",
-    "team": "SEA",
+    "team": "WAS",
     "weight": "196"
    },
    {
@@ -51612,7 +51632,7 @@
     "team": "LAR"
    }
   ],
-  "timestamp": "1793778732"
+  "timestamp": "1793867822"
  },
  "version": "1.0"
 }
