@@ -6535,7 +6535,7 @@
     "sportsdata_id": "ad2258ab-67f0-41c2-bcf3-f3ba145187dc",
     "stats_global_id": "607047",
     "stats_id": "29325",
-    "team": "ARI",
+    "team": "BAL",
     "twitter_username": "JBrissett12",
     "weight": "235"
    },
@@ -17996,7 +17996,7 @@
     "sportsdata_id": "e1072f9a-86f7-4d01-89a6-33fe0186f232",
     "stats_global_id": "0",
     "stats_id": "32833",
-    "team": "FA",
+    "team": "NEP",
     "twitter_username": "ThePremier20",
     "weight": "189"
    },
@@ -22013,7 +22013,7 @@
     "sportsdata_id": "d25a19a7-7de6-4476-b42a-833c8c3cb208",
     "stats_global_id": "0",
     "stats_id": "32948",
-    "team": "FA",
+    "team": "LVR",
     "weight": "227"
    },
    {
@@ -22654,7 +22654,7 @@
     "sportsdata_id": "5d4ef6da-a6b5-4d9c-adc0-28dfdbe9315e",
     "stats_global_id": "0",
     "stats_id": "34063",
-    "team": "PHI",
+    "team": "FA",
     "weight": "215"
    },
    {
@@ -26577,7 +26577,7 @@
     "sportsdata_id": "97debc10-d3b9-11ec-96a0-c3471a31202c",
     "stats_global_id": "0",
     "stats_id": "34529",
-    "team": "KCC",
+    "team": "BUF",
     "weight": "197"
    },
    {
@@ -27648,7 +27648,7 @@
     "sportsdata_id": "66627686-34fe-4599-84ac-e436fd7d798a",
     "stats_global_id": "0",
     "stats_id": "40108",
-    "team": "NOS",
+    "team": "FA",
     "weight": "220"
    },
    {
@@ -29836,7 +29836,7 @@
     "sportsdata_id": "8197c5b4-ade0-47e4-81b3-f16aa47eab12",
     "stats_global_id": "0",
     "stats_id": "40148",
-    "team": "FA",
+    "team": "CAR",
     "weight": "200"
    },
    {
@@ -35836,7 +35836,7 @@
     "sportsdata_id": "ef0feb13-57b8-474c-a723-cf03f57a321a",
     "stats_global_id": "0",
     "stats_id": "41045",
-    "team": "CLE",
+    "team": "KCC",
     "weight": "215"
    },
    {
@@ -36672,7 +36672,7 @@
     "sportsdata_id": "3dd3c120-05b2-11ef-a7ec-77a76ba1f065",
     "stats_global_id": "0",
     "stats_id": "41220",
-    "team": "BAL",
+    "team": "FA",
     "weight": "214"
    },
    {
@@ -37147,7 +37147,7 @@
     "sportsdata_id": "e95a83c0-e6f6-11ed-88d6-7977d3a68019",
     "stats_global_id": "0",
     "stats_id": "40299",
-    "team": "FA",
+    "team": "SEA",
     "weight": "220"
    },
    {
@@ -50913,7 +50913,7 @@
     "rotowire_id": "18263",
     "stats_global_id": "0",
     "stats_id": "41363",
-    "team": "NOS",
+    "team": "FA",
     "weight": "240"
    },
    {
@@ -51569,6 +51569,7 @@
    },
    {
     "birthdate": "985669200",
+    "cbs_id": "26697079",
     "college": "Memphis",
     "draft_team": "FA",
     "draft_year": "2026",
@@ -51580,8 +51581,9 @@
     "position": "RB",
     "rotowire_id": "19655",
     "stats_global_id": "0",
+    "stats_id": "42922",
     "status": "R",
-    "team": "LAC",
+    "team": "NYG",
     "weight": "200"
    },
    {
@@ -51632,7 +51634,7 @@
     "team": "LAR"
    }
   ],
-  "timestamp": "1793867822"
+  "timestamp": "1794162297"
  },
  "version": "1.0"
 }
