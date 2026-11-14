@@ -4159,7 +4159,7 @@
     "sportsdata_id": "b37c621e-1125-4c35-bea0-fcabb1527060",
     "stats_global_id": "213781",
     "stats_id": "8432",
-    "team": "ATL",
+    "team": "FA",
     "twitter_username": "nickfolk2",
     "weight": "222"
    },
@@ -4276,7 +4276,7 @@
     "sportsdata_id": "73e133bf-d3f7-4fda-bd25-2fde66cb8ee1",
     "stats_global_id": "273278",
     "stats_id": "8937",
-    "team": "CIN",
+    "team": "ARI",
     "weight": "214"
    },
    {
@@ -4565,7 +4565,7 @@
     "sportsdata_id": "bbd0942c-6f77-4f83-a6d0-66ec6548019e",
     "stats_global_id": "403308",
     "stats_id": "25812",
-    "team": "LVR",
+    "team": "MIN",
     "twitter_username": "KirkCousins8",
     "weight": "205"
    },
@@ -4847,7 +4847,7 @@
     "sportsdata_id": "5f424505-f29f-433c-b3f2-1a143a04a010",
     "stats_global_id": "557210",
     "stats_id": "26699",
-    "team": "IND",
+    "team": "SFO",
     "twitter_username": "Keenan13Allen",
     "weight": "211"
    },
@@ -5849,7 +5849,7 @@
     "sportsdata_id": "c682e8ea-fe48-45d2-af60-682a6125ab22",
     "stats_global_id": "596417",
     "stats_id": "28417",
-    "team": "LVR",
+    "team": "ARI",
     "twitter_username": "Dorsett_4",
     "weight": "185"
    },
@@ -6811,7 +6811,7 @@
     "sportsdata_id": "c731aa8a-778b-4ccd-a19f-517eb66f47b7",
     "stats_global_id": "606488",
     "stats_id": "29328",
-    "team": "BAL",
+    "team": "FA",
     "twitter_username": "N_Vannett81",
     "weight": "257"
    },
@@ -9473,7 +9473,7 @@
     "sportsdata_id": "6e6dcc9c-06f5-40fd-9134-d0afd0e349d8",
     "stats_global_id": "822029",
     "stats_id": "30291",
-    "team": "NOS",
+    "team": "JAC",
     "weight": "330"
    },
    {
@@ -11284,7 +11284,7 @@
     "sportsdata_id": "89c84a59-18ad-4aeb-8879-d4ba7dd1491e",
     "stats_global_id": "884318",
     "stats_id": "31024",
-    "team": "ATL",
+    "team": "JAC",
     "weight": "210"
    },
    {
@@ -13283,7 +13283,7 @@
     "sportsdata_id": "97f6c20c-1110-4551-82c1-41d3247397a2",
     "stats_global_id": "866973",
     "stats_id": "32418",
-    "team": "TBB",
+    "team": "FA",
     "weight": "211"
    },
    {
@@ -14047,7 +14047,7 @@
     "sportsdata_id": "aac96096-362f-4254-952a-5b3b04472f19",
     "stats_global_id": "923916",
     "stats_id": "31948",
-    "team": "TEN",
+    "team": "BUF",
     "weight": "210"
    },
    {
@@ -17778,7 +17778,7 @@
     "sportsdata_id": "86d7dd69-9957-4853-b069-5ad7e35edc64",
     "stats_global_id": "0",
     "stats_id": "32789",
-    "team": "FA",
+    "team": "NYJ",
     "twitter_username": "MykalWalker3",
     "weight": "235"
    },
@@ -20215,7 +20215,7 @@
     "sportsdata_id": "250da6c8-2222-4438-9800-60d7bbb449d7",
     "stats_global_id": "0",
     "stats_id": "33453",
-    "team": "NYJ",
+    "team": "DET",
     "weight": "210"
    },
    {
@@ -20297,7 +20297,7 @@
     "sportsdata_id": "deac735c-af0a-4f01-ada8-379ef66917ba",
     "stats_global_id": "0",
     "stats_id": "33781",
-    "team": "FA",
+    "team": "BAL",
     "weight": "190"
    },
    {
@@ -21975,7 +21975,7 @@
     "sportsdata_id": "a1be5d02-d5c4-42f6-8749-7ac2ff2a6f09",
     "stats_global_id": "0",
     "stats_id": "33220",
-    "team": "CLE",
+    "team": "LVR",
     "weight": "298"
    },
    {
@@ -23894,7 +23894,7 @@
     "sportsdata_id": "6528c7dc-2a02-4577-9246-b590be05eeeb",
     "stats_global_id": "0",
     "stats_id": "33968",
-    "team": "PHI",
+    "team": "JAC",
     "weight": "336"
    },
    {
@@ -24986,7 +24986,7 @@
     "sportsdata_id": "c816f5e3-7abe-4fc5-b6e0-4151017210b0",
     "stats_global_id": "0",
     "stats_id": "34077",
-    "team": "FA",
+    "team": "SFO",
     "weight": "175"
    },
    {
@@ -25196,7 +25196,7 @@
     "sportsdata_id": "f0677d8a-b387-42c7-b76c-a2b522e8c787",
     "stats_global_id": "0",
     "stats_id": "34108",
-    "team": "DEN",
+    "team": "ATL",
     "weight": "200"
    },
    {
@@ -27669,7 +27669,7 @@
     "sportsdata_id": "66627686-34fe-4599-84ac-e436fd7d798a",
     "stats_global_id": "0",
     "stats_id": "40108",
-    "team": "FA",
+    "team": "DAL",
     "weight": "220"
    },
    {
@@ -27919,7 +27919,7 @@
     "sportsdata_id": "dd227f4a-0785-482d-a28b-f231c7f3b73f",
     "stats_global_id": "0",
     "stats_id": "40126",
-    "team": "IND",
+    "team": "KCC",
     "weight": "171"
    },
    {
@@ -29691,7 +29691,7 @@
     "sportsdata_id": "93f17bc5-55d5-441a-a29d-d419ed4725e7",
     "stats_global_id": "0",
     "stats_id": "40113",
-    "team": "LAC",
+    "team": "DEN",
     "weight": "225"
    },
    {
@@ -29795,7 +29795,7 @@
     "sportsdata_id": "e7a7eaea-0f77-42ab-b6a2-12ebcf51227c",
     "stats_global_id": "0",
     "stats_id": "40129",
-    "team": "BAL",
+    "team": "ATL",
     "weight": "210"
    },
    {
@@ -30379,7 +30379,7 @@
     "sportsdata_id": "9f7054ea-7f83-438d-bc5b-0372aac66de5",
     "stats_global_id": "0",
     "stats_id": "40187",
-    "team": "LVR",
+    "team": "LAC",
     "weight": "188"
    },
    {
@@ -31596,7 +31596,7 @@
     "sportsdata_id": "52b850b0-ec3b-11ed-aeaf-cb0dc6206dc5",
     "stats_global_id": "0",
     "stats_id": "40571",
-    "team": "KCC",
+    "team": "FA",
     "weight": "187"
    },
    {
@@ -31672,7 +31672,7 @@
     "sportsdata_id": "98b88de0-e8e5-11ed-ad77-290d92d9e505",
     "stats_global_id": "0",
     "stats_id": "40399",
-    "team": "SFO",
+    "team": "LAR",
     "weight": "176"
    },
    {
@@ -31748,7 +31748,7 @@
     "sportsdata_id": "664d2020-ec76-11ed-b1d3-55b3fe623f86",
     "stats_global_id": "0",
     "stats_id": "40598",
-    "team": "CAR",
+    "team": "TEN",
     "weight": "225"
    },
    {
@@ -32185,7 +32185,7 @@
     "sportsdata_id": "74650010-eba9-11ed-aa2f-9b9591ffdf9b",
     "stats_global_id": "0",
     "stats_id": "40547",
-    "team": "FA",
+    "team": "CAR",
     "weight": "230"
    },
    {
@@ -37035,7 +37035,7 @@
     "sportsdata_id": "663ada70-0717-11ef-94de-1b2fbd1e412b",
     "stats_global_id": "0",
     "stats_id": "41312",
-    "team": "FA",
+    "team": "BAL",
     "weight": "243"
    },
    {
@@ -38924,7 +38924,7 @@
     "sportsdata_id": "f5e6eb8e-2c76-4bf9-b47f-57c62659341d",
     "stats_global_id": "0",
     "stats_id": "41935",
-    "team": "PHI",
+    "team": "FA",
     "weight": "196"
    },
    {
@@ -44056,7 +44056,7 @@
     "rotowire_id": "16530",
     "stats_global_id": "0",
     "stats_id": "34489",
-    "team": "HOU",
+    "team": "CLE",
     "weight": "257"
    },
    {
@@ -44413,7 +44413,7 @@
     "rotowire_id": "18251",
     "stats_global_id": "0",
     "stats_id": "41692",
-    "team": "LAC",
+    "team": "FA",
     "weight": "247"
    },
    {
@@ -44604,7 +44604,7 @@
     "rotowire_id": "16858",
     "stats_global_id": "0",
     "stats_id": "40566",
-    "team": "MIA",
+    "team": "FA",
     "weight": "188"
    },
    {
@@ -50921,7 +50921,7 @@
     "stats_global_id": "0",
     "stats_id": "43354",
     "status": "R",
-    "team": "GBP",
+    "team": "MIN",
     "weight": "186"
    },
    {
@@ -50994,7 +50994,7 @@
     "rotowire_id": "18263",
     "stats_global_id": "0",
     "stats_id": "41363",
-    "team": "FA",
+    "team": "NOS",
     "weight": "240"
    },
    {
@@ -51256,7 +51256,7 @@
     "rotowire_id": "19187",
     "stats_global_id": "0",
     "stats_id": "42250",
-    "team": "CAR",
+    "team": "MIA",
     "weight": "280"
    },
    {
@@ -51368,7 +51368,7 @@
     "stats_global_id": "0",
     "stats_id": "42992",
     "status": "R",
-    "team": "KCC",
+    "team": "FA",
     "weight": "258"
    },
    {
@@ -51555,7 +51555,7 @@
     "stats_global_id": "0",
     "stats_id": "43461",
     "status": "R",
-    "team": "DEN",
+    "team": "FA",
     "weight": "181"
    },
    {
@@ -51573,7 +51573,7 @@
     "rotowire_id": "18202",
     "stats_global_id": "0",
     "stats_id": "41355",
-    "team": "SEA",
+    "team": "TEN",
     "weight": "230"
    },
    {
@@ -51760,9 +51760,28 @@
     "status": "R",
     "team": "WAS",
     "weight": "195"
+   },
+   {
+    "birthdate": "992667600",
+    "cbs_id": "29123610",
+    "college": "Tennessee",
+    "draft_team": "FA",
+    "draft_year": "2026",
+    "espn_id": "5151948",
+    "height": "75",
+    "id": "17832",
+    "jersey": "17",
+    "name": "Aguilar, Joey",
+    "position": "QB",
+    "rotowire_id": "19427",
+    "stats_global_id": "0",
+    "stats_id": "42903",
+    "status": "R",
+    "team": "JAC",
+    "weight": "225"
    }
   ],
-  "timestamp": "1794384529"
+  "timestamp": "1794642792"
  },
  "version": "1.0"
 }
