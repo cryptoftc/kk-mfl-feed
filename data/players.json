@@ -8146,7 +8146,7 @@
     "sportsdata_id": "42b57148-fc06-4aee-b40b-bb941271b5b7",
     "stats_global_id": "703015",
     "stats_id": "30860",
-    "team": "HOU",
+    "team": "FA",
     "weight": "205"
    },
    {
@@ -13221,7 +13221,7 @@
     "sportsdata_id": "feeee40a-dd63-41a7-89cd-6c95b5456833",
     "stats_global_id": "976220",
     "stats_id": "31857",
-    "team": "PHI",
+    "team": "FA",
     "weight": "180"
    },
    {
@@ -28254,7 +28254,7 @@
     "sportsdata_id": "6833ad69-9f24-4780-989c-83bdb090ec5e",
     "stats_global_id": "0",
     "stats_id": "40141",
-    "team": "LVR",
+    "team": "LAR",
     "weight": "182"
    },
    {
@@ -29691,7 +29691,7 @@
     "sportsdata_id": "93f17bc5-55d5-441a-a29d-d419ed4725e7",
     "stats_global_id": "0",
     "stats_id": "40113",
-    "team": "DEN",
+    "team": "LAC",
     "weight": "225"
    },
    {
@@ -31596,7 +31596,7 @@
     "sportsdata_id": "52b850b0-ec3b-11ed-aeaf-cb0dc6206dc5",
     "stats_global_id": "0",
     "stats_id": "40571",
-    "team": "FA",
+    "team": "HOU",
     "weight": "187"
    },
    {
@@ -36769,7 +36769,7 @@
     "sportsdata_id": "7fcfe130-06fc-11ef-9592-67ed152bdb91",
     "stats_global_id": "0",
     "stats_id": "41261",
-    "team": "LVR",
+    "team": "FA",
     "weight": "203"
    },
    {
@@ -51368,7 +51368,7 @@
     "stats_global_id": "0",
     "stats_id": "42992",
     "status": "R",
-    "team": "FA",
+    "team": "KCC",
     "weight": "258"
    },
    {
@@ -51555,7 +51555,7 @@
     "stats_global_id": "0",
     "stats_id": "43461",
     "status": "R",
-    "team": "FA",
+    "team": "DEN",
     "weight": "181"
    },
    {
@@ -51781,7 +51781,7 @@
     "weight": "225"
    }
   ],
-  "timestamp": "1794642792"
+  "timestamp": "1794645423"
  },
  "version": "1.0"
 }
