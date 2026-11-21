@@ -19193,7 +19193,7 @@
     "sportsdata_id": "7f119181-4c9f-4a9f-bccc-357277b64a8d",
     "stats_global_id": "0",
     "stats_id": "33495",
-    "team": "FA",
+    "team": "TEN",
     "weight": "201"
    },
    {
@@ -19589,7 +19589,7 @@
     "sportsdata_id": "4a76219c-34b8-4cfe-81ab-2bb011368367",
     "stats_global_id": "0",
     "stats_id": "33444",
-    "team": "MIA",
+    "team": "MIN",
     "weight": "190"
    },
    {
@@ -30421,7 +30421,7 @@
     "sportsdata_id": "59e9c19c-c6f6-4f53-b231-d76134ba8fb6",
     "stats_global_id": "0",
     "stats_id": "40179",
-    "team": "FA",
+    "team": "CAR",
     "weight": "250"
    },
    {
@@ -35876,7 +35876,7 @@
     "sportsdata_id": "ef0feb13-57b8-474c-a723-cf03f57a321a",
     "stats_global_id": "0",
     "stats_id": "41045",
-    "team": "KCC",
+    "team": "ARI",
     "weight": "215"
    },
    {
@@ -43391,7 +43391,7 @@
     "sportsdata_id": "441f06f0-23cc-11f0-aeb7-39a1d644c2f5",
     "stats_global_id": "0",
     "stats_id": "42141",
-    "team": "FA",
+    "team": "NYG",
     "weight": "180"
    },
    {
@@ -44377,7 +44377,7 @@
     "rotowire_id": "17617",
     "stats_global_id": "0",
     "stats_id": "40415",
-    "team": "FA",
+    "team": "DET",
     "weight": "200"
    },
    {
@@ -51782,6 +51782,7 @@
    },
    {
     "birthdate": "1015995600",
+    "cbs_id": "29121519",
     "college": "California",
     "draft_team": "FA",
     "draft_year": "2026",
@@ -51793,12 +51794,13 @@
     "position": "WR",
     "rotowire_id": "19996",
     "stats_global_id": "0",
+    "stats_id": "43258",
     "status": "R",
     "team": "KCC",
     "weight": "170"
    }
   ],
-  "timestamp": "1794992274"
+  "timestamp": "1795077423"
  },
  "version": "1.0"
 }

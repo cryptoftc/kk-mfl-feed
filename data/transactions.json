@@ -3,6 +3,89 @@
  "transactions": {
   "transaction": [
    {
+    "activated": "",
+    "deactivated": "15757,",
+    "franchise": "0006",
+    "timestamp": "1795211095",
+    "type": "IR"
+   },
+   {
+    "demoted": "17360,",
+    "franchise": "0005",
+    "promoted": "17045,",
+    "timestamp": "1795202251",
+    "type": "TAXI"
+   },
+   {
+    "franchise": "0001",
+    "timestamp": "1795196790",
+    "transaction": "9207,|11644,",
+    "type": "FREE_AGENT"
+   },
+   {
+    "demoted": "17472,",
+    "franchise": "0011",
+    "promoted": "17466,",
+    "timestamp": "1795148276",
+    "type": "TAXI"
+   },
+   {
+    "demoted": "17269,",
+    "franchise": "0009",
+    "promoted": "17077,",
+    "timestamp": "1795038467",
+    "type": "TAXI"
+   },
+   {
+    "franchise": "",
+    "timestamp": "1795010400",
+    "transaction": "",
+    "type": "UNLOCK_ALL_PLAYERS"
+   },
+   {
+    "franchise": "0005",
+    "timestamp": "1795010400",
+    "transaction": "17360,|0.00|",
+    "type": "BBID_WAIVER"
+   },
+   {
+    "franchise": "0002",
+    "timestamp": "1795010400",
+    "transaction": "15702,|0.00|9064,",
+    "type": "BBID_WAIVER"
+   },
+   {
+    "franchise": "0001",
+    "timestamp": "1795010400",
+    "transaction": "16385,|0.00|",
+    "type": "BBID_WAIVER"
+   },
+   {
+    "franchise": "0012",
+    "timestamp": "1795010400",
+    "transaction": "13193,|0.00|16846,",
+    "type": "BBID_WAIVER"
+   },
+   {
+    "franchise": "0004",
+    "timestamp": "1795010400",
+    "transaction": "16441,|1.00|17508,",
+    "type": "BBID_WAIVER"
+   },
+   {
+    "franchise": "",
+    "timestamp": "1795010400",
+    "transaction": "",
+    "type": "BBID_AUTO_PROCESS_WAIVERS"
+   },
+   {
+    "demoted": "17506,",
+    "franchise": "0004",
+    "promoted": "17508,",
+    "timestamp": "1794992751",
+    "type": "TAXI"
+   },
+   {
     "demoted": "17274,",
     "franchise": "0004",
     "promoted": "17044,",
