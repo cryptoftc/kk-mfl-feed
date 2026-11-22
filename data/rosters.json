@@ -98,15 +98,15 @@
       "status": "ROSTER"
      },
      {
+      "id": "16601",
+      "status": "ROSTER"
+     },
+     {
       "id": "15738",
       "status": "INJURED_RESERVE"
      },
      {
       "id": "17032",
-      "status": "INJURED_RESERVE"
-     },
-     {
-      "id": "16601",
       "status": "INJURED_RESERVE"
      },
      {
@@ -444,10 +444,6 @@
       "status": "ROSTER"
      },
      {
-      "id": "16580",
-      "status": "ROSTER"
-     },
-     {
       "id": "16620",
       "status": "ROSTER"
      },
@@ -492,15 +488,7 @@
       "status": "ROSTER"
      },
      {
-      "id": "16165",
-      "status": "ROSTER"
-     },
-     {
       "id": "17498",
-      "status": "ROSTER"
-     },
-     {
-      "id": "16195",
       "status": "ROSTER"
      },
      {
@@ -528,6 +516,14 @@
       "status": "ROSTER"
      },
      {
+      "id": "17231",
+      "status": "ROSTER"
+     },
+     {
+      "id": "17256",
+      "status": "ROSTER"
+     },
+     {
       "id": "17083",
       "status": "INJURED_RESERVE"
      },
@@ -536,15 +532,23 @@
       "status": "INJURED_RESERVE"
      },
      {
-      "id": "17256",
-      "status": "INJURED_RESERVE"
-     },
-     {
       "id": "15779",
       "status": "INJURED_RESERVE"
      },
      {
       "id": "15730",
+      "status": "INJURED_RESERVE"
+     },
+     {
+      "id": "16580",
+      "status": "INJURED_RESERVE"
+     },
+     {
+      "id": "16195",
+      "status": "INJURED_RESERVE"
+     },
+     {
+      "id": "16165",
       "status": "INJURED_RESERVE"
      },
      {
@@ -610,10 +614,6 @@
       "status": "ROSTER"
      },
      {
-      "id": "16213",
-      "status": "ROSTER"
-     },
-     {
       "id": "16150",
       "status": "ROSTER"
      },
@@ -631,10 +631,6 @@
      },
      {
       "id": "13113",
-      "status": "ROSTER"
-     },
-     {
-      "id": "16641",
       "status": "ROSTER"
      },
      {
@@ -682,6 +678,14 @@
       "status": "ROSTER"
      },
      {
+      "id": "16168",
+      "status": "ROSTER"
+     },
+     {
+      "id": "9064",
+      "status": "ROSTER"
+     },
+     {
       "id": "15749",
       "status": "INJURED_RESERVE"
      },
@@ -703,6 +707,14 @@
      },
      {
       "id": "16186",
+      "status": "INJURED_RESERVE"
+     },
+     {
+      "id": "16213",
+      "status": "INJURED_RESERVE"
+     },
+     {
+      "id": "16641",
       "status": "INJURED_RESERVE"
      },
      {
