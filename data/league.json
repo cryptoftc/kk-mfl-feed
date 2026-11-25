@@ -22,7 +22,7 @@
      "id": "0001",
      "logo": "https://www47.myfantasyleague.com/fflnetdynamic2019/53478_franchise_logo0001.jpg",
      "name": "Business Man",
-     "waiverSortOrder": "2"
+     "waiverSortOrder": "1"
     },
     {
      "abbrev": "SWegs",
@@ -32,7 +32,7 @@
      "logo": "https://www47.myfantasyleague.com/fflnetdynamic2019/53478_franchise_logo0002.jpg",
      "name": "ScallyWegs",
      "stadium": "Doubloon Dome",
-     "waiverSortOrder": "3"
+     "waiverSortOrder": "4"
     },
     {
      "abbrev": "MSTDN",
@@ -48,7 +48,7 @@
      "icon": "https://www47.myfantasyleague.com/fflnetdynamic2019/53478_franchise_icon0004.jpg",
      "id": "0004",
      "name": "Creepy",
-     "waiverSortOrder": "9"
+     "waiverSortOrder": "8"
     },
     {
      "bbidAvailableBalance": "1539.00",
@@ -77,7 +77,7 @@
      "icon": "https://www47.myfantasyleague.com/fflnetdynamic2019/53478_franchise_icon0008.jpg",
      "id": "0008",
      "name": "Bernard Alphonse",
-     "waiverSortOrder": "4"
+     "waiverSortOrder": "3"
     },
     {
      "bbidAvailableBalance": "9.00",
@@ -85,7 +85,7 @@
      "id": "0009",
      "logo": "https://www47.myfantasyleague.com/fflnetdynamic2019/53478_franchise_icon0009.jpg",
      "name": "Bush League",
-     "waiverSortOrder": "8"
+     "waiverSortOrder": "9"
     },
     {
      "bbidAvailableBalance": "164.00",
@@ -109,7 +109,7 @@
      "id": "0012",
      "logo": "https://www47.myfantasyleague.com/fflnetdynamic2019/53478_franchise_logo0012.jpg",
      "name": "Fritz the Cat",
-     "waiverSortOrder": "1"
+     "waiverSortOrder": "2"
     }
    ]
   },

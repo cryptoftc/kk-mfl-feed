@@ -3,6 +3,97 @@
  "transactions": {
   "transaction": [
    {
+    "activated": "17679,",
+    "deactivated": "16622,",
+    "franchise": "0004",
+    "timestamp": "1795598361",
+    "type": "IR"
+   },
+   {
+    "expires": "1796173200",
+    "franchise": "0007",
+    "franchise1_gave_up": "14059,16622,",
+    "franchise2": "0004",
+    "franchise2_gave_up": "FP_0009_2027_3,",
+    "timestamp": "1795598329",
+    "type": "TRADE"
+   },
+   {
+    "expires": "1796169600",
+    "franchise": "0002",
+    "franchise1_gave_up": "16584,12186,15282,",
+    "franchise2": "0007",
+    "franchise2_gave_up": "FP_0007_2029_1,FP_0007_2029_2,FP_0007_2029_3,FP_0006_2029_3,FP_0007_2029_4,17171,17503,",
+    "timestamp": "1795583530",
+    "type": "TRADE"
+   },
+   {
+    "activated": "15799,",
+    "deactivated": "",
+    "franchise": "0006",
+    "timestamp": "1795550981",
+    "type": "IR"
+   },
+   {
+    "activated": "14056,",
+    "deactivated": "15716,16622,15757,",
+    "franchise": "0007",
+    "timestamp": "1795550725",
+    "type": "IR"
+   },
+   {
+    "expires": "1796090400",
+    "franchise": "0007",
+    "franchise1_gave_up": "14085,13635,13629,13630,15797,",
+    "franchise2": "0006",
+    "franchise2_gave_up": "12140,15716,14840,15755,16616,16622,15757,FP_0006_2029_3,",
+    "timestamp": "1795550694",
+    "type": "TRADE"
+   },
+   {
+    "activated": "",
+    "deactivated": "17679,",
+    "franchise": "0004",
+    "timestamp": "1795515353",
+    "type": "IR"
+   },
+   {
+    "franchise": "",
+    "timestamp": "1795485600",
+    "transaction": "",
+    "type": "LOCK_ALL_PLAYERS"
+   },
+   {
+    "activated": "14073,",
+    "deactivated": "",
+    "franchise": "0007",
+    "timestamp": "1795485578",
+    "type": "IR"
+   },
+   {
+    "demoted": "17035,17059,",
+    "franchise": "0007",
+    "promoted": "",
+    "timestamp": "1795485556",
+    "type": "TAXI"
+   },
+   {
+    "activated": "",
+    "deactivated": "16608,",
+    "franchise": "0001",
+    "timestamp": "1795483940",
+    "type": "IR"
+   },
+   {
+    "expires": "1796007600",
+    "franchise": "0012",
+    "franchise1_gave_up": "10700,",
+    "franchise2": "0007",
+    "franchise2_gave_up": "15240,17097,17105,",
+    "timestamp": "1795474844",
+    "type": "TRADE"
+   },
+   {
     "franchise": "0005",
     "timestamp": "1795378610",
     "transaction": "9064,|",
