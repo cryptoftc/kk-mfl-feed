@@ -3,7 +3,7 @@
  "nflSchedule": {
   "matchup": [
    {
-    "gameSecondsRemaining": "3600",
+    "gameSecondsRemaining": "0",
     "kickoff": "1795654800",
     "team": [
      {
@@ -11,11 +11,11 @@
       "id": "GBP",
       "inRedZone": "0",
       "isHome": "0",
-      "passDefenseRank": "9",
-      "passOffenseRank": "2",
-      "rushDefenseRank": "16",
+      "passDefenseRank": "8",
+      "passOffenseRank": "4",
+      "rushDefenseRank": "20",
       "rushOffenseRank": "32",
-      "score": "",
+      "score": "13",
       "spread": "2.5"
      },
      {
@@ -23,17 +23,17 @@
       "id": "LAR",
       "inRedZone": "0",
       "isHome": "1",
-      "passDefenseRank": "4",
-      "passOffenseRank": "9",
-      "rushDefenseRank": "9",
-      "rushOffenseRank": "8",
-      "score": "",
+      "passDefenseRank": "3",
+      "passOffenseRank": "11",
+      "rushDefenseRank": "7",
+      "rushOffenseRank": "3",
+      "score": "26",
       "spread": "-2.5"
      }
     ]
    },
    {
-    "gameSecondsRemaining": "3600",
+    "gameSecondsRemaining": "0",
     "kickoff": "1795716000",
     "team": [
      {
@@ -41,11 +41,11 @@
       "id": "CHI",
       "inRedZone": "0",
       "isHome": "0",
-      "passDefenseRank": "10",
-      "passOffenseRank": "14",
-      "rushDefenseRank": "7",
-      "rushOffenseRank": "3",
-      "score": "",
+      "passDefenseRank": "18",
+      "passOffenseRank": "12",
+      "rushDefenseRank": "13",
+      "rushOffenseRank": "4",
+      "score": "39",
       "spread": "-2.5"
      },
      {
@@ -53,17 +53,17 @@
       "id": "DET",
       "inRedZone": "0",
       "isHome": "1",
-      "passDefenseRank": "25",
-      "passOffenseRank": "5",
-      "rushDefenseRank": "6",
-      "rushOffenseRank": "8",
-      "score": "",
+      "passDefenseRank": "28",
+      "passOffenseRank": "3",
+      "rushDefenseRank": "10",
+      "rushOffenseRank": "5",
+      "score": "35",
       "spread": "2.5"
      }
     ]
    },
    {
-    "gameSecondsRemaining": "3600",
+    "gameSecondsRemaining": "0",
     "kickoff": "1795728600",
     "team": [
      {
@@ -71,11 +71,11 @@
       "id": "PHI",
       "inRedZone": "0",
       "isHome": "0",
-      "passDefenseRank": "16",
-      "passOffenseRank": "28",
+      "passDefenseRank": "21",
+      "passOffenseRank": "27",
       "rushDefenseRank": "21",
       "rushOffenseRank": "29",
-      "score": "",
+      "score": "39",
       "spread": "8.5"
      },
      {
@@ -83,17 +83,17 @@
       "id": "DAL",
       "inRedZone": "0",
       "isHome": "1",
-      "passDefenseRank": "26",
+      "passDefenseRank": "29",
       "passOffenseRank": "2",
-      "rushDefenseRank": "32",
-      "rushOffenseRank": "20",
-      "score": "",
+      "rushDefenseRank": "31",
+      "rushOffenseRank": "18",
+      "score": "38",
       "spread": "-8.5"
      }
     ]
    },
    {
-    "gameSecondsRemaining": "3600",
+    "gameSecondsRemaining": "0",
     "kickoff": "1795742400",
     "team": [
      {
@@ -101,11 +101,11 @@
       "id": "KCC",
       "inRedZone": "0",
       "isHome": "0",
-      "passDefenseRank": "7",
-      "passOffenseRank": "4",
-      "rushDefenseRank": "9",
-      "rushOffenseRank": "5",
-      "score": "",
+      "passDefenseRank": "6",
+      "passOffenseRank": "7",
+      "rushDefenseRank": "11",
+      "rushOffenseRank": "8",
+      "score": "10",
       "spread": "3"
      },
      {
@@ -113,17 +113,17 @@
       "id": "BUF",
       "inRedZone": "0",
       "isHome": "1",
-      "passDefenseRank": "18",
-      "passOffenseRank": "12",
-      "rushDefenseRank": "8",
+      "passDefenseRank": "13",
+      "passOffenseRank": "14",
+      "rushDefenseRank": "6",
       "rushOffenseRank": "2",
-      "score": "",
+      "score": "13",
       "spread": "-3.0"
      }
     ]
    },
    {
-    "gameSecondsRemaining": "3600",
+    "gameSecondsRemaining": "0",
     "kickoff": "1795809600",
     "team": [
      {
@@ -131,11 +131,11 @@
       "id": "DEN",
       "inRedZone": "0",
       "isHome": "0",
-      "passDefenseRank": "23",
+      "passDefenseRank": "14",
       "passOffenseRank": "25",
       "rushDefenseRank": "22",
-      "rushOffenseRank": "25",
-      "score": "",
+      "rushOffenseRank": "27",
+      "score": "5",
       "spread": "-3"
      },
      {
@@ -143,11 +143,11 @@
       "id": "PIT",
       "inRedZone": "0",
       "isHome": "1",
-      "passDefenseRank": "23",
-      "passOffenseRank": "22",
+      "passDefenseRank": "15",
+      "passOffenseRank": "24",
       "rushDefenseRank": "3",
       "rushOffenseRank": "16",
-      "score": "",
+      "score": "27",
       "spread": "3.0"
      }
     ]

@@ -133,6 +133,11 @@
       "originalPickFor": "0006",
       "round": "1",
       "year": "2028"
+     },
+     {
+      "originalPickFor": "0009",
+      "round": "3",
+      "year": "2029"
      }
     ],
     "id": "0001"
@@ -228,12 +233,12 @@
       "originalPickFor": "0007",
       "round": "4",
       "year": "2029"
-     }
-    ],
-    "id": "0002"
-   },
-   {
-    "futureDraftPick": [
+     },
+     {
+      "originalPickFor": "0010",
+      "round": "2",
+      "year": "2027"
+     },
      {
       "originalPickFor": "0003",
       "round": "3",
@@ -243,7 +248,12 @@
       "originalPickFor": "0003",
       "round": "3",
       "year": "2028"
-     },
+     }
+    ],
+    "id": "0002"
+   },
+   {
+    "futureDraftPick": [
      {
       "originalPickFor": "0003",
       "round": "1",
@@ -362,11 +372,6 @@
      {
       "originalPickFor": "0010",
       "round": "1",
-      "year": "2027"
-     },
-     {
-      "originalPickFor": "0010",
-      "round": "2",
       "year": "2027"
      },
      {
@@ -509,18 +514,11 @@
     "id": "0008"
    },
    {
-    "futureDraftPick": [
-     {
-      "originalPickFor": "0009",
-      "round": "3",
-      "year": "2029"
-     },
-     {
-      "originalPickFor": "0009",
-      "round": "4",
-      "year": "2029"
-     }
-    ],
+    "futureDraftPick": {
+     "originalPickFor": "0009",
+     "round": "4",
+     "year": "2029"
+    },
     "id": "0009"
    },
    {
